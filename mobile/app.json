@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Berea",
-    "slug": "genesis-quiz",
+    "slug": "berea",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,8 +23,12 @@
     },
     "extra": {
       "eas": {
-        "projectId": "7618910e-eb58-4047-b743-ff28b116328d"
+        "projectId": "99cccce9-71b8-496f-8c95-c99f7facfee8"
       }
-    }
+    },
+    "plugins": [
+      "expo-asset"
+    ],
+    "owner": "eliasgv03"
   }
 }
