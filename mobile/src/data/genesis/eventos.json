@@ -1,0 +1,1090 @@
+[
+  {
+    "context": "Génesis abre presentando a Dios como creador, y el primer acto creador registrado es la palabra que trae luz.",
+    "explanation": "La respuesta es la luz porque antes de crear lumbreras específicas, Dios separa la luz de las tinieblas y llama a la luz día.",
+    "id": 1,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Según Génesis 1, qué creó Dios en el primer día?",
+    "options": [
+      "La luz",
+      "El sol y la luna",
+      "Los animales",
+      "El ser humano"
+    ],
+    "answer": "La luz",
+    "reference": "Génesis 1:3-5"
+  },
+  {
+    "context": "Después del diluvio, Dios establece un pacto con Noé, su descendencia y todo ser viviente.",
+    "explanation": "La señal del pacto es el arco iris, que recuerda la promesa divina de no volver a destruir toda carne con aguas de diluvio.",
+    "id": 4,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué señal puso Dios como pacto después del diluvio?",
+    "options": [
+      "El arco iris",
+      "Una columna de fuego",
+      "Una estrella",
+      "Una escalera"
+    ],
+    "answer": "El arco iris",
+    "reference": "Génesis 9:12-17"
+  },
+  {
+    "context": "En el primer día de la creación, Dios separa la luz de las tinieblas y evalúa su obra.",
+    "explanation": "La palabra correcta es buena. La repetición de esta frase muestra que la creación de Dios es ordenada y aprobada por Él.",
+    "id": 6,
+    "category": "evento",
+    "type": "completar",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'Y vio Dios que la luz era ____'.",
+    "options": [
+      "buena",
+      "eterna",
+      "perfecta",
+      "grande"
+    ],
+    "answer": "buena",
+    "reference": "Génesis 1:4"
+  },
+  {
+    "context": "Génesis 22 narra una prueba intensa de fe relacionada con Isaac, el hijo de la promesa.",
+    "explanation": "Dios pidió a Abraham ofrecer a Isaac, pero luego proveyó un carnero, mostrando que la promesa dependía de la fidelidad divina.",
+    "id": 10,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué pidió Dios a Abraham que ofreciera en Moriah?",
+    "options": [
+      "A Isaac",
+      "A Ismael",
+      "Un becerro",
+      "Su heredad"
+    ],
+    "answer": "A Isaac",
+    "reference": "Génesis 22:1-2"
+  },
+  {
+    "context": "Babel muestra a la humanidad buscando unidad y seguridad lejos del mandato de llenar la tierra.",
+    "explanation": "Dios confundió las lenguas y dispersó a los hombres. El juicio frena el orgullo colectivo y cumple el propósito de esparcirlos.",
+    "id": 13,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué sucedió en Babel?",
+    "options": [
+      "Dios confundio el lenguaje de los hombres",
+      "Noé salió del arca",
+      "José interpretó sueños",
+      "Jacob luchó con Dios"
+    ],
+    "answer": "Dios confundio el lenguaje de los hombres",
+    "reference": "Génesis 11:1-9"
+  },
+  {
+    "context": "Jacob huye de su casa y, en Bet-el, Dios le confirma la promesa dada a Abraham e Isaac.",
+    "explanation": "Jacob vio una escalera que llegaba al cielo con ángeles subiendo y bajando, señal de la presencia y promesa de Dios.",
+    "id": 17,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué vio Jacob en su sueño en Bet-el?",
+    "options": [
+      "Una escalera que llegaba al cielo",
+      "Siete vacas flacas",
+      "Un arca sobre aguas",
+      "Una zarza ardiendo"
+    ],
+    "answer": "Una escalera que llegaba al cielo",
+    "reference": "Génesis 28:10-17"
+  },
+  {
+    "context": "Jacob amaba especialmente a José, y ese favoritismo aumentó la envidia de sus hermanos.",
+    "explanation": "La túnica de diversos colores fue el regalo especial. En el relato funciona como símbolo del trato preferente de José.",
+    "id": 21,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué regalo especial hizo Jacob a José?",
+    "options": [
+      "Una túnica de diversos colores",
+      "Un anillo real",
+      "Un arco",
+      "Una copa de plata"
+    ],
+    "answer": "Una túnica de diversos colores",
+    "reference": "Génesis 37:3"
+  },
+  {
+    "context": "José está en la cárcel en Egipto cuando dos funcionarios de Faraón tienen sueños inquietantes.",
+    "explanation": "José interpretó sus sueños y afirmó que las interpretaciones pertenecen a Dios.",
+    "id": 22,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué interpretó José al copero y al panadero?",
+    "options": [
+      "Sus sueños",
+      "Una profecía escrita",
+      "La ley",
+      "Un enigma de Sanson"
+    ],
+    "answer": "Sus sueños",
+    "reference": "Génesis 40"
+  },
+  {
+    "context": "Faraón sueña con vacas y espigas, y José interpreta ambos sueños como un mismo mensaje de Dios.",
+    "explanation": "Las siete vacas gordas representan siete años de abundancia que vendrían antes de siete años de hambre.",
+    "id": 23,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué representaban las siete vacas gordas en el sueño de Faraón?",
+    "options": [
+      "Siete años de abundancia",
+      "Siete tribus",
+      "Siete plagas",
+      "Siete rios"
+    ],
+    "answer": "Siete años de abundancia",
+    "reference": "Génesis 41:25-32"
+  },
+  {
+    "context": "Después de matar a Abel, Caín es confrontado por Dios y recibe una sentencia sobre su vida y trabajo.",
+    "explanation": "Caín sería errante y extranjero. El juicio afecta su relación con la tierra y con la comunidad humana.",
+    "id": 31,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué consecuencia recibió Caín después de matar a Abel?",
+    "options": [
+      "Seria errante y extranjero en la tierra",
+      "Seria rey de Egipto",
+      "Recibiria la primogenitura",
+      "Entraria al arca"
+    ],
+    "answer": "Seria errante y extranjero en la tierra",
+    "reference": "Génesis 4:12"
+  },
+  {
+    "context": "El diluvio llega como juicio sobre una tierra corrompida, mientras Noé y su familia entran en el arca.",
+    "explanation": "Llovió cuarenta días y cuarenta noches. Ese periodo marca la intensidad inicial del juicio por agua.",
+    "id": 34,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Cuántos días y noches llovió durante el diluvio?",
+    "options": [
+      "Cuarenta",
+      "Siete",
+      "Doce",
+      "Ciento veinte"
+    ],
+    "answer": "Cuarenta",
+    "reference": "Génesis 7:12"
+  },
+  {
+    "context": "Cuando las aguas empiezan a disminuir, Noé envía aves para discernir el estado de la tierra.",
+    "explanation": "Primero envió un cuervo. Después envió una paloma, que más tarde volvió con una hoja de olivo.",
+    "id": 35,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué ave envió Noé primero desde el arca?",
+    "options": [
+      "Un cuervo",
+      "Una paloma",
+      "Un águila",
+      "Una golondrina"
+    ],
+    "answer": "Un cuervo",
+    "reference": "Génesis 8:7"
+  },
+  {
+    "context": "El siervo ora junto al pozo pidiendo una señal concreta para reconocer a la mujer indicada.",
+    "explanation": "La señal fue que la joven diera agua al siervo y también a sus camellos, mostrando servicio y disposición.",
+    "id": 39,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué señal pidió el siervo de Abraham junto al pozo?",
+    "options": [
+      "Qué la joven le diera agua a el y a sus camellos",
+      "Qué cayera fuego del cielo",
+      "Qué apareciera una estrella",
+      "Qué el pozo se secara"
+    ],
+    "answer": "Qué la joven le diera agua a el y a sus camellos",
+    "reference": "Génesis 24:12-20"
+  },
+  {
+    "context": "Isaac quiere bendecir a Esaú, pero Rebeca y Jacob preparan un engaño para recibir la bendición.",
+    "explanation": "Jacob se disfrazó y llevó comida a Isaac. El episodio muestra conflicto familiar y decisiones moralmente complejas.",
+    "id": 41,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Por qué Isaac bendijo a Jacob pensando que era Esaú?",
+    "options": [
+      "Jacob se disfrazo y le llevó comida",
+      "Esaú renuncio publicamente a la bendición",
+      "Rebeca revelo una visión a Isaac",
+      "Isaac echo suertes"
+    ],
+    "answer": "Jacob se disfrazo y le llevó comida",
+    "reference": "Génesis 27"
+  },
+  {
+    "context": "Raquel muere al dar a luz y nombra al niño desde su dolor.",
+    "explanation": "Lo llamó Benoni, hijo de mi tristeza, pero Jacob cambió el nombre a Benjamín.",
+    "id": 46,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué nombre puso Raquel a su último hijo antes de morir?",
+    "options": [
+      "Benoni",
+      "Benjamín",
+      "José",
+      "Efraín"
+    ],
+    "answer": "Benoni",
+    "reference": "Génesis 35:18"
+  },
+  {
+    "context": "Los hermanos de José quieren hacer creer a Jacob que José murió devorado por una bestia.",
+    "explanation": "Mancharon la túnica con sangre de cabrito. La mentira profundizó el dolor de Jacob.",
+    "id": 48,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué hicieron los hermanos de José con su túnica?",
+    "options": [
+      "La mancharon con sangre de cabrito",
+      "La quemaron en Egipto",
+      "La entregaron a Faraón",
+      "La escondieron en una cueva"
+    ],
+    "answer": "La mancharon con sangre de cabrito",
+    "reference": "Génesis 37:31"
+  },
+  {
+    "context": "José interpreta los sueños de Faraón y propone un plan para enfrentar los años de hambre.",
+    "explanation": "Faraón lo puso como gobernador sobre Egipto. José queda bajo Faraón, pero con autoridad sobre la administración del reino.",
+    "id": 53,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué cargo recibió José después de interpretar el sueño de Faraón?",
+    "options": [
+      "Gobernador sobre Egipto bajo Faraón",
+      "Sacerdote de Bet-el",
+      "Capitan de los pastores",
+      "Rey de Canaan"
+    ],
+    "answer": "Gobernador sobre Egipto bajo Faraón",
+    "reference": "Génesis 41:39-44"
+  },
+  {
+    "context": "El hambre no afecta solo a Egipto; también alcanza a Canaán, donde vive la familia de Jacob.",
+    "explanation": "Los hermanos van a Egipto por alimento. Sin saberlo, se encontrarán con José, a quien habían vendido.",
+    "id": 54,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Por qué los hermanos de José fueron a Egipto?",
+    "options": [
+      "Porque había hambre en Canaan",
+      "Para construir Babel",
+      "Para buscar a Rebeca",
+      "Para ofrecer a Isaac"
+    ],
+    "answer": "Porque había hambre en Canaan",
+    "reference": "Génesis 42:1-3"
+  },
+  {
+    "context": "José organiza una prueba final colocando su copa en el saco del hermano menor.",
+    "explanation": "La copa fue puesta en el saco de Benjamín. La reacción de los hermanos revela su disposición a protegerlo.",
+    "id": 56,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "En el saco de quién mandó José poner su copa de plata?",
+    "options": [
+      "Benjamín",
+      "Rubén",
+      "Simeón",
+      "Judá"
+    ],
+    "answer": "Benjamín",
+    "reference": "Génesis 44:1-12"
+  },
+  {
+    "context": "José coloca a sus hijos según el orden esperado, pero Jacob cruza las manos al bendecirlos.",
+    "explanation": "Jacob puso la mano derecha sobre Efraín, el menor, mostrando que la bendición no sigue siempre el orden humano esperado.",
+    "id": 60,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "A cuál de los hijos de José puso Jacob su mano derecha?",
+    "options": [
+      "Efraín",
+      "Manasés",
+      "Benjamín",
+      "Judá"
+    ],
+    "answer": "Efraín",
+    "reference": "Génesis 48:13-20"
+  },
+  {
+    "context": "En Génesis 15 Dios formaliza su pacto con Abram mediante una escena solemne con animales partidos.",
+    "explanation": "Los animales fueron becerra, cabra, carnero, tórtola y palomino. El rito subraya la seriedad del pacto.",
+    "id": 63,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué animales preparo Abram cuando Dios hizo pacto con el en Génesis 15?",
+    "options": [
+      "Becerra, cabra, carnero, tortola y palomino",
+      "Cordero, pez y becerro",
+      "Caballo, camello y asno",
+      "Siete ovejas y siete bueyes"
+    ],
+    "answer": "Becerra, cabra, carnero, tortola y palomino",
+    "reference": "Génesis 15:9"
+  },
+  {
+    "context": "Abraham está junto a los encinos de Mamre cuando recibe a tres visitantes.",
+    "explanation": "Abraham les ofreció hospitalidad y comida. La escena prepara el anuncio del nacimiento de Isaac y el juicio sobre Sodoma.",
+    "id": 66,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué hizo Abraham cuando tres visitantes llegaron a el en Mamre?",
+    "options": [
+      "Les ofreció hospitalidad y comida",
+      "Los envió a Egipto",
+      "Los encerro en una torre",
+      "Les vendió una cueva"
+    ],
+    "answer": "Les ofreció hospitalidad y comida",
+    "reference": "Génesis 18:1-8"
+  },
+  {
+    "context": "Después de que Dios provee el carnero en lugar de Isaac, Abraham nombra el lugar según esa provisión.",
+    "explanation": "El nombre fue Jehová-jireh, que expresa que Jehová provee.",
+    "id": 70,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué nombre dio Abraham al lugar dónde Dios proveyo el carnero?",
+    "options": [
+      "Jehová-jireh",
+      "Bet-el",
+      "Peniel",
+      "Beer-seba"
+    ],
+    "answer": "Jehová-jireh",
+    "reference": "Génesis 22:14"
+  },
+  {
+    "context": "Abraham y Abimelec hacen un pacto después de un conflicto por un pozo.",
+    "explanation": "Beer-seba se relaciona con el pozo del juramento. El nombre recuerda el pacto hecho en ese lugar.",
+    "id": 73,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué pozo dio nombre a Beer-seba en la historia de Abraham y Abimelec?",
+    "options": [
+      "El pozo del juramento",
+      "El pozo de Jacob",
+      "El pozo de Mara",
+      "El pozo de Bet-el"
+    ],
+    "answer": "El pozo del juramento",
+    "reference": "Génesis 21:25-31"
+  },
+  {
+    "context": "José muere en Egipto, pero sus últimas palabras miran hacia la promesa de Dios a los patriarcas.",
+    "explanation": "Pidió que llevaran sus huesos cuando Dios visitara a Israel. Su petición expresa esperanza en la salida futura de Egipto.",
+    "id": 76,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué pidió José sobre sus huesos antes de morir?",
+    "options": [
+      "Qué los llevaran cuando Dios visitara a Israel",
+      "Qué los enterraran en Egipto para siempre",
+      "Qué los echaran al Nilo",
+      "Qué los llevaran a Babel"
+    ],
+    "answer": "Qué los llevaran cuando Dios visitara a Israel",
+    "reference": "Génesis 50:24-26"
+  },
+  {
+    "context": "El segundo día de la creación se enfoca en la expansión que separa aguas.",
+    "explanation": "Dios separó las aguas de las aguas. Este acto forma el firmamento y sigue el patrón de ordenar la creación.",
+    "id": 80,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué separó Dios el segundo día de la creación?",
+    "options": [
+      "Las aguas de las aguas",
+      "La luz de las tinieblas",
+      "La tierra del mar",
+      "El sol de la luna"
+    ],
+    "answer": "Las aguas de las aguas",
+    "reference": "Génesis 1:6-8"
+  },
+  {
+    "context": "La pregunta está dentro del relato ordenado de los seis días de la creación.",
+    "explanation": "El cuarto día Dios puso las lumbreras en la expansion de los cielos para separar el día de la noche y marcar tiempos.",
+    "id": 81,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué creó Dios en el cuarto día?",
+    "options": [
+      "Los peces",
+      "Las lumbreras para señales, días y años",
+      "El firmamento",
+      "Los arboles frutales"
+    ],
+    "answer": "Las lumbreras para señales, días y años",
+    "reference": "Génesis 1:14-19"
+  },
+  {
+    "context": "Génesis presenta a Dios llenando los espacios que había formado antes.",
+    "explanation": "El quinto día se llenan las aguas y los cielos con seres vivientes.",
+    "id": 82,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué creó Dios en el quinto día?",
+    "options": [
+      "Aves y criaturas marinas",
+      "El hombre y la mujer",
+      "La luz",
+      "La tierra seca"
+    ],
+    "answer": "Aves y criaturas marinas",
+    "reference": "Génesis 1:20-23"
+  },
+  {
+    "context": "El mandato aparece antes de la desobediencia narrada en Génesis 3.",
+    "explanation": "La prohibición define una prueba de confianza y obediencia a la palabra de Dios.",
+    "id": 85,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "De qué árbol no debían comer Adán y Eva?",
+    "options": [
+      "Del arbol de la vida",
+      "De todo arbol frutal",
+      "Del arbol de la ciencia del bien y del mal",
+      "Del arbol de Mamre"
+    ],
+    "answer": "Del arbol de la ciencia del bien y del mal",
+    "reference": "Génesis 2:16-17"
+  },
+  {
+    "context": "La escena ocurre después de comer del fruto prohibido.",
+    "explanation": "El esconderse muestra vergüenza, temor y ruptura en la relación con Dios.",
+    "id": 87,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué hicieron Adán y Eva al oir la voz de Dios después de pecar?",
+    "options": [
+      "Construyeron un altar",
+      "Se escondieron",
+      "Salieron de Edén voluntariamente",
+      "Confesaron inmediatamente"
+    ],
+    "answer": "Se escondieron",
+    "reference": "Génesis 3:8"
+  },
+  {
+    "context": "Dios pregunta a Caín por Abel después del asesinato.",
+    "explanation": "La respuesta revela dureza y rechazo de responsabilidad fraternal.",
+    "id": 91,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué frase dijo Caín para evadir responsabilidad por Abel?",
+    "options": [
+      "Yo soy el menor",
+      "Soy yo acaso guarda de mi hermano?",
+      "Jehová proveerá",
+      "Mi pecado es pequeno"
+    ],
+    "answer": "Soy yo acaso guarda de mi hermano?",
+    "reference": "Génesis 4:9"
+  },
+  {
+    "context": "Génesis explica por qué vino el juicio del diluvio.",
+    "explanation": "El texto describe una corrupción profunda y continua del corazon humano.",
+    "id": 94,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué vio Dios sobre la maldad humana antes del diluvio?",
+    "options": [
+      "Qué era pequena",
+      "Qué estaba solo en Babel",
+      "Qué era mucha en la tierra",
+      "Qué no tenía consecuencias"
+    ],
+    "answer": "Qué era mucha en la tierra",
+    "reference": "Génesis 6:5"
+  },
+  {
+    "context": "Dios da instrucciones concretas a Noé para preservar vida durante el juicio.",
+    "explanation": "El arca no nace de iniciativa humana, sino de una instruccion detallada de Dios.",
+    "id": 96,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Con qué material debía hacer Noé el arca?",
+    "options": [
+      "Madera de gofer",
+      "Cedro del Libaño",
+      "Piedra de Bet-el",
+      "Acacia del Sinai"
+    ],
+    "answer": "Madera de gofer",
+    "reference": "Génesis 6:14"
+  },
+  {
+    "context": "Noé envía aves para discernir si las aguas habían disminuido.",
+    "explanation": "La hoja de olivo indicaba que la tierra comenzaba a secarse y brotar.",
+    "id": 98,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué trajo la paloma a Noé cuando volvio al arca?",
+    "options": [
+      "Una rama de olivo",
+      "Una piedra",
+      "Una espiga de trigo",
+      "Una túnica"
+    ],
+    "answer": "Una rama de olivo",
+    "reference": "Génesis 8:11"
+  },
+  {
+    "context": "La primera acción narrada de Noé después del diluvio es adoración.",
+    "explanation": "Noé responde a la preservacion de Dios con sacrificio y gratitud.",
+    "id": 99,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué hizo Noé al salir del arca?",
+    "options": [
+      "Edifico un altar",
+      "Construyó Babel",
+      "Volvio a entrar al arca",
+      "Fue a Egipto"
+    ],
+    "answer": "Edifico un altar",
+    "reference": "Génesis 8:20"
+  },
+  {
+    "context": "La promesa a Abram contrasta con Babel, dónde los hombres querían hacerse nombre.",
+    "explanation": "En Génesis, el nombre verdadero y la bendición vienen de Dios, no de la autosuficiencia humana.",
+    "id": 105,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué prometió Dios hacer del nombre de Abram?",
+    "options": [
+      "Engrandecerlo",
+      "Ocultarlo",
+      "Borrarlo",
+      "Cambiarlo por Jacob"
+    ],
+    "answer": "Engrandecerlo",
+    "reference": "Génesis 12:2"
+  },
+  {
+    "context": "Abram llega a la tierra prometida y Dios reafirma la promesa.",
+    "explanation": "El altar expresa adoración y respuesta de fe a la palabra de Dios.",
+    "id": 106,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué construyó Abram cuando Jehová se le apareció en Siquem?",
+    "options": [
+      "Un altar",
+      "Un arca",
+      "Una torre",
+      "Una cárcel"
+    ],
+    "answer": "Un altar",
+    "reference": "Génesis 12:6-7"
+  },
+  {
+    "context": "Lot fue capturado durante una guerra entre reyes.",
+    "explanation": "Abram actúa con valentía para rescatar a su sobrino y recuperar los bienes.",
+    "id": 109,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "A cuántos hombres armados llevó Abram para rescatar a Lot?",
+    "options": [
+      "318",
+      "70",
+      "12",
+      "400"
+    ],
+    "answer": "318",
+    "reference": "Génesis 14:14"
+  },
+  {
+    "context": "Dios confirma su pacto y cambia los nombres de Abram y Sarai.",
+    "explanation": "La circuncisión funciona como señal externa de pertenencia al pacto.",
+    "id": 112,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué señal del pacto recibió Abraham en Génesis 17?",
+    "options": [
+      "La circuncisión",
+      "El arco iris",
+      "Una escalera",
+      "Una copa de plata"
+    ],
+    "answer": "La circuncisión",
+    "reference": "Génesis 17:9-14"
+  },
+  {
+    "context": "Rebeca llega con el siervo de Abraham para casarse con Isaac.",
+    "explanation": "El gesto marca el encuentro formal con Isaac y el cierre de la misión del siervo.",
+    "id": 118,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo Rebeca cuando vio a Isaac?",
+    "options": [
+      "Se cubrió con el velo",
+      "Le dio su primogenitura",
+      "Construyó un altar",
+      "Huyó a Egipto"
+    ],
+    "answer": "Se cubrió con el velo",
+    "reference": "Génesis 24:64-65"
+  },
+  {
+    "context": "Isaac vive tensiones por agua y territorio en la tierra de los filisteos.",
+    "explanation": "Reabrir los pozos conecta a Isaac con la herencia y peregrinaje de Abraham.",
+    "id": 120,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué abrió Isaac nuevamente en Gerar?",
+    "options": [
+      "Los pozos de agua de Abraham",
+      "La torre de Babel",
+      "La cueva de Macpela",
+      "El arca de Noé"
+    ],
+    "answer": "Los pozos de agua de Abraham",
+    "reference": "Génesis 26:18"
+  },
+  {
+    "context": "El viaje a Egipto era decisivo para la familia de Jacob y necesitaba confirmación divina.",
+    "explanation": "Jacob ofreció sacrificios en Beer-seba. Luego Dios le habló en visiones de noche y confirmó que iría con él.",
+    "id": 136,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo Jacob en Beer-seba antes de descender a Egipto?",
+    "options": [
+      "Ofreció sacrificios al Dios de su padre Isaac",
+      "Construyó una torre",
+      "Vendió su primogenitura",
+      "Compró la cueva de Macpela"
+    ],
+    "answer": "Ofreció sacrificios al Dios de su padre Isaac",
+    "reference": "Génesis 46:1"
+  },
+  {
+    "context": "Abraham había intercedido por Sodoma antes de la destrucción.",
+    "explanation": "Abraham vuelve al lugar de intercesión y mira hacia Sodoma. La escena conecta oración, juicio y memoria del diálogo con Dios.",
+    "id": 143,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hizo Abraham temprano por la mañana después del juicio sobre Sodoma?",
+    "options": [
+      "Volvió al lugar donde había estado delante de Jehová",
+      "Entró en Sodoma",
+      "Bajó a Egipto",
+      "Compró Macpela"
+    ],
+    "answer": "Volvió al lugar donde había estado delante de Jehová",
+    "reference": "Génesis 19:27"
+  },
+  {
+    "context": "Abimelec toma a Sara sin saber toda la verdad, pero Dios protege su pacto.",
+    "explanation": "Dios le habló en sueños y le advirtió que Sara era mujer de Abraham.",
+    "id": 146,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo Dios para advertir a Abimelec acerca de Sara?",
+    "options": [
+      "Le habló en sueños",
+      "Envió un diluvio",
+      "Confundió su lengua",
+      "Lo llevó a Peniel"
+    ],
+    "answer": "Le habló en sueños",
+    "reference": "Génesis 20:3"
+  },
+  {
+    "context": "Los siervos de Isaac enfrentan disputas por varios pozos en Gerar.",
+    "explanation": "Isaac llamó Rehobot al pozo porque dijo que Jehová les había prosperado y fructificarían en la tierra.",
+    "id": 150,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué nombre dio Isaac al pozo donde finalmente no riñeron con él?",
+    "options": [
+      "Rehobot",
+      "Esek",
+      "Sitna",
+      "Peniel"
+    ],
+    "answer": "Rehobot",
+    "reference": "Génesis 26:22"
+  },
+  {
+    "context": "Rebeca escucha que Isaac quiere bendecir a Esaú y prepara un plan con Jacob.",
+    "explanation": "Rebeca pidió dos cabritos para preparar un guisado como le gustaba a Isaac.",
+    "id": 154,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué preparó Rebeca para que Jacob lo llevara a Isaac?",
+    "options": [
+      "Dos cabritos del rebaño",
+      "Una copa de plata",
+      "Una rama de olivo",
+      "Una túnica de José"
+    ],
+    "answer": "Dos cabritos del rebaño",
+    "reference": "Génesis 27:9"
+  },
+  {
+    "context": "Jacob sale de la casa de Labán sin avisarle directamente, y Raquel toma objetos de su padre.",
+    "explanation": "Raquel tomó los ídolos domésticos. El episodio muestra tensiones religiosas y familiares al salir de Harán.",
+    "id": 158,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué tomó Raquel de la casa de su padre cuando Jacob salió de Harán?",
+    "options": [
+      "Los ídolos domésticos",
+      "La copa de José",
+      "El cetro de Judá",
+      "El arco iris"
+    ],
+    "answer": "Los ídolos domésticos",
+    "reference": "Génesis 31:19"
+  },
+  {
+    "context": "José todavía no se ha revelado a sus hermanos, pero ve a Benjamín, su hermano de madre.",
+    "explanation": "José se conmovió y lloró en privado. La escena muestra la tensión entre prueba, dolor y amor familiar.",
+    "id": 161,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo José cuando vio a Benjamín entre sus hermanos?",
+    "options": [
+      "Se conmovió profundamente y buscó dónde llorar",
+      "Lo encarceló inmediatamente",
+      "Lo envió de vuelta a Canaán",
+      "Le quitó la primogenitura"
+    ],
+    "answer": "Se conmovió profundamente y buscó dónde llorar",
+    "reference": "Génesis 43:29-30"
+  },
+  {
+    "context": "José entiende que aún quedan años de hambre y quiere preservar a su familia.",
+    "explanation": "José les pide traer a Jacob y a toda la familia para sostenerlos durante el hambre.",
+    "id": 165,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué pidió José a sus hermanos que hicieran después de revelarse?",
+    "options": [
+      "Que trajeran a su padre a Egipto",
+      "Que destruyeran Gosén",
+      "Que volvieran sin Benjamín",
+      "Que construyeran una torre"
+    ],
+    "answer": "Que trajeran a su padre a Egipto",
+    "reference": "Génesis 45:9-13"
+  },
+  {
+    "context": "El episodio de Dina desemboca en una respuesta violenta de sus hermanos.",
+    "explanation": "Simeón y Leví mataron a los varones de la ciudad. Jacob reprende el peligro y la deshonra que esa acción trae sobre la familia.",
+    "id": 167,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hicieron Simeón y Leví después del agravio contra Dina?",
+    "options": [
+      "Mataron a los varones de Siquem",
+      "Vendieron a Jacob",
+      "Huyeron a Egipto",
+      "Construyeron un altar en Babel"
+    ],
+    "answer": "Mataron a los varones de Siquem",
+    "reference": "Génesis 34:25-31"
+  },
+  {
+    "context": "José administra la venta de alimentos durante una hambruna severa.",
+    "explanation": "José recogió el dinero para Faraón. La narración muestra su papel administrativo en medio de la crisis.",
+    "id": 171,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo José con el dinero durante los años de hambre en Egipto?",
+    "options": [
+      "Lo recogió para la casa de Faraón",
+      "Lo repartió entre sus hermanos",
+      "Lo enterró en Macpela",
+      "Lo envió a Babel"
+    ],
+    "answer": "Lo recogió para la casa de Faraón",
+    "reference": "Génesis 47:13-14"
+  },
+  {
+    "context": "Jacob muere después de bendecir a sus hijos y pedir ser sepultado en Canaán.",
+    "explanation": "José llora sobre su padre. El texto muestra duelo real y honra familiar.",
+    "id": 174,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo José cuando murió Jacob?",
+    "options": [
+      "Se echó sobre su rostro, lloró y lo besó",
+      "Volvió a vender a sus hermanos",
+      "Huyó a Harán",
+      "Construyó la torre de Babel"
+    ],
+    "answer": "Se echó sobre su rostro, lloró y lo besó",
+    "reference": "Génesis 50:1"
+  },
+  {
+    "context": "Jacob recibe honra funeraria en Egipto por la posición de José.",
+    "explanation": "Los egipcios lo lloraron setenta días. El relato subraya la importancia pública de José y su familia.",
+    "id": 175,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cuántos días lloraron los egipcios a Jacob?",
+    "options": [
+      "Setenta días",
+      "Siete días",
+      "Cuarenta días",
+      "Doce días"
+    ],
+    "answer": "Setenta días",
+    "reference": "Génesis 50:3"
+  },
+  {
+    "context": "La muerte de Jacob despierta temor en los hermanos por lo que habían hecho a José.",
+    "explanation": "Ellos envían un mensaje apelando al perdón. La respuesta de José confirma su misericordia y su confianza en Dios.",
+    "id": 179,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hicieron los hermanos de José cuando temieron su venganza tras la muerte de Jacob?",
+    "options": [
+      "Enviaron un mensaje pidiendo perdón",
+      "Lo vendieron otra vez",
+      "Huyeron a Babel",
+      "Pidieron a Faraón que lo encarcelara"
+    ],
+    "answer": "Enviaron un mensaje pidiendo perdón",
+    "reference": "Génesis 50:15-17"
+  },
+  {
+    "context": "El séptimo día aparece después de completar cielos, tierra y todo su ejército.",
+    "explanation": "Dios bendijo y santificó el séptimo día porque reposó de toda su obra creadora.",
+    "id": 187,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué hizo Dios con el séptimo día?",
+    "options": [
+      "Lo bendijo y lo santificó",
+      "Lo llamó Babel",
+      "Lo destruyó con agua",
+      "Lo entregó a Faraón"
+    ],
+    "answer": "Lo bendijo y lo santificó",
+    "reference": "Génesis 2:3"
+  },
+  {
+    "context": "Después de comer del fruto, se abren sus ojos y aparece la vergüenza.",
+    "explanation": "Cosieron hojas de higuera para cubrirse. El gesto revela ruptura, vergüenza y una cobertura insuficiente hecha por ellos mismos.",
+    "id": 193,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hicieron Adán y Eva al darse cuenta de que estaban desnudos?",
+    "options": [
+      "Cosieron hojas de higuera",
+      "Construyeron un arca",
+      "Salieron a buscar a Caín",
+      "Compraron Macpela"
+    ],
+    "answer": "Cosieron hojas de higuera",
+    "reference": "Génesis 3:7"
+  },
+  {
+    "context": "Después de la expulsión del huerto, el acceso al árbol de la vida queda guardado.",
+    "explanation": "Dios puso querubines y una espada encendida. El gesto muestra juicio y evita que el ser humano permanezca indefinidamente en su estado caído.",
+    "id": 199,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué puso Dios al oriente del huerto de Edén para guardar el camino al árbol de la vida?",
+    "options": [
+      "Querubines y una espada encendida",
+      "Una torre y un pozo",
+      "Un arco iris",
+      "Una copa de plata"
+    ],
+    "answer": "Querubines y una espada encendida",
+    "reference": "Génesis 3:24"
+  },
+  {
+    "context": "Lot es capturado durante una guerra de reyes.",
+    "explanation": "Abraham actúa para rescatar a Lot y recuperar los bienes.",
+    "id": 274,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo Abraham cuando oyó que Lot había sido capturado?",
+    "options": [
+      "Armó a sus criados y lo rescató",
+      "Se quedó en Egipto",
+      "Vendió Macpela",
+      "Construyó Babel"
+    ],
+    "answer": "Armó a sus criados y lo rescató",
+    "reference": "Génesis 14:14-16"
+  },
+  {
+    "context": "Babel es juzgada por orgullo y resistencia a ser esparcidos.",
+    "explanation": "La confusión del lenguaje detiene el proyecto y dispersa a la humanidad.",
+    "id": 275,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué ocurrió cuando Dios confundió la lengua de los hombres?",
+    "options": [
+      "Dejaron de edificar la ciudad",
+      "Entraron al arca",
+      "José fue liberado",
+      "Isaac nació"
+    ],
+    "answer": "Dejaron de edificar la ciudad",
+    "reference": "Génesis 11:7-8"
+  },
+  {
+    "context": "Después del discurso de Judá, José ya no puede contenerse.",
+    "explanation": "José busca privacidad para revelar su identidad y llorar ante sus hermanos.",
+    "id": 276,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo José antes de revelarse a sus hermanos?",
+    "options": [
+      "Mandó salir a todos los que estaban con él",
+      "Huyó a Harán",
+      "Vendió a Benjamín",
+      "Construyó un altar en Bet-el"
+    ],
+    "answer": "Mandó salir a todos los que estaban con él",
+    "reference": "Génesis 45:1"
+  },
+  {
+    "context": "Jacob teme la reacción de Esaú después de años de separación.",
+    "explanation": "Los presentes muestran una estrategia prudente y temerosa antes del encuentro.",
+    "id": 277,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hizo Jacob antes de encontrarse con Esaú para apaciguarlo?",
+    "options": [
+      "Envió presentes delante de sí",
+      "Quemó Macpela",
+      "Volvió a Ur",
+      "Encerró a Benjamín"
+    ],
+    "answer": "Envió presentes delante de sí",
+    "reference": "Génesis 32:13-21"
+  },
+  {
+    "context": "Abraham y Abimelec hacen pacto por un pozo.",
+    "explanation": "Las siete corderas sirven como testimonio de que Abraham cavó el pozo.",
+    "id": 278,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué pidió Abraham como señal pública en Beer-seba?",
+    "options": [
+      "Que Abimelec aceptara siete corderas",
+      "Que Faraón le diera Gosén",
+      "Que Lot volviera a Sodoma",
+      "Que Jacob cambiara de nombre"
+    ],
+    "answer": "Que Abimelec aceptara siete corderas",
+    "reference": "Génesis 21:28-31"
+  },
+  {
+    "context": "Labán busca sus ídolos domésticos al alcanzar a Jacob.",
+    "explanation": "Raquel oculta los ídolos, mostrando engaño y tensión familiar.",
+    "id": 279,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hizo Raquel para ocultar los ídolos domésticos de Labán?",
+    "options": [
+      "Los puso en una albarda de camello y se sentó sobre ellos",
+      "Los echó al Nilo",
+      "Los entregó a Jacob",
+      "Los enterró en Macpela"
+    ],
+    "answer": "Los puso en una albarda de camello y se sentó sobre ellos",
+    "reference": "Génesis 31:34"
+  },
+  {
+    "context": "Tamar expone la responsabilidad de Judá mediante las prendas que él dejó.",
+    "explanation": "Judá reconoce su culpa; el episodio muestra pecado, justicia y continuidad de la descendencia.",
+    "id": 280,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hizo Judá cuando Tamar fue acusada?",
+    "options": [
+      "Reconoció que ella era más justa que él",
+      "La vendió a Egipto",
+      "Huyó a Harán",
+      "La sepultó en Macpela"
+    ],
+    "answer": "Reconoció que ella era más justa que él",
+    "reference": "Génesis 38:26"
+  }
+]

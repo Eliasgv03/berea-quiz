@@ -1,0 +1,1158 @@
+[
+  {
+    "context": "Eva recibe su nombre después de la caída, cuando el relato ya ha presentado a la mujer como ayuda idónea del hombre.",
+    "explanation": "La respuesta es Eva porque Génesis 3:20 dice que Adán llamó Eva a su mujer por ser madre de todos los vivientes.",
+    "id": 3,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue la primera mujer según Génesis?",
+    "options": [
+      "Eva",
+      "Sara",
+      "Rebeca",
+      "Lea"
+    ],
+    "answer": "Eva",
+    "reference": "Génesis 3:20"
+  },
+  {
+    "context": "Dios anuncia juicio sobre la corrupción humana, pero manda a Noé preparar un arca para preservar vida.",
+    "explanation": "Noé construyó el arca obedeciendo las instrucciones de Dios sobre materiales, medidas y propósito.",
+    "id": 5,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién construyó el arca?",
+    "options": [
+      "Noé",
+      "Abraham",
+      "Jacob",
+      "José"
+    ],
+    "answer": "Noé",
+    "reference": "Génesis 6:13-22"
+  },
+  {
+    "context": "En Génesis 17 Dios confirma su pacto y cambia el nombre de Abram como señal de una nueva identidad ligada a la promesa.",
+    "explanation": "Su nombre original era Abram; Dios lo llama Abraham porque sería padre de muchedumbre de gentes.",
+    "id": 8,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Cómo se llamaba originalmente Abraham?",
+    "options": [
+      "Abram",
+      "Israel",
+      "Ismael",
+      "Taré"
+    ],
+    "answer": "Abram",
+    "reference": "Génesis 17:5"
+  },
+  {
+    "context": "El cambio de nombre de Sarai ocurre en el mismo capítulo donde Dios confirma que ella dará a luz al hijo prometido.",
+    "explanation": "Sara se llamaba Sarai. El nuevo nombre acompaña la promesa de que de ella vendrían naciones y reyes.",
+    "id": 9,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Cómo se llamaba originalmente Sara?",
+    "options": [
+      "Sarai",
+      "Raquel",
+      "Agar",
+      "Milca"
+    ],
+    "answer": "Sarai",
+    "reference": "Génesis 17:15"
+  },
+  {
+    "context": "Después de luchar con el varón, Jacob recibe una nueva identidad marcada por su relación con Dios.",
+    "explanation": "El nuevo nombre es Israel. El cambio señala que Jacob ha luchado con Dios y con los hombres, y ha vencido.",
+    "id": 15,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué nuevo nombre recibió Jacob?",
+    "options": [
+      "Israel",
+      "Edom",
+      "Judá",
+      "Benoni"
+    ],
+    "answer": "Israel",
+    "reference": "Génesis 32:28"
+  },
+  {
+    "context": "Génesis contrasta a Esaú y Jacob desde su nacimiento y muestra tensión alrededor de la primogenitura.",
+    "explanation": "Esaú vendió su primogenitura por un guiso. El relato subraya que menospreció un privilegio familiar y espiritual.",
+    "id": 16,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién vendió su primogenitura por comida?",
+    "options": [
+      "Esaú",
+      "Jacob",
+      "José",
+      "Rubén"
+    ],
+    "answer": "Esaú",
+    "reference": "Génesis 25:29-34"
+  },
+  {
+    "context": "Génesis 24 relata cómo el siervo de Abraham busca esposa para Isaac dentro de la familia de Abraham.",
+    "explanation": "La esposa de Isaac fue Rebeca, quien respondió al llamado y viajó para casarse con él.",
+    "id": 19,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue la esposa de Isaac?",
+    "options": [
+      "Rebeca",
+      "Raquel",
+      "Lea",
+      "Dina"
+    ],
+    "answer": "Rebeca",
+    "reference": "Génesis 24"
+  },
+  {
+    "context": "José es odiado por sus hermanos por el favoritismo de Jacob y por sus sueños.",
+    "explanation": "José fue vendido y llevado a Egipto. Ese hecho doloroso abre el camino para la preservación futura de su familia.",
+    "id": 20,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue vendido por sus hermanos y llevado a Egipto?",
+    "options": [
+      "José",
+      "Benjamín",
+      "Judá",
+      "Leví"
+    ],
+    "answer": "José",
+    "reference": "Génesis 37:28"
+  },
+  {
+    "context": "Sarai, al no tener hijos, entrega a Agar a Abram, lo que introduce conflicto familiar.",
+    "explanation": "Agar fue la madre de Ismael. La historia muestra tensión entre los intentos humanos y la promesa de Dios.",
+    "id": 26,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue madre de Ismael?",
+    "options": [
+      "Agar",
+      "Sara",
+      "Rebeca",
+      "Lea"
+    ],
+    "answer": "Agar",
+    "reference": "Génesis 16"
+  },
+  {
+    "context": "Isaac nace cuando Abraham y Sara ya eran ancianos, cumpliendo una promesa humanamente imposible.",
+    "explanation": "Sara fue la madre de Isaac, el hijo mediante quien continuaría la línea del pacto.",
+    "id": 27,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue madre de Isaac?",
+    "options": [
+      "Sara",
+      "Agar",
+      "Raquel",
+      "Zilpa"
+    ],
+    "answer": "Sara",
+    "reference": "Génesis 21:1-3"
+  },
+  {
+    "context": "Los mensajeros advierten a la familia de Lot que huya sin mirar atrás.",
+    "explanation": "La mujer de Lot miró atrás y quedó convertida en estatua de sal, señal de apego al lugar bajo juicio.",
+    "id": 29,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién miró atrás al salir de Sodoma?",
+    "options": [
+      "La mujer de Lot",
+      "Sara",
+      "Rebeca",
+      "Dina"
+    ],
+    "answer": "La mujer de Lot",
+    "reference": "Génesis 19:26"
+  },
+  {
+    "context": "La genealogía de Génesis 5 repite la muerte de los patriarcas, pero Enoc aparece como una excepción notable.",
+    "explanation": "Enoc caminó con Dios y Dios se lo llevó. Su vida destaca comunión con Dios en medio de una genealogía marcada por muerte.",
+    "id": 32,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién caminó con Dios y desapareció porque Dios se lo llevó?",
+    "options": [
+      "Enoc",
+      "Matusalén",
+      "Lamec",
+      "Set"
+    ],
+    "answer": "Enoc",
+    "reference": "Génesis 5:24"
+  },
+  {
+    "context": "Génesis 5 registra edades largas de los descendientes de Adán hasta Noé.",
+    "explanation": "Matusalén vivió 969 años, la edad más alta mencionada en esa genealogía.",
+    "id": 33,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién es presentado como el hombre que vivió más años en Génesis?",
+    "options": [
+      "Matusalén",
+      "Noé",
+      "Adán",
+      "Enos"
+    ],
+    "answer": "Matusalén",
+    "reference": "Génesis 5:27"
+  },
+  {
+    "context": "Abraham envía a su siervo a buscar esposa para Isaac entre su parentela.",
+    "explanation": "El siervo de Abraham encuentra a Rebeca. La narración resalta oración, dirección providencial y fidelidad al pacto.",
+    "id": 38,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién encontró esposa para Isaac?",
+    "options": [
+      "El siervo de Abraham",
+      "Lot",
+      "Esaú",
+      "Faraón"
+    ],
+    "answer": "El siervo de Abraham",
+    "reference": "Génesis 24"
+  },
+  {
+    "context": "Rebeca concibe gemelos, y aun antes del nacimiento se anuncia tensión entre dos pueblos.",
+    "explanation": "Los gemelos fueron Esaú y Jacob. Esaú nace primero, pero Jacob será central en la línea de la promesa.",
+    "id": 40,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quiénes fueron los hijos gemelos de Isaac y Rebeca?",
+    "options": [
+      "Esaú y Jacob",
+      "Caín y Abel",
+      "José y Benjamín",
+      "Manasés y Efraín"
+    ],
+    "answer": "Esaú y Jacob",
+    "reference": "Génesis 25:24-26"
+  },
+  {
+    "context": "Jacob llega a la casa de Labán y se enamora de Raquel.",
+    "explanation": "Jacob trabajó catorce años por Raquel: siete antes del engaño de Labán y siete más después de recibirla.",
+    "id": 43,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Por quién trabajo Jacob catorce años para casarse?",
+    "options": [
+      "Raquel",
+      "Dina",
+      "Tamar",
+      "Bilha"
+    ],
+    "answer": "Raquel",
+    "reference": "Génesis 29"
+  },
+  {
+    "context": "Labán engaña a Jacob en la noche de bodas, invirtiendo la experiencia de engaño que Jacob había practicado antes.",
+    "explanation": "La primera esposa entregada fue Lea. Luego Jacob recibió a Raquel y trabajó otros siete años.",
+    "id": 44,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue la primera esposa que Laban dio a Jacob?",
+    "options": [
+      "Lea",
+      "Raquel",
+      "Zilpa",
+      "Bilha"
+    ],
+    "answer": "Lea",
+    "reference": "Génesis 29:21-26"
+  },
+  {
+    "context": "Raquel tiene a Benjamín durante un parto difícil en el camino a Efrata.",
+    "explanation": "Benjamín fue el hijo menor de Jacob nacido de Raquel. Su nacimiento estuvo unido a la muerte de su madre.",
+    "id": 45,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue el hijo menor de Jacob nacido de Raquel?",
+    "options": [
+      "Benjamín",
+      "José",
+      "Judá",
+      "Isacar"
+    ],
+    "answer": "Benjamín",
+    "reference": "Génesis 35:16-18"
+  },
+  {
+    "context": "Los hermanos debaten qué hacer con José después de echarlo en una cisterna.",
+    "explanation": "Judá sugirió venderlo en vez de matarlo. Esa decisión llevó a José hacia Egipto.",
+    "id": 49,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hermano sugirio vender a José en vez de matarlo?",
+    "options": [
+      "Judá",
+      "Rubén",
+      "Simeón",
+      "Leví"
+    ],
+    "answer": "Judá",
+    "reference": "Génesis 37:26-27"
+  },
+  {
+    "context": "Rubén intenta impedir que sus hermanos maten a José y planea rescatarlo después.",
+    "explanation": "Rubén quiso librar a José para devolverlo a Jacob, aunque su plan no se cumplió.",
+    "id": 50,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién intento librar a José de sus hermanos para devolverlo a su padre?",
+    "options": [
+      "Rubén",
+      "Judá",
+      "Dan",
+      "Gad"
+    ],
+    "answer": "Rubén",
+    "reference": "Génesis 37:21-22"
+  },
+  {
+    "context": "José llega a Egipto vendido como esclavo, pero Dios está con él en medio de su descenso.",
+    "explanation": "Sirvió en casa de Potifar, oficial de Faraón. Allí prosperó antes de ser acusado falsamente y encarcelado.",
+    "id": 51,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "En casa de quién sirvio José en Egipto antes de ir a la cárcel?",
+    "options": [
+      "Potifar",
+      "Faraón",
+      "Abimelec",
+      "Melquisedec"
+    ],
+    "answer": "Potifar",
+    "reference": "Génesis 39"
+  },
+  {
+    "context": "José prueba a sus hermanos y exige ver al hermano menor que se quedó con Jacob.",
+    "explanation": "Pidió que trajeran a Benjamín. Esto prepara la prueba sobre si los hermanos han cambiado.",
+    "id": 55,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "A qué hermano pidió José que trajeran a Egipto?",
+    "options": [
+      "Benjamín",
+      "Leví",
+      "Isacar",
+      "Zabulon"
+    ],
+    "answer": "Benjamín",
+    "reference": "Génesis 42:20"
+  },
+  {
+    "context": "Jacob adopta formalmente a los dos hijos de José como parte de su propia herencia tribal.",
+    "explanation": "Bendijo a Efraín y Manasés como suyos. Esto explica su lugar prominente entre las tribus de Israel.",
+    "id": 59,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "A qué dos hijos de José bendijo Jacob como suyos?",
+    "options": [
+      "Efraín y Manasés",
+      "Caín y Abel",
+      "Gad y Aser",
+      "Simeón y Leví"
+    ],
+    "answer": "Efraín y Manasés",
+    "reference": "Génesis 48"
+  },
+  {
+    "context": "Después de rescatar a Lot, Abram se encuentra con Melquisedec, rey de Salem y sacerdote del Dios Altísimo.",
+    "explanation": "Melquisedec bendijo a Abram y recibió diezmos. Su aparición destaca la superioridad y bendición del Dios Altísimo.",
+    "id": 64,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién bendijo a Abram y recibió diezmos de el?",
+    "options": [
+      "Melquisedec",
+      "Abimelec",
+      "Laban",
+      "Efron"
+    ],
+    "answer": "Melquisedec",
+    "reference": "Génesis 14:18-20"
+  },
+  {
+    "context": "Los mensajeros sacan a Lot y a su familia de Sodoma antes de la destrucción.",
+    "explanation": "Los ángeles dijeron esa frase. La orden expresa urgencia y separación total del lugar bajo juicio.",
+    "id": 69,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién dijo: 'Huye por tu vida; no mires tras ti' a Lot y su familia?",
+    "options": [
+      "Los ángeles",
+      "Abraham",
+      "Noé",
+      "Abimelec"
+    ],
+    "answer": "Los ángeles",
+    "reference": "Génesis 19:17"
+  },
+  {
+    "context": "Abraham negocia públicamente la compra de una sepultura para Sara entre los hijos de Het.",
+    "explanation": "Efrón heteo vendió la cueva de Macpela. La compra asegura una posesión legítima en la tierra prometida.",
+    "id": 72,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién vendió a Abraham la cueva de Macpela?",
+    "options": [
+      "Efron heteo",
+      "Melquisedec",
+      "Abimelec",
+      "Laban"
+    ],
+    "answer": "Efron heteo",
+    "reference": "Génesis 23:10-20"
+  },
+  {
+    "context": "Jacob bendice a sus hijos antes de morir, describiendo el futuro de cada tribu.",
+    "explanation": "Judá recibe la bendición asociada con el cetro, señal de gobierno y expectativa real.",
+    "id": 74,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hijo de Jacob recibió una bendición asociada con el cetro?",
+    "options": [
+      "Judá",
+      "Rubén",
+      "Simeón",
+      "Dan"
+    ],
+    "answer": "Judá",
+    "reference": "Génesis 49:10"
+  },
+  {
+    "context": "La genealogía de Génesis 11 prepara el llamado de Abram y ubica su familia.",
+    "explanation": "El padre de Abram fue Taré. Desde esa familia Dios llamará a Abram para iniciar una nueva etapa de la historia.",
+    "id": 78,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue padre de Abram?",
+    "options": [
+      "Taré",
+      "Nacor",
+      "Lot",
+      "Haran"
+    ],
+    "answer": "Taré",
+    "reference": "Génesis 11:26"
+  },
+  {
+    "context": "Lot acompaña a Abram al salir hacia la tierra que Dios le mostraría.",
+    "explanation": "Lot era sobrino de Abram. Su historia queda ligada a Abram hasta la separación y el juicio sobre Sodoma.",
+    "id": 79,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién fue sobrino de Abram?",
+    "options": [
+      "Lot",
+      "Isaac",
+      "Jacob",
+      "Laban"
+    ],
+    "answer": "Lot",
+    "reference": "Génesis 12:5"
+  },
+  {
+    "context": "La tentación comienza cuestionando la palabra y la bondad de Dios.",
+    "explanation": "La serpiente introduce duda y distorsiona el mandato divino.",
+    "id": 86,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién pregunto: 'Conque Dios os ha dicho...'?",
+    "options": [
+      "La serpiente",
+      "Caín",
+      "Lamec",
+      "Abel"
+    ],
+    "answer": "La serpiente",
+    "reference": "Génesis 3:1"
+  },
+  {
+    "context": "Después de la salida de Edén, Génesis narra la primera familia.",
+    "explanation": "Caín trabaja la tierra y Abel pastorea ovejas; su historia desemboca en el primer homicidio.",
+    "id": 89,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quiénes fueron los dos primeros hijos mencionados de Adán y Eva?",
+    "options": [
+      "Caín y Abel",
+      "Set y Enos",
+      "Jacob y Esaú",
+      "Sem y Cam"
+    ],
+    "answer": "Caín y Abel",
+    "reference": "Génesis 4:1-2"
+  },
+  {
+    "context": "Eva interpreta el nacimiento después de la muerte de Abel.",
+    "explanation": "Set continua la línea familiar que Génesis seguira hacia Noé.",
+    "id": 92,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué hijo nació a Adán y Eva como sustituto de Abel?",
+    "options": [
+      "Set",
+      "Enoc",
+      "Jafet",
+      "Nimrod"
+    ],
+    "answer": "Set",
+    "reference": "Génesis 4:25"
+  },
+  {
+    "context": "La genealogía de Génesis 5 conduce desde Adán hasta Noé.",
+    "explanation": "Lamec llama a su hijo Noé esperando alivio del trabajo de la tierra maldita.",
+    "id": 93,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue padre de Noé?",
+    "options": [
+      "Matusalén",
+      "Lamec",
+      "Enoc",
+      "Sem"
+    ],
+    "answer": "Lamec",
+    "reference": "Génesis 5:28-29"
+  },
+  {
+    "context": "Noé contrasta con la corrupción general de su época.",
+    "explanation": "Génesis lo presenta como alguien que caminaba con Dios.",
+    "id": 95,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Cómo describe Génesis a Noé en su generación?",
+    "options": [
+      "Varon justo y perfecto",
+      "Rey de Sinar",
+      "Sacerdote de Salem",
+      "Primogenito de Abraham"
+    ],
+    "answer": "Varon justo y perfecto",
+    "reference": "Génesis 6:9"
+  },
+  {
+    "context": "De los hijos de Noé se describe la repoblación de la tierra después del diluvio.",
+    "explanation": "Génesis organiza muchas genealogías posteriores alrededor de estas tres líneas.",
+    "id": 101,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Cuáles fueron los tres hijos de Noé?",
+    "options": [
+      "Sem, Cam y Jafet",
+      "Caín, Abel y Set",
+      "Abram, Nacor y Haran",
+      "Rubén, Simeón y Leví"
+    ],
+    "answer": "Sem, Cam y Jafet",
+    "reference": "Génesis 6:10; 9:18"
+  },
+  {
+    "context": "La genealogía de Taré introduce a Abram, Nacor y Haran.",
+    "explanation": "Lot es hijo de Haran, por eso aparece como sobrino de Abram.",
+    "id": 104,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cómo se llamaba el hermano de Abram que fue padre de Lot?",
+    "options": [
+      "Haran",
+      "Nacor",
+      "Taré",
+      "Eliezer"
+    ],
+    "answer": "Haran",
+    "reference": "Génesis 11:27"
+  },
+  {
+    "context": "Abram y Lot se separan porque sus bienes eran muchos.",
+    "explanation": "Lot escoge por apariencia de prosperidad, aunque el relato advierte la cercanía a Sodoma.",
+    "id": 108,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "A quién escogió Lot cuando se separó de Abram?",
+    "options": [
+      "La llanura del Jordán",
+      "La cueva de Macpela",
+      "El monte Moriah",
+      "La tierra de Gosén"
+    ],
+    "answer": "La llanura del Jordán",
+    "reference": "Génesis 13:10-11"
+  },
+  {
+    "context": "El nacimiento de Isaac ocurre cuando la promesa parecía humanamente imposible.",
+    "explanation": "La edad de Abraham resalta que Isaac nace por fidelidad y poder de Dios.",
+    "id": 113,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué edad tenía Abraham cuando nació Isaac?",
+    "options": [
+      "100 años",
+      "75 años",
+      "120 años",
+      "40 años"
+    ],
+    "answer": "100 años",
+    "reference": "Génesis 21:5"
+  },
+  {
+    "context": "Sara habla de risa al celebrar el nacimiento del hijo prometido.",
+    "explanation": "La risa pasa de incredulidad y sorpresa a gozo por la promesa cumplida.",
+    "id": 114,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué significa el nombre Isaac?",
+    "options": [
+      "Risa",
+      "Padre de multitudes",
+      "Príncipe de Dios",
+      "Dios ve"
+    ],
+    "answer": "Risa",
+    "reference": "Génesis 21:6"
+  },
+  {
+    "context": "El siervo de Abraham llega a la familia de Rebeca en busca de esposa para Isaac.",
+    "explanation": "Laban aparece aquí antes de tener un papel mayor en la historia de Jacob.",
+    "id": 117,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién era hermano de Rebeca?",
+    "options": [
+      "Laban",
+      "Lot",
+      "Efron",
+      "Potifar"
+    ],
+    "answer": "Laban",
+    "reference": "Génesis 24:29"
+  },
+  {
+    "context": "Génesis contrasta el carácter y ocupación de los gemelos.",
+    "explanation": "Esaú es descrito como hombre del campo, mientras Jacob habitaba en tiendas.",
+    "id": 119,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hijo de Isaac era diestro en la caza?",
+    "options": [
+      "Esaú",
+      "Jacob",
+      "Benjamín",
+      "José"
+    ],
+    "answer": "Esaú",
+    "reference": "Génesis 25:27"
+  },
+  {
+    "context": "Jacob se acerca a Egipto con toda su familia y necesita encontrarse con José.",
+    "explanation": "Jacob envió a Judá delante de sí. El detalle vuelve a mostrar a Judá asumiendo un papel de liderazgo.",
+    "id": 138,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "A quién envió Jacob delante de sí para que José le indicara el camino a Gosén?",
+    "options": [
+      "Judá",
+      "Rubén",
+      "Leví",
+      "Dan"
+    ],
+    "answer": "Judá",
+    "reference": "Génesis 46:28"
+  },
+  {
+    "context": "Abraham vuelve a actuar con temor por Sara, poniendo en riesgo la promesa.",
+    "explanation": "Abimelec era rey de Gerar. Dios intervino en sueños para proteger a Sara y la línea prometida.",
+    "id": 145,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién era rey de Gerar cuando Abraham dijo que Sara era su hermana?",
+    "options": [
+      "Abimelec",
+      "Faraón",
+      "Melquisedec",
+      "Efrón"
+    ],
+    "answer": "Abimelec",
+    "reference": "Génesis 20:2"
+  },
+  {
+    "context": "El relato de Esaú contrasta sus decisiones matrimoniales con la preocupación de la familia por la línea del pacto.",
+    "explanation": "Judit y Basemat fueron esposas hititas de Esaú y causaron amargura de espíritu a Isaac y Rebeca.",
+    "id": 153,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quiénes fueron las esposas hititas de Esaú que causaron amargura a Isaac y Rebeca?",
+    "options": [
+      "Judit y Basemat",
+      "Lea y Raquel",
+      "Bilha y Zilpa",
+      "Sara y Agar"
+    ],
+    "answer": "Judit y Basemat",
+    "reference": "Génesis 26:34-35"
+  },
+  {
+    "context": "Raquel entrega su sierva Bilha a Jacob durante la rivalidad familiar por descendencia.",
+    "explanation": "Bilha dio a luz a Dan. Raquel interpreta ese nacimiento como vindicación de Dios.",
+    "id": 156,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue la madre de Dan?",
+    "options": [
+      "Bilha",
+      "Lea",
+      "Zilpa",
+      "Raquel"
+    ],
+    "answer": "Bilha",
+    "reference": "Génesis 30:4-6"
+  },
+  {
+    "context": "Lea entrega su sierva Zilpa a Jacob después de dejar temporalmente de dar a luz.",
+    "explanation": "Zilpa fue la madre de Gad. La narración refleja la competencia familiar dentro de la casa de Jacob.",
+    "id": 157,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue la madre de Gad?",
+    "options": [
+      "Zilpa",
+      "Bilha",
+      "Raquel",
+      "Rebeca"
+    ],
+    "answer": "Zilpa",
+    "reference": "Génesis 30:9-11"
+  },
+  {
+    "context": "Jacob teme enviar a Benjamín a Egipto, pero la familia necesita alimento.",
+    "explanation": "Judá se hace responsable por Benjamín. Esto prepara su discurso posterior ante José.",
+    "id": 162,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién ofreció hacerse responsable por Benjamín ante Jacob?",
+    "options": [
+      "Judá",
+      "Simeón",
+      "Leví",
+      "Dan"
+    ],
+    "answer": "Judá",
+    "reference": "Génesis 43:8-9"
+  },
+  {
+    "context": "Génesis menciona a Dina dentro del nacimiento de los hijos de Jacob.",
+    "explanation": "Dina fue hija de Lea. Su historia tendrá un papel importante en Génesis 34.",
+    "id": 166,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue la madre de Dina?",
+    "options": [
+      "Lea",
+      "Raquel",
+      "Bilha",
+      "Zilpa"
+    ],
+    "answer": "Lea",
+    "reference": "Génesis 30:21"
+  },
+  {
+    "context": "Lea da a luz al primer hijo de Jacob durante la etapa familiar en casa de Labán.",
+    "explanation": "Rubén fue el primogénito. Sin embargo, la historia posterior muestra que el liderazgo familiar no permanecerá simplemente por orden de nacimiento.",
+    "id": 169,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién fue el primogénito de Jacob?",
+    "options": [
+      "Rubén",
+      "Judá",
+      "José",
+      "Leví"
+    ],
+    "answer": "Rubén",
+    "reference": "Génesis 29:32"
+  },
+  {
+    "context": "José coloca a Manasés y Efraín según el orden esperado, pero Jacob cruza las manos.",
+    "explanation": "Jacob bendice con preferencia a Efraín, el menor. El patrón recuerda que Dios no siempre sigue la prioridad humana convencional.",
+    "id": 173,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "A quién bendijo Jacob primero cuando José llevó a sus dos hijos?",
+    "options": [
+      "A Efraín",
+      "A Manasés",
+      "A Rubén",
+      "A Benjamín"
+    ],
+    "answer": "A Efraín",
+    "reference": "Génesis 48:14-20"
+  },
+  {
+    "context": "Los hermanos de José temen represalias y se postran ante él.",
+    "explanation": "José dijo esa frase. Con ella rechaza tomar venganza como si ocupara el lugar de Dios.",
+    "id": 177,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién dijo: '¿Estoy yo en lugar de Dios?'",
+    "options": [
+      "José",
+      "Jacob",
+      "Judá",
+      "Faraón"
+    ],
+    "answer": "José",
+    "reference": "Génesis 50:19"
+  },
+  {
+    "context": "Dios trae los animales al hombre antes de formar a la mujer.",
+    "explanation": "Adán puso nombre a los animales. La escena muestra autoridad delegada y también que no se halló ayuda idónea para él entre ellos.",
+    "id": 188,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quién puso nombre a los animales en Génesis 2?",
+    "options": [
+      "Adán",
+      "Noé",
+      "Abraham",
+      "José"
+    ],
+    "answer": "Adán",
+    "reference": "Génesis 2:19-20"
+  },
+  {
+    "context": "Dios pregunta a Adán si comió del árbol prohibido.",
+    "explanation": "Adán culpa a la mujer y, de forma indirecta, al mismo Dios que se la dio. El pecado rompe también la responsabilidad personal.",
+    "id": 196,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "A quién culpó Adán cuando Dios lo confrontó?",
+    "options": [
+      "A la mujer que Dios le dio",
+      "A Noé",
+      "A Caín",
+      "A Faraón"
+    ],
+    "answer": "A la mujer que Dios le dio",
+    "reference": "Génesis 3:12"
+  },
+  {
+    "context": "Después de Adán, Dios pregunta a la mujer qué hizo.",
+    "explanation": "Eva culpa a la serpiente por haberla engañado. El relato muestra engaño real, pero también responsabilidad humana.",
+    "id": 197,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "A quién culpó Eva por haber comido del fruto?",
+    "options": [
+      "A la serpiente",
+      "A Abel",
+      "A Sara",
+      "A Labán"
+    ],
+    "answer": "A la serpiente",
+    "reference": "Génesis 3:13"
+  },
+  {
+    "context": "Dios revela a Abraham el juicio sobre Sodoma.",
+    "explanation": "Abraham intercede apelando al carácter justo de Dios.",
+    "id": 260,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién intercedió por Sodoma preguntando si el Juez de toda la tierra no haría justicia?",
+    "options": [
+      "Abraham",
+      "Lot",
+      "Isaac",
+      "José"
+    ],
+    "answer": "Abraham",
+    "reference": "Génesis 18:22-33"
+  },
+  {
+    "context": "Jacob queda solo antes de encontrarse con Esaú.",
+    "explanation": "Jacob recibe el nombre Israel como señal de un encuentro transformador con Dios.",
+    "id": 261,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién recibió el nombre Israel después de luchar durante la noche?",
+    "options": [
+      "Jacob",
+      "Isaac",
+      "José",
+      "Rubén"
+    ],
+    "answer": "Jacob",
+    "reference": "Génesis 32:28"
+  },
+  {
+    "context": "Abram vuelve de rescatar a Lot.",
+    "explanation": "Melquisedec bendice a Abram en nombre del Dios Altísimo.",
+    "id": 262,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién fue el sacerdote y rey que bendijo a Abram?",
+    "options": [
+      "Melquisedec",
+      "Abimelec",
+      "Efrón",
+      "Labán"
+    ],
+    "answer": "Melquisedec",
+    "reference": "Génesis 14:18-20"
+  },
+  {
+    "context": "Jacob duda en enviar a Benjamín a Egipto.",
+    "explanation": "Judá asume responsabilidad por el menor, mostrando un cambio importante.",
+    "id": 263,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién quedó como garantía por Benjamín ante Jacob?",
+    "options": [
+      "Judá",
+      "Simeón",
+      "Leví",
+      "Neftalí"
+    ],
+    "answer": "Judá",
+    "reference": "Génesis 43:8-9"
+  },
+  {
+    "context": "José sirve en casa de Potifar y resiste la tentación.",
+    "explanation": "José termina encarcelado injustamente, pero Dios continúa con él.",
+    "id": 264,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién fue acusado falsamente por la mujer de Potifar?",
+    "options": [
+      "José",
+      "Judá",
+      "Rubén",
+      "Benjamín"
+    ],
+    "answer": "José",
+    "reference": "Génesis 39:7-20"
+  },
+  {
+    "context": "El hambre obliga a la familia a volver a Egipto.",
+    "explanation": "Judá persuade a Jacob y se ofrece como responsable por Benjamín.",
+    "id": 265,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién pidió a Jacob que enviara a Benjamín a Egipto?",
+    "options": [
+      "Judá",
+      "Esaú",
+      "Labán",
+      "Melquisedec"
+    ],
+    "answer": "Judá",
+    "reference": "Génesis 43:3-10"
+  },
+  {
+    "context": "Raquel fue la esposa amada de Jacob.",
+    "explanation": "Raquel dio a luz a José y luego a Benjamín, muriendo en el parto de este último.",
+    "id": 266,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién fue madre de José y Benjamín?",
+    "options": [
+      "Raquel",
+      "Lea",
+      "Zilpa",
+      "Bilha"
+    ],
+    "answer": "Raquel",
+    "reference": "Génesis 30:22-24; 35:16-18"
+  },
+  {
+    "context": "José está en la cárcel cuando dos funcionarios de Faraón sueñan.",
+    "explanation": "José afirma que las interpretaciones pertenecen a Dios.",
+    "id": 267,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién interpretó los sueños del copero y del panadero?",
+    "options": [
+      "José",
+      "Jacob",
+      "Isaac",
+      "Abraham"
+    ],
+    "answer": "José",
+    "reference": "Génesis 40"
+  },
+  {
+    "context": "La genealogía de Génesis 5 traza la línea desde Adán hasta Noé.",
+    "explanation": "Jared fue padre de Enoc, quien caminó con Dios.",
+    "id": 268,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue padre de Enoc en la línea de Set?",
+    "options": [
+      "Jared",
+      "Matusalén",
+      "Lamec",
+      "Enós"
+    ],
+    "answer": "Jared",
+    "reference": "Génesis 5:18"
+  },
+  {
+    "context": "El nombre de Noé se interpreta dentro de la maldición de la tierra.",
+    "explanation": "Lamec da el nombre Noé expresando esperanza de alivio.",
+    "id": 269,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién llamó Noé a su hijo esperando descanso del trabajo de la tierra?",
+    "options": [
+      "Lamec",
+      "Enoc",
+      "Matusalén",
+      "Sem"
+    ],
+    "answer": "Lamec",
+    "reference": "Génesis 5:28-29"
+  },
+  {
+    "context": "La genealogía de Taré introduce a Abram y su familia.",
+    "explanation": "Harán fue padre de Lot, sobrino de Abram.",
+    "id": 270,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue padre de Lot?",
+    "options": [
+      "Harán",
+      "Taré",
+      "Nacor",
+      "Abram"
+    ],
+    "answer": "Harán",
+    "reference": "Génesis 11:27"
+  },
+  {
+    "context": "Abraham negocia públicamente la compra de una sepultura.",
+    "explanation": "Efrón vendió la cueva de Macpela y el campo a Abraham.",
+    "id": 271,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién era Efrón en Génesis 23?",
+    "options": [
+      "El heteo que vendió Macpela a Abraham",
+      "El rey de Salem",
+      "El hermano de Rebeca",
+      "El siervo de Abraham"
+    ],
+    "answer": "El heteo que vendió Macpela a Abraham",
+    "reference": "Génesis 23:10-20"
+  },
+  {
+    "context": "Los hijos de Jacob nacen dentro de una familia marcada por rivalidades.",
+    "explanation": "Zilpa, sierva de Lea, dio a luz a Aser.",
+    "id": 272,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue madre de Aser?",
+    "options": [
+      "Zilpa",
+      "Bilha",
+      "Raquel",
+      "Tamar"
+    ],
+    "answer": "Zilpa",
+    "reference": "Génesis 30:12-13"
+  },
+  {
+    "context": "Raquel entrega a Bilha a Jacob durante la competencia por descendencia.",
+    "explanation": "Bilha dio a luz a Neftalí, cuyo nombre se relaciona con luchas de Raquel.",
+    "id": 273,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue madre de Neftalí?",
+    "options": [
+      "Bilha",
+      "Zilpa",
+      "Lea",
+      "Dina"
+    ],
+    "answer": "Bilha",
+    "reference": "Génesis 30:7-8"
+  }
+]

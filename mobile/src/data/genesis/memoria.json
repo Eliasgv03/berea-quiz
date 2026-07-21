@@ -1,0 +1,1022 @@
+[
+  {
+    "context": "Génesis 1:1 funciona como encabezado del relato de la creación y afirma el origen de todo en Dios.",
+    "explanation": "La frase completa es los cielos y la tierra. Es una forma de expresar la totalidad de la creación.",
+    "id": 12,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "media",
+    "prompt": "Completa Génesis 1:1: 'En el principio creó Dios los cielos y ____'.",
+    "options": [
+      "la tierra",
+      "el mar",
+      "la luz",
+      "las estrellas"
+    ],
+    "answer": "la tierra",
+    "reference": "Génesis 1:1"
+  },
+  {
+    "context": "Génesis 15 ocurre cuando Abram espera descendencia y Dios le reafirma la promesa.",
+    "explanation": "La palabra correcta es justicia. El texto muestra que Abram fue contado justo por creer la promesa de Dios.",
+    "id": 25,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "media",
+    "prompt": "Completa: 'Y creyo a Jehová, y le fue contado por ____'.",
+    "options": [
+      "justicia",
+      "sabiduría",
+      "obediencia",
+      "riqueza"
+    ],
+    "answer": "justicia",
+    "reference": "Génesis 15:6"
+  },
+  {
+    "context": "Génesis 1:28 registra la bendición y comisión dada al ser humano creado a imagen de Dios.",
+    "explanation": "La palabra es sojuzgadla. El mandato habla de ejercer mayordomía responsable sobre la creación.",
+    "id": 36,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Fructificad y multiplicaos; llenad la tierra, y ____'.",
+    "options": [
+      "sojuzgadla",
+      "abandonadla",
+      "temedla",
+      "divididla"
+    ],
+    "answer": "sojuzgadla",
+    "reference": "Génesis 1:28"
+  },
+  {
+    "context": "Génesis 12 introduce la promesa por la cual Dios bendecirá a Abram y, por medio de él, a otros.",
+    "explanation": "La palabra es familias. La promesa tiene alcance universal: la bendición de Abram mira hacia todas las familias de la tierra.",
+    "id": 61,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "fácil",
+    "prompt": "Completa Génesis 12:3: '... y seran benditas en ti todas las ____ de la tierra'.",
+    "options": [
+      "familias",
+      "ciudades",
+      "naciónes enemigas",
+      "montanas"
+    ],
+    "answer": "familias",
+    "reference": "Génesis 12:3"
+  },
+  {
+    "context": "Sara se ríe al oír que dará a luz siendo anciana, y Dios responde confrontando su incredulidad.",
+    "explanation": "La palabra es difícil. La pregunta retórica afirma que nada es imposible para Dios.",
+    "id": 68,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Acaso hay para Dios alguna cosa ____?'",
+    "options": [
+      "difícil",
+      "lejana",
+      "oculta",
+      "pequena"
+    ],
+    "answer": "difícil",
+    "reference": "Génesis 18:14"
+  },
+  {
+    "context": "La bendición de Judá en Génesis 49 es una de las promesas más importantes del final del libro.",
+    "explanation": "La palabra correcta es Judá. El cetro apunta a liderazgo real dentro de la descendencia de Jacob.",
+    "id": 75,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "difícil",
+    "prompt": "Completa Génesis 49:10: 'No sera quitado el cetro de ____'.",
+    "options": [
+      "Judá",
+      "José",
+      "Leví",
+      "Benjamín"
+    ],
+    "answer": "Judá",
+    "reference": "Génesis 49:10"
+  },
+  {
+    "context": "Dios observa la necesidad relacional del hombre antes de crear a la mujer.",
+    "explanation": "El texto subraya que la vida humana fue creada para comunión y ayuda adecuada.",
+    "id": 84,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'No es bueno que el hombre está ____'.",
+    "options": [
+      "sin huerto",
+      "solo",
+      "en Edén",
+      "sin nombre"
+    ],
+    "answer": "solo",
+    "reference": "Génesis 2:18"
+  },
+  {
+    "context": "La frase aparece en medio del anuncio del juicio por la maldad humana.",
+    "explanation": "Noé es preservado por favor divino, no porque el mundo mereciera escapar del juicio.",
+    "id": 97,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Mas Noé hallo ____ ante los ojos de Jehová'.",
+    "options": [
+      "gracia",
+      "oro",
+      "temor",
+      "venganza"
+    ],
+    "answer": "gracia",
+    "reference": "Génesis 6:8"
+  },
+  {
+    "context": "Dios habla a Abram después del conflicto narrado en Génesis 14.",
+    "explanation": "La frase presenta a Dios como protección y recompensa de Abram.",
+    "id": 111,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "difícil",
+    "prompt": "Completa: 'No temas, Abram; yo soy tu ____'.",
+    "options": [
+      "escudo",
+      "camino",
+      "siervo",
+      "ciudad"
+    ],
+    "answer": "escudo",
+    "reference": "Génesis 15:1"
+  },
+  {
+    "context": "Isaac pregunta por el animal para el sacrificio mientras suben al monte.",
+    "explanation": "La respuesta de Abraham anticipa el tema central del pasaje: Dios provee.",
+    "id": 116,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Dios se proveerá de ____ para el holocausto'.",
+    "options": [
+      "cordero",
+      "altar",
+      "aceite",
+      "pan"
+    ],
+    "answer": "cordero",
+    "reference": "Génesis 22:8"
+  },
+  {
+    "context": "Dios habla a Jacob en Beer-seba antes del descenso a Egipto.",
+    "explanation": "La palabra es nación. Dios reafirma que el crecimiento de Israel en Egipto sigue dentro de su plan.",
+    "id": 140,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'No temas de descender a Egipto, porque allí yo haré de ti una gran ____'.",
+    "options": [
+      "nación",
+      "ciudad",
+      "torre",
+      "casa"
+    ],
+    "answer": "nación",
+    "reference": "Génesis 46:3"
+  },
+  {
+    "context": "Después del pacto con Abimelec, Abraham adora a Dios en Beer-seba.",
+    "explanation": "La palabra es eterno. El título destaca la permanencia de Dios frente a la vida peregrina de Abraham.",
+    "id": 148,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "difícil",
+    "prompt": "Completa: 'Y plantó Abraham un árbol tamarisco en Beer-seba, e invocó allí el nombre de Jehová Dios ____'.",
+    "options": [
+      "eterno",
+      "altísimo",
+      "de Bet-el",
+      "de Egipto"
+    ],
+    "answer": "eterno",
+    "reference": "Génesis 21:33"
+  },
+  {
+    "context": "Jacob despierta después del sueño de la escalera y reconoce la presencia de Dios.",
+    "explanation": "La palabra es sabía. Jacob descubre que Dios estaba presente incluso en su camino de huida.",
+    "id": 155,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Ciertamente Jehová está en este lugar, y yo no lo ____'.",
+    "options": [
+      "sabía",
+      "temía",
+      "buscaba",
+      "vendí"
+    ],
+    "answer": "sabía",
+    "reference": "Génesis 28:16"
+  },
+  {
+    "context": "José se revela a sus hermanos después del discurso de Judá.",
+    "explanation": "La palabra es padre. La primera preocupación de José al revelarse es saber de Jacob.",
+    "id": 164,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Yo soy José; ¿vive aún mi ____?'",
+    "options": [
+      "padre",
+      "hermano",
+      "señor",
+      "siervo"
+    ],
+    "answer": "padre",
+    "reference": "Génesis 45:3"
+  },
+  {
+    "context": "Jacob bendice a Judá con palabras asociadas a gobierno y futuro liderazgo.",
+    "explanation": "La palabra es pies. La bendición de Judá se volvió central para la expectativa de realeza en la línea bíblica.",
+    "id": 170,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "difícil",
+    "prompt": "Completa: 'El cetro no será quitado de Judá, ni el legislador de entre sus ____'.",
+    "options": [
+      "pies",
+      "manos",
+      "hermanos",
+      "rebaños"
+    ],
+    "answer": "pies",
+    "reference": "Génesis 49:10"
+  },
+  {
+    "context": "Los hermanos temen que José se vengue después de la muerte de Jacob.",
+    "explanation": "La palabra es bien. José reconoce el mal humano, pero también el propósito salvador de Dios.",
+    "id": 176,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Vosotros pensasteis mal contra mí, mas Dios lo encaminó a ____'.",
+    "options": [
+      "bien",
+      "juicio",
+      "Egipto",
+      "silencio"
+    ],
+    "answer": "bien",
+    "reference": "Génesis 50:20"
+  },
+  {
+    "context": "José habla con fe sobre el futuro de Israel antes de morir.",
+    "explanation": "La frase recuerda a Abraham, Isaac y Jacob. José muere esperando que Dios cumpla la promesa hecha a los patriarcas.",
+    "id": 180,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "difícil",
+    "prompt": "Completa: 'Dios ciertamente os visitará, y os hará subir de esta tierra a la tierra que juró a ____'.",
+    "options": [
+      "Abraham, Isaac y Jacob",
+      "Caín, Abel y Set",
+      "Simeón, Leví y Judá",
+      "Efraín y Manasés"
+    ],
+    "answer": "Abraham, Isaac y Jacob",
+    "reference": "Génesis 50:24"
+  },
+  {
+    "context": "Génesis 1 muestra a Dios nombrando y ordenando lo creado.",
+    "explanation": "La palabra es Noche. Dios separa la luz de las tinieblas y da nombre a ambas.",
+    "id": 181,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'Y llamó Dios a la luz Día, y a las tinieblas llamó ____'.",
+    "options": [
+      "Noche",
+      "Cielo",
+      "Mar",
+      "Tierra"
+    ],
+    "answer": "Noche",
+    "reference": "Génesis 1:5"
+  },
+  {
+    "context": "En el tercer día Dios reúne las aguas y hace aparecer lo seco.",
+    "explanation": "La palabra es Tierra. El texto presenta a Dios ordenando espacios y dándoles nombre.",
+    "id": 182,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'Y llamó Dios a lo seco ____'.",
+    "options": [
+      "Tierra",
+      "Cielos",
+      "Edén",
+      "Sinar"
+    ],
+    "answer": "Tierra",
+    "reference": "Génesis 1:10"
+  },
+  {
+    "context": "El segundo día se enfoca en la expansión que separa aguas.",
+    "explanation": "La palabra es Cielos. Dios nombra la expansión dentro del orden creado.",
+    "id": 183,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'Y llamó Dios a la expansión ____'.",
+    "options": [
+      "Cielos",
+      "Mares",
+      "Edén",
+      "Babel"
+    ],
+    "answer": "Cielos",
+    "reference": "Génesis 1:8"
+  },
+  {
+    "context": "Génesis 2 describe con más detalle la formación del hombre.",
+    "explanation": "El texto dice polvo de la tierra. La vida humana depende del aliento que Dios sopla.",
+    "id": 184,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "fácil",
+    "prompt": "Según Génesis 2:7, Dios formó al hombre del polvo de la ____.",
+    "options": [
+      "tierra",
+      "montaña",
+      "arena del mar",
+      "ciudad"
+    ],
+    "answer": "tierra",
+    "reference": "Génesis 2:7"
+  },
+  {
+    "context": "Adán responde con reconocimiento al recibir a la mujer formada por Dios.",
+    "explanation": "La palabra es carne. La frase celebra correspondencia, cercanía y unidad entre el hombre y la mujer.",
+    "id": 189,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Esto es ahora hueso de mis huesos y ____ de mi carne'.",
+    "options": [
+      "carne",
+      "polvo",
+      "luz",
+      "agua"
+    ],
+    "answer": "carne",
+    "reference": "Génesis 2:23"
+  },
+  {
+    "context": "La serpiente inicia la tentación distorsionando el mandato de Dios.",
+    "explanation": "La palabra es huerto. La pregunta de la serpiente introduce duda sobre la palabra y la bondad de Dios.",
+    "id": 191,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: '¿Conque Dios os ha dicho: No comáis de todo árbol del ____?'",
+    "options": [
+      "huerto",
+      "campo",
+      "monte",
+      "valle"
+    ],
+    "answer": "huerto",
+    "reference": "Génesis 3:1"
+  },
+  {
+    "context": "Dios llama al hombre después de la desobediencia y de que este se escondiera.",
+    "explanation": "La palabra es tú. La pregunta expone la condición del hombre y abre el diálogo de juicio y misericordia.",
+    "id": 194,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "media",
+    "prompt": "Completa: '¿Dónde estás ____?'",
+    "options": [
+      "tú",
+      "Eva",
+      "Caín",
+      "Noé"
+    ],
+    "answer": "tú",
+    "reference": "Génesis 3:9"
+  },
+  {
+    "context": "Dios pronuncia juicio sobre la serpiente antes de hablar a la mujer y al hombre.",
+    "explanation": "La palabra es campo. La sentencia sobre la serpiente introduce el conflicto que culmina en la promesa de Génesis 3:15.",
+    "id": 198,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "difícil",
+    "prompt": "Completa: 'Maldita serás entre todas las bestias y entre todos los animales del ____'.",
+    "options": [
+      "campo",
+      "huerto",
+      "mar",
+      "cielo"
+    ],
+    "answer": "campo",
+    "reference": "Génesis 3:14"
+  },
+  {
+    "context": "Esta frase abre el libro y el relato de la creación.",
+    "explanation": "La cita correcta es Génesis 1:1, una declaración fundacional sobre Dios como creador.",
+    "id": 225,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: 'En el principio creó Dios los cielos y la tierra'?",
+    "options": [
+      "Génesis 1:1",
+      "Génesis 3:15",
+      "Génesis 12:3",
+      "Génesis 50:20"
+    ],
+    "answer": "Génesis 1:1",
+    "reference": "Génesis 1:1"
+  },
+  {
+    "context": "Dios habla antes de formar a la mujer como ayuda idónea.",
+    "explanation": "La cita es Génesis 2:18 y enseña la dimensión relacional del ser humano.",
+    "id": 226,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: 'No es bueno que el hombre esté solo'?",
+    "options": [
+      "Génesis 2:18",
+      "Génesis 6:8",
+      "Génesis 15:6",
+      "Génesis 28:16"
+    ],
+    "answer": "Génesis 2:18",
+    "reference": "Génesis 2:18"
+  },
+  {
+    "context": "La frase aparece en el contexto del juicio por la corrupción humana.",
+    "explanation": "Génesis 6:8 destaca la gracia de Dios hacia Noé antes del diluvio.",
+    "id": 227,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: 'Mas Noé halló gracia ante los ojos de Jehová'?",
+    "options": [
+      "Génesis 6:8",
+      "Génesis 1:28",
+      "Génesis 22:8",
+      "Génesis 49:10"
+    ],
+    "answer": "Génesis 6:8",
+    "reference": "Génesis 6:8"
+  },
+  {
+    "context": "Abram recibe la promesa de descendencia y cree a Dios.",
+    "explanation": "Génesis 15:6 es clave para entender fe, promesa y justicia.",
+    "id": 228,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: 'Y creyó a Jehová, y le fue contado por justicia'?",
+    "options": [
+      "Génesis 15:6",
+      "Génesis 2:7",
+      "Génesis 11:9",
+      "Génesis 37:28"
+    ],
+    "answer": "Génesis 15:6",
+    "reference": "Génesis 15:6"
+  },
+  {
+    "context": "Dios responde a la risa de Sara ante la promesa de un hijo.",
+    "explanation": "La frase afirma el poder de Dios para cumplir lo humanamente imposible.",
+    "id": 229,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: '¿Acaso hay para Dios alguna cosa difícil?'",
+    "options": [
+      "Génesis 18:14",
+      "Génesis 4:9",
+      "Génesis 30:22",
+      "Génesis 46:3"
+    ],
+    "answer": "Génesis 18:14",
+    "reference": "Génesis 18:14"
+  },
+  {
+    "context": "Isaac pregunta por el cordero mientras suben al monte.",
+    "explanation": "Génesis 22:8 anticipa la provisión de Dios en el sacrificio.",
+    "id": 230,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: 'Dios se proveerá de cordero para el holocausto'?",
+    "options": [
+      "Génesis 22:8",
+      "Génesis 1:5",
+      "Génesis 9:13",
+      "Génesis 32:28"
+    ],
+    "answer": "Génesis 22:8",
+    "reference": "Génesis 22:8"
+  },
+  {
+    "context": "Jacob despierta después del sueño en Bet-el.",
+    "explanation": "La cita muestra el asombro de Jacob ante la presencia de Dios.",
+    "id": 231,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: 'Ciertamente Jehová está en este lugar, y yo no lo sabía'?",
+    "options": [
+      "Génesis 28:16",
+      "Génesis 19:26",
+      "Génesis 23:2",
+      "Génesis 41:39"
+    ],
+    "answer": "Génesis 28:16",
+    "reference": "Génesis 28:16"
+  },
+  {
+    "context": "José habla a sus hermanos después de la muerte de Jacob.",
+    "explanation": "Génesis 50:20 resume providencia, perdón y preservación de vida.",
+    "id": 232,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: 'Vosotros pensasteis mal contra mí, mas Dios lo encaminó a bien'?",
+    "options": [
+      "Génesis 50:20",
+      "Génesis 3:1",
+      "Génesis 10:1",
+      "Génesis 24:12"
+    ],
+    "answer": "Génesis 50:20",
+    "reference": "Génesis 50:20"
+  },
+  {
+    "context": "Dios reúne las aguas y hace aparecer lo seco.",
+    "explanation": "La palabra es Tierra; el relato muestra a Dios ordenando y nombrando.",
+    "id": 233,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'Y llamó Dios a lo seco ____'.",
+    "options": [
+      "Tierra",
+      "Cielos",
+      "Edén",
+      "Babel"
+    ],
+    "answer": "Tierra",
+    "reference": "Génesis 1:10"
+  },
+  {
+    "context": "La frase forma parte de la bendición dada al ser humano.",
+    "explanation": "La palabra es multiplicaos; expresa el mandato de llenar la tierra bajo la bendición de Dios.",
+    "id": 234,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'Fructificad y ____; llenad la tierra'.",
+    "options": [
+      "multiplicaos",
+      "escondeos",
+      "huid",
+      "callad"
+    ],
+    "answer": "multiplicaos",
+    "reference": "Génesis 1:28"
+  },
+  {
+    "context": "Dios establece pacto con Noé y todo ser viviente.",
+    "explanation": "Génesis 9:13 identifica el arco iris como señal del pacto.",
+    "id": 235,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita habla del arco iris como señal del pacto después del diluvio?",
+    "options": [
+      "Génesis 9:13",
+      "Génesis 2:18",
+      "Génesis 18:14",
+      "Génesis 31:47"
+    ],
+    "answer": "Génesis 9:13",
+    "reference": "Génesis 9:13"
+  },
+  {
+    "context": "El cambio ocurre después de la lucha nocturna.",
+    "explanation": "Génesis 32:28 registra el nuevo nombre de Jacob: Israel.",
+    "id": 236,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde al cambio de nombre de Jacob a Israel?",
+    "options": [
+      "Génesis 32:28",
+      "Génesis 17:5",
+      "Génesis 21:6",
+      "Génesis 45:3"
+    ],
+    "answer": "Génesis 32:28",
+    "reference": "Génesis 32:28"
+  },
+  {
+    "context": "José se revela a sus hermanos después de probarlos.",
+    "explanation": "La cita muestra el momento emocional en que José revela su identidad.",
+    "id": 237,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué cita corresponde a: 'Yo soy José; ¿vive aún mi padre?'",
+    "options": [
+      "Génesis 45:3",
+      "Génesis 12:2",
+      "Génesis 27:9",
+      "Génesis 35:1"
+    ],
+    "answer": "Génesis 45:3",
+    "reference": "Génesis 45:3"
+  },
+  {
+    "context": "Dios anima a Abram después del conflicto narrado en Génesis 14.",
+    "explanation": "La palabra es escudo; Dios se presenta como protección y recompensa.",
+    "id": 238,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'No temas, Abram; yo soy tu ____'.",
+    "options": [
+      "escudo",
+      "camino",
+      "siervo",
+      "pozo"
+    ],
+    "answer": "escudo",
+    "reference": "Génesis 15:1"
+  },
+  {
+    "context": "La promesa aparece en el llamado de Abram.",
+    "explanation": "Génesis 12:3 muestra que la bendición dada a Abram tiene alcance universal.",
+    "id": 239,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué cita corresponde a la promesa: 'serán benditas en ti todas las familias de la tierra'?",
+    "options": [
+      "Génesis 12:3",
+      "Génesis 4:7",
+      "Génesis 26:22",
+      "Génesis 34:25"
+    ],
+    "answer": "Génesis 12:3",
+    "reference": "Génesis 12:3"
+  },
+  {
+    "context": "Caín responde a Dios después de matar a Abel.",
+    "explanation": "La cita revela evasión de responsabilidad y dureza ante el pecado.",
+    "id": 240,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué cita corresponde a: '¿Soy yo acaso guarda de mi hermano?'",
+    "options": [
+      "Génesis 4:9",
+      "Génesis 18:14",
+      "Génesis 22:8",
+      "Génesis 48:14"
+    ],
+    "answer": "Génesis 4:9",
+    "reference": "Génesis 4:9"
+  },
+  {
+    "context": "Dios advierte a Caín antes del asesinato de Abel.",
+    "explanation": "La frase muestra que Caín debía resistir y dominar el pecado.",
+    "id": 241,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué cita corresponde a la frase: 'el pecado está a la puerta'?",
+    "options": [
+      "Génesis 4:7",
+      "Génesis 1:31",
+      "Génesis 14:20",
+      "Génesis 47:6"
+    ],
+    "answer": "Génesis 4:7",
+    "reference": "Génesis 4:7"
+  },
+  {
+    "context": "Melquisedec bendice a Abram después del rescate de Lot.",
+    "explanation": "La cita atribuye la victoria al Dios Altísimo.",
+    "id": 242,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué cita corresponde a: 'Dios Altísimo, creador de los cielos y de la tierra'?",
+    "options": [
+      "Génesis 14:19",
+      "Génesis 3:24",
+      "Génesis 29:32",
+      "Génesis 41:14"
+    ],
+    "answer": "Génesis 14:19",
+    "reference": "Génesis 14:19"
+  },
+  {
+    "context": "Dios llama a Jacob a renovar adoración después de la crisis de Siquem.",
+    "explanation": "La cita conecta Bet-el con memoria, adoración y obediencia.",
+    "id": 243,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué cita corresponde a la orden de subir a Bet-el y hacer allí un altar?",
+    "options": [
+      "Génesis 35:1",
+      "Génesis 11:4",
+      "Génesis 20:3",
+      "Génesis 50:1"
+    ],
+    "answer": "Génesis 35:1",
+    "reference": "Génesis 35:1"
+  },
+  {
+    "context": "Dios habla a Jacob en Beer-seba antes de descender a Egipto.",
+    "explanation": "La cita confirma la presencia de Dios en el traslado de la familia a Egipto.",
+    "id": 244,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué cita corresponde a: 'No temas de descender a Egipto'?",
+    "options": [
+      "Génesis 46:3",
+      "Génesis 28:19",
+      "Génesis 8:11",
+      "Génesis 21:33"
+    ],
+    "answer": "Génesis 46:3",
+    "reference": "Génesis 46:3"
+  },
+  {
+    "context": "José muere esperando la visita futura de Dios a Israel.",
+    "explanation": "La cita expresa fe en que Dios sacaría a su pueblo de Egipto.",
+    "id": 245,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué cita corresponde al pedido de José sobre sus huesos?",
+    "options": [
+      "Génesis 50:25",
+      "Génesis 23:19",
+      "Génesis 31:19",
+      "Génesis 41:41"
+    ],
+    "answer": "Génesis 50:25",
+    "reference": "Génesis 50:25"
+  },
+  {
+    "context": "Jacob bendice a sus hijos antes de morir.",
+    "explanation": "La cita de Judá es clave para la expectativa de liderazgo real.",
+    "id": 246,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a la bendición: 'No será quitado el cetro de Judá'?",
+    "options": [
+      "Génesis 49:10",
+      "Génesis 37:3",
+      "Génesis 21:5",
+      "Génesis 6:14"
+    ],
+    "answer": "Génesis 49:10",
+    "reference": "Génesis 49:10"
+  },
+  {
+    "context": "Abraham nombra el lugar después de que Dios provee el carnero.",
+    "explanation": "Jehová-jireh recuerda la provisión de Dios en Moriah.",
+    "id": 247,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a: 'Jehová-jireh'?",
+    "options": [
+      "Génesis 22:14",
+      "Génesis 16:13",
+      "Génesis 28:19",
+      "Génesis 31:49"
+    ],
+    "answer": "Génesis 22:14",
+    "reference": "Génesis 22:14"
+  },
+  {
+    "context": "Dios confirma su pacto con Abraham y su descendencia.",
+    "explanation": "La circuncisión funciona como señal visible del pacto abrahámico.",
+    "id": 248,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a la señal de la circuncisión como pacto?",
+    "options": [
+      "Génesis 17:10-11",
+      "Génesis 9:13",
+      "Génesis 24:14",
+      "Génesis 32:30"
+    ],
+    "answer": "Génesis 17:10-11",
+    "reference": "Génesis 17:10-11"
+  },
+  {
+    "context": "La genealogía de Génesis 5 repite la muerte, pero Enoc aparece como excepción.",
+    "explanation": "La cita destaca comunión con Dios en medio de una línea marcada por muerte.",
+    "id": 249,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita menciona que Enoc caminó con Dios y desapareció?",
+    "options": [
+      "Génesis 5:24",
+      "Génesis 8:20",
+      "Génesis 13:10",
+      "Génesis 39:2"
+    ],
+    "answer": "Génesis 5:24",
+    "reference": "Génesis 5:24"
+  },
+  {
+    "context": "José prepara una prueba final para sus hermanos.",
+    "explanation": "La copa en el saco de Benjamín expone si los hermanos protegerán al menor.",
+    "id": 250,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a la copa de plata puesta en el saco de Benjamín?",
+    "options": [
+      "Génesis 44:2",
+      "Génesis 22:8",
+      "Génesis 31:47",
+      "Génesis 4:9"
+    ],
+    "answer": "Génesis 44:2",
+    "reference": "Génesis 44:2"
+  },
+  {
+    "context": "José presenta a sus hijos a Jacob según el orden esperado.",
+    "explanation": "Jacob cruza sus manos, mostrando que la bendición no depende del orden humano.",
+    "id": 251,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a Jacob cruzando sus manos para bendecir a Efraín y Manasés?",
+    "options": [
+      "Génesis 48:14",
+      "Génesis 27:9",
+      "Génesis 35:1",
+      "Génesis 42:20"
+    ],
+    "answer": "Génesis 48:14",
+    "reference": "Génesis 48:14"
+  },
+  {
+    "context": "Jacob sale de la casa de Labán, y Raquel toma objetos de su padre.",
+    "explanation": "La cita introduce tensión familiar y religiosa al salir de Harán.",
+    "id": 252,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a los ídolos domésticos tomados por Raquel?",
+    "options": [
+      "Génesis 31:19",
+      "Génesis 19:26",
+      "Génesis 20:3",
+      "Génesis 46:28"
+    ],
+    "answer": "Génesis 31:19",
+    "reference": "Génesis 31:19"
+  },
+  {
+    "context": "Jacob y Labán nombran el majano del pacto.",
+    "explanation": "Jegar Sahaduta y Galaad se refieren al majano como testigo del acuerdo.",
+    "id": 253,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde al nombre arameo Jegar Sahaduta?",
+    "options": [
+      "Génesis 31:47",
+      "Génesis 28:19",
+      "Génesis 26:22",
+      "Génesis 14:18"
+    ],
+    "answer": "Génesis 31:47",
+    "reference": "Génesis 31:47"
+  },
+  {
+    "context": "Después de la caída, Dios expulsa al ser humano del huerto.",
+    "explanation": "La cita menciona querubines y espada encendida guardando el camino al árbol de la vida.",
+    "id": 254,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde al mandato de guardar el camino al árbol de la vida?",
+    "options": [
+      "Génesis 3:24",
+      "Génesis 9:13",
+      "Génesis 12:3",
+      "Génesis 50:20"
+    ],
+    "answer": "Génesis 3:24",
+    "reference": "Génesis 3:24"
+  },
+  {
+    "context": "Dios habla a Abram después de su victoria y encuentro con Melquisedec.",
+    "explanation": "La cita presenta a Dios como protección y recompensa de Abram.",
+    "id": 255,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a la frase: 'No temas, Abram; yo soy tu escudo'?",
+    "options": [
+      "Génesis 15:1",
+      "Génesis 21:33",
+      "Génesis 33:20",
+      "Génesis 43:30"
+    ],
+    "answer": "Génesis 15:1",
+    "reference": "Génesis 15:1"
+  },
+  {
+    "context": "Faraón sueña antes de que José sea llamado desde la cárcel.",
+    "explanation": "La cita introduce el sueño que José interpreta como años de abundancia y hambre.",
+    "id": 256,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a las siete vacas gordas y siete vacas flacas?",
+    "options": [
+      "Génesis 41:2-4",
+      "Génesis 7:12",
+      "Génesis 18:6-8",
+      "Génesis 26:18"
+    ],
+    "answer": "Génesis 41:2-4",
+    "reference": "Génesis 41:2-4"
+  },
+  {
+    "context": "Isaac nace después de una larga espera de la promesa.",
+    "explanation": "La edad de Abraham subraya que el cumplimiento dependía del poder de Dios.",
+    "id": 257,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde al nacimiento de Isaac cuando Abraham tenía cien años?",
+    "options": [
+      "Génesis 21:5",
+      "Génesis 17:5",
+      "Génesis 25:26",
+      "Génesis 30:24"
+    ],
+    "answer": "Génesis 21:5",
+    "reference": "Génesis 21:5"
+  },
+  {
+    "context": "Abraham negocia una sepultura después de la muerte de Sara.",
+    "explanation": "La compra de Macpela es una posesión legal significativa en la tierra prometida.",
+    "id": 258,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a la compra de Macpela por Abraham?",
+    "options": [
+      "Génesis 23:17-20",
+      "Génesis 14:14",
+      "Génesis 31:47",
+      "Génesis 46:1"
+    ],
+    "answer": "Génesis 23:17-20",
+    "reference": "Génesis 23:17-20"
+  },
+  {
+    "context": "Los hermanos temen represalias después de la muerte de Jacob.",
+    "explanation": "José rechaza ocupar el lugar de Dios y responde con misericordia.",
+    "id": 259,
+    "category": "memoria",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué cita corresponde a José diciendo: '¿Estoy yo en lugar de Dios?'",
+    "options": [
+      "Génesis 50:19",
+      "Génesis 45:3",
+      "Génesis 39:9",
+      "Génesis 22:14"
+    ],
+    "answer": "Génesis 50:19",
+    "reference": "Génesis 50:19"
+  }
+]

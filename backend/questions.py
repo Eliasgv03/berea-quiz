@@ -1,3 +1,8 @@
+try:
+    from .supplemental_questions import SUPPLEMENTAL_QUESTIONS
+except ImportError:
+    from supplemental_questions import SUPPLEMENTAL_QUESTIONS
+
 QUESTIONS = [
     {
         "id": 1,
@@ -2736,7 +2741,7 @@ DIFFICULTY_OVERRIDES = {
 
 def get_questions() -> list[dict]:
     enriched = []
-    for question in QUESTIONS:
+    for question in [*QUESTIONS, *SUPPLEMENTAL_QUESTIONS]:
         question_details = OLD_QUESTION_DETAILS.get(question["id"], {})
         enriched.append(
             {
