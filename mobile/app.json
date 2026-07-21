@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Génesis Quiz",
+    "slug": "genesis-quiz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.berea.genesisquiz"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7618910e-eb58-4047-b743-ff28b116328d"
+      }
+    }
+  }
+}
