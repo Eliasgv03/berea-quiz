@@ -3,6 +3,7 @@ import { StatusBar } from "expo-status-bar";
 import { useEffect, useMemo, useState } from "react";
 import {
   Image,
+  Modal,
   Pressable,
   SafeAreaView,
   ScrollView,
@@ -49,7 +50,7 @@ const QUESTIONS = [
   ...(teologia as Question[]),
 ].sort((a, b) => a.id - b.id);
 const ALL_FILTER = "todas";
-const BOOKS = ["Génesis"];
+const BOOKS = ["Todos", "Génesis"];
 const STORAGE_KEY = "berea-question-stats-v2";
 
 function shuffle<T>(items: T[]) {
@@ -75,7 +76,8 @@ function getStat(stats: StoredStats, id: number) {
 export default function App() {
   const [screen, setScreen] = useState<Screen>("home");
   const [themeName, setThemeName] = useState<ThemeName>("light");
-  const [bookFilter] = useState(BOOKS[0]);
+  const [bookFilter, setBookFilter] = useState(BOOKS[0]);
+  const [bookMenuOpen, setBookMenuOpen] = useState(false);
   const [difficultyFilter, setDifficultyFilter] = useState<string>(ALL_FILTER);
   const [categoryFilter, setCategoryFilter] = useState<string>(ALL_FILTER);
   const [roundQuestions, setRoundQuestions] = useState<Question[]>([]);
@@ -181,10 +183,10 @@ export default function App() {
         <Text style={styles.topBrand}>Berea</Text>
         <View style={styles.topActions}>
           <Pressable onPress={() => setThemeName(themeName === "light" ? "dark" : "light")} style={styles.topButton}>
-            <Text style={styles.topButtonText}>{themeName === "light" ? "Oscuro" : "Claro"}</Text>
+            <Text style={styles.topButtonText}>{themeName === "light" ? "☾" : "☼"}</Text>
           </Pressable>
           <Pressable onPress={() => setScreen("stats")} style={styles.topButton}>
-            <Text style={styles.topButtonText}>Estadísticas</Text>
+            <Text style={styles.topButtonText}>▤</Text>
           </Pressable>
         </View>
       </View>
@@ -194,10 +196,12 @@ export default function App() {
   function HomeScreen() {
     return (
       <View style={styles.hero}>
-        <Image source={logo} style={styles.heroLogo} resizeMode="contain" />
+        <View style={styles.logoFrame}>
+          <Image source={logo} style={styles.heroLogo} resizeMode="contain" />
+        </View>
         <Text style={styles.heroBrand}>Berea</Text>
-        <Text style={styles.heroTitle}>Quiz bíblico de Génesis</Text>
-        <Text style={styles.heroText}>Practica por categoría y dificultad, revisa cada explicación y mide tu avance.</Text>
+        <Text style={styles.heroTitle}>Quiz bíblico</Text>
+        <Text style={styles.heroText}>Escudriña las Escrituras, una pregunta a la vez.</Text>
         <Pressable onPress={() => setScreen("setup")} style={styles.primaryButton}>
           <Text style={styles.primaryButtonText}>Comenzar</Text>
         </Pressable>
@@ -210,13 +214,28 @@ export default function App() {
       <View style={styles.card}>
         <Text style={styles.screenTitle}>Configurar ronda</Text>
         <Text style={styles.label}>Libro</Text>
-        <View style={styles.chips}>
-          {BOOKS.map((book) => (
-            <View key={book} style={[styles.chip, styles.chipActive]}>
-              <Text style={[styles.chipText, styles.chipTextActive]}>{book}</Text>
-            </View>
-          ))}
-        </View>
+        <Pressable onPress={() => setBookMenuOpen((value) => !value)} style={styles.dropdown}>
+          <Text style={styles.dropdownText}>{bookFilter}</Text>
+          <Text style={styles.dropdownIcon}>{bookMenuOpen ? "▲" : "▼"}</Text>
+        </Pressable>
+        {bookMenuOpen && (
+          <View style={styles.dropdownMenu}>
+            {BOOKS.map((book) => (
+              <Pressable
+                key={book}
+                onPress={() => {
+                  setBookFilter(book);
+                  setBookMenuOpen(false);
+                }}
+                style={[styles.dropdownItem, bookFilter === book && styles.dropdownItemActive]}
+              >
+                <Text style={[styles.dropdownText, bookFilter === book && styles.dropdownItemTextActive]}>
+                  {book}
+                </Text>
+              </Pressable>
+            ))}
+          </View>
+        )}
 
         <Text style={styles.label}>Dificultad</Text>
         <View style={styles.chips}>
@@ -312,26 +331,30 @@ export default function App() {
           })}
         </View>
 
-        {selected && (
-          <View style={styles.feedback}>
-            <Text style={[styles.result, selected === current.answer ? styles.resultOk : styles.resultBad]}>
-              {selected === current.answer ? "Correcto." : `Incorrecto. Respuesta correcta: ${current.answer}.`}
-            </Text>
-            <Text style={styles.sectionTitle}>Contexto</Text>
-            <Text style={styles.bodyText}>{current.context}</Text>
-            <Text style={styles.sectionTitle}>Explicación</Text>
-            <Text style={styles.bodyText}>{current.explanation}</Text>
-            <Text style={styles.reference}>Referencia: {current.reference}</Text>
-            <Text style={styles.bodyText}>
-              Esta pregunta: {currentStat.correct}/{currentStat.attempts} aciertos.
-            </Text>
-            <Pressable onPress={nextQuestion} style={styles.primaryButton}>
-              <Text style={styles.primaryButtonText}>
-                {currentIndex + 1 >= roundQuestions.length ? "Finalizar" : "Siguiente"}
+        <Modal transparent visible={Boolean(selected)} animationType="fade" onRequestClose={nextQuestion}>
+          <View style={styles.modalBackdrop}>
+            <View style={styles.feedbackModal}>
+              <Text style={[styles.result, selected === current.answer ? styles.resultOk : styles.resultBad]}>
+                {selected === current.answer ? "Correcto." : `Incorrecto. Respuesta correcta: ${current.answer}.`}
               </Text>
-            </Pressable>
+              <ScrollView style={styles.modalScroll} contentContainerStyle={styles.modalContent}>
+                <Text style={styles.sectionTitle}>Contexto</Text>
+                <Text style={styles.bodyText}>{current.context}</Text>
+                <Text style={styles.sectionTitle}>Explicación</Text>
+                <Text style={styles.bodyText}>{current.explanation}</Text>
+                <Text style={styles.reference}>Referencia: {current.reference}</Text>
+                <Text style={styles.bodyText}>
+                  Esta pregunta: {currentStat.correct}/{currentStat.attempts} aciertos.
+                </Text>
+              </ScrollView>
+              <Pressable onPress={nextQuestion} style={styles.primaryButton}>
+                <Text style={styles.primaryButtonText}>
+                  {currentIndex + 1 >= roundQuestions.length ? "Finalizar" : "Siguiente"}
+                </Text>
+              </Pressable>
+            </View>
           </View>
-        )}
+        </Modal>
       </View>
     );
   }
@@ -456,14 +479,18 @@ function createStyles(theme: typeof lightTheme) {
       gap: 8,
     },
     topButton: {
+      alignItems: "center",
       borderColor: theme.line,
       borderRadius: 8,
       borderWidth: 1,
+      justifyContent: "center",
+      minHeight: 38,
+      minWidth: 42,
       paddingHorizontal: 10,
-      paddingVertical: 8,
     },
     topButtonText: {
       color: theme.ink,
+      fontSize: 20,
       fontWeight: "800",
     },
     container: {
@@ -472,16 +499,30 @@ function createStyles(theme: typeof lightTheme) {
     },
     hero: {
       alignItems: "center",
-      gap: 10,
+      gap: 12,
       paddingVertical: 28,
     },
+    logoFrame: {
+      alignItems: "center",
+      backgroundColor: "#f8f6ef",
+      borderColor: "rgba(194, 154, 73, 0.28)",
+      borderRadius: 8,
+      borderWidth: 1,
+      justifyContent: "center",
+      paddingHorizontal: 10,
+      paddingVertical: 8,
+      shadowColor: "#000000",
+      shadowOffset: { height: 4, width: 0 },
+      shadowOpacity: 0.16,
+      shadowRadius: 12,
+    },
     heroLogo: {
-      height: 190,
-      width: 240,
+      height: 150,
+      width: 200,
     },
     heroBrand: {
       color: theme.accent,
-      fontSize: 18,
+      fontSize: 34,
       fontWeight: "900",
       textTransform: "uppercase",
     },
@@ -521,6 +562,45 @@ function createStyles(theme: typeof lightTheme) {
       flexDirection: "row",
       flexWrap: "wrap",
       gap: 8,
+    },
+    dropdown: {
+      alignItems: "center",
+      borderColor: theme.line,
+      borderRadius: 8,
+      borderWidth: 1,
+      flexDirection: "row",
+      justifyContent: "space-between",
+      minHeight: 48,
+      paddingHorizontal: 12,
+    },
+    dropdownText: {
+      color: theme.ink,
+      fontSize: 16,
+      fontWeight: "800",
+    },
+    dropdownIcon: {
+      color: theme.muted,
+      fontSize: 14,
+      fontWeight: "900",
+    },
+    dropdownMenu: {
+      borderColor: theme.line,
+      borderRadius: 8,
+      borderWidth: 1,
+      overflow: "hidden",
+    },
+    dropdownItem: {
+      backgroundColor: theme.panel,
+      borderBottomColor: theme.line,
+      borderBottomWidth: 1,
+      paddingHorizontal: 12,
+      paddingVertical: 12,
+    },
+    dropdownItemActive: {
+      backgroundColor: theme.panelSoft,
+    },
+    dropdownItemTextActive: {
+      color: theme.accent,
     },
     chip: {
       borderColor: theme.line,
@@ -639,6 +719,30 @@ function createStyles(theme: typeof lightTheme) {
       borderRadius: 8,
       gap: 8,
       padding: 14,
+    },
+    modalBackdrop: {
+      alignItems: "center",
+      backgroundColor: "rgba(0, 0, 0, 0.55)",
+      flex: 1,
+      justifyContent: "center",
+      padding: 18,
+    },
+    feedbackModal: {
+      backgroundColor: theme.panel,
+      borderColor: theme.line,
+      borderRadius: 8,
+      borderWidth: 1,
+      gap: 12,
+      maxHeight: "78%",
+      padding: 16,
+      width: "100%",
+    },
+    modalScroll: {
+      flexGrow: 0,
+    },
+    modalContent: {
+      gap: 8,
+      paddingBottom: 4,
     },
     result: {
       fontWeight: "900",
