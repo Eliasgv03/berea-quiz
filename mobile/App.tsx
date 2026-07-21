@@ -5,12 +5,14 @@ import {
   Pressable,
   SafeAreaView,
   ScrollView,
+  Image,
   StyleSheet,
   Text,
   TextInput,
   View,
 } from "react-native";
 import questionsData from "./src/data/questions.json";
+import logo from "./assets/logo1.png";
 
 type Difficulty = "fácil" | "media" | "difícil";
 
@@ -160,8 +162,10 @@ export default function App() {
       <StatusBar style="dark" />
       <ScrollView contentContainerStyle={styles.container}>
         <View style={styles.header}>
-          <Text style={styles.eyebrow}>Génesis Quiz</Text>
-          <Text style={styles.title}>Preguntas bíblicas offline</Text>
+          <Image source={logo} style={styles.logo} resizeMode="contain" />
+          <Text style={styles.eyebrow}>Berea</Text>
+          <Text style={styles.title}>Quiz bíblico de Génesis</Text>
+          <Text style={styles.subtitle}>Estudia, responde y guarda tu progreso.</Text>
         </View>
 
         <View style={styles.statsRow}>
@@ -300,18 +304,32 @@ const styles = StyleSheet.create({
     padding: 18,
   },
   header: {
+    alignItems: "center",
     gap: 6,
+    paddingVertical: 10,
+  },
+  logo: {
+    height: 132,
+    width: 180,
   },
   eyebrow: {
     color: "#236c52",
-    fontSize: 13,
-    fontWeight: "800",
+    fontSize: 16,
+    fontWeight: "900",
     textTransform: "uppercase",
   },
   title: {
     color: "#18231d",
     fontSize: 30,
     fontWeight: "900",
+    textAlign: "center",
+  },
+  subtitle: {
+    color: "#5f6d64",
+    fontSize: 15,
+    lineHeight: 22,
+    maxWidth: 300,
+    textAlign: "center",
   },
   statsRow: {
     flexDirection: "row",
@@ -470,4 +488,3 @@ const styles = StyleSheet.create({
     fontWeight: "900",
   },
 });
-

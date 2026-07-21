@@ -17,6 +17,10 @@
     "@types/react": "~18.3.12",
     "typescript": "^5.3.3"
   },
+  "overrides": {
+    "ora@3.4.0": {
+      "strip-ansi": "5.2.0"
+    }
+  },
   "private": true
 }
-

@@ -1,15 +1,25 @@
 {
   "expo": {
-    "name": "Génesis Quiz",
+    "name": "Berea",
     "slug": "genesis-quiz",
     "version": "1.0.0",
     "orientation": "portrait",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f4f7f5"
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
     "android": {
-      "package": "com.berea.genesisquiz"
+      "package": "com.berea.genesisquiz",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f4f7f5"
+      }
     },
     "extra": {
       "eas": {
