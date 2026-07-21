@@ -2,13 +2,13 @@
 
 Berea is an offline-first Bible quiz application focused on careful Scripture study. The project currently includes a large Spanish question bank for Genesis, with support for filtering by difficulty and category, local progress tracking, explanations after each answer, and a mobile app experience built with Expo.
 
-The codebase is organized as a monorepo so the backend, web prototype, and mobile application can evolve together.
+The codebase is organized as a monorepo so the backend, mobile application, and upcoming web version can evolve together.
 
 ## Project Structure
 
 ```text
 backend/   Python API prototype and canonical question tooling
-frontend/  Next.js web prototype
+frontend/  Next.js web version prototype
 mobile/    Expo React Native mobile app
 ```
 
@@ -22,6 +22,7 @@ mobile/    Expo React Native mobile app
 - Light and dark themes.
 - Offline-ready mobile question data bundled inside the app.
 - EAS Build configuration for Android APK and production app bundle builds.
+- Planned web version built from the same product direction.
 
 ## Mobile App
 
@@ -83,7 +84,9 @@ eas build -p android --profile preview --clear-cache
 
 After the build finishes, open the EAS build URL and download the APK artifact.
 
-## Web Prototype
+## Web Version
+
+A full web version is planned. The current Next.js app is a prototype that will continue evolving alongside the mobile experience.
 
 ```powershell
 cd frontend

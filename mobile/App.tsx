@@ -11,7 +11,7 @@ import {
   Text,
   View,
 } from "react-native";
-import logo from "./assets/logo1.png";
+import logo from "./assets/logo.png";
 import eventos from "./src/data/genesis/eventos.json";
 import lugares from "./src/data/genesis/lugares.json";
 import memoria from "./src/data/genesis/memoria.json";
@@ -196,12 +196,13 @@ export default function App() {
   function HomeScreen() {
     return (
       <View style={styles.hero}>
-        <View style={styles.logoFrame}>
+        <View style={styles.logoStage}>
+          <View style={styles.logoHalo} />
           <Image source={logo} style={styles.heroLogo} resizeMode="contain" />
         </View>
         <Text style={styles.heroBrand}>Berea</Text>
         <Text style={styles.heroTitle}>Quiz bíblico</Text>
-        <Text style={styles.heroText}>Escudriña las Escrituras, una pregunta a la vez.</Text>
+        <Text style={styles.heroText}>Escudriñando las Escrituras cada día.</Text>
         <Pressable onPress={() => setScreen("setup")} style={styles.primaryButton}>
           <Text style={styles.primaryButtonText}>Comenzar</Text>
         </Pressable>
@@ -502,23 +503,22 @@ function createStyles(theme: typeof lightTheme) {
       gap: 12,
       paddingVertical: 28,
     },
-    logoFrame: {
+    logoStage: {
       alignItems: "center",
-      backgroundColor: "#f8f6ef",
-      borderColor: "rgba(194, 154, 73, 0.28)",
-      borderRadius: 8,
-      borderWidth: 1,
+      height: 240,
       justifyContent: "center",
-      paddingHorizontal: 10,
-      paddingVertical: 8,
-      shadowColor: "#000000",
-      shadowOffset: { height: 4, width: 0 },
-      shadowOpacity: 0.16,
-      shadowRadius: 12,
+      width: "100%",
+    },
+    logoHalo: {
+      backgroundColor: theme.bg === "#101512" ? "rgba(237, 243, 239, 0.1)" : "rgba(35, 108, 82, 0.05)",
+      borderRadius: 125,
+      height: 250,
+      position: "absolute",
+      width: 250,
     },
     heroLogo: {
-      height: 150,
-      width: 200,
+      height: 240,
+      width: 300,
     },
     heroBrand: {
       color: theme.accent,
