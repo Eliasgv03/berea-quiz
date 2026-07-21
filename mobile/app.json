@@ -21,14 +21,14 @@
         "backgroundColor": "#f4f7f5"
       }
     },
-    "extra": {
-      "eas": {
-        "projectId": "99cccce9-71b8-496f-8c95-c99f7facfee8"
-      }
-    },
     "plugins": [
       "expo-asset"
     ],
-    "owner": "eliasgv03"
+    "owner": "gonvaldes",
+    "extra": {
+      "eas": {
+        "projectId": "bf30345d-f0cb-430f-8f0e-cfd023ba4abd"
+      }
+    }
   }
 }
