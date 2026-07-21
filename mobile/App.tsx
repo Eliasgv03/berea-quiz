@@ -4,10 +4,12 @@ import { useEffect, useMemo, useState } from "react";
 import {
   Image,
   Modal,
+  Platform,
   Pressable,
   SafeAreaView,
   ScrollView,
   StyleSheet,
+  StatusBar as NativeStatusBar,
   Text,
   View,
 } from "react-native";
@@ -412,7 +414,11 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.safeArea}>
-      <StatusBar style={themeName === "light" ? "dark" : "light"} />
+      <StatusBar
+        backgroundColor={theme.panel}
+        style={themeName === "light" ? "dark" : "light"}
+        translucent
+      />
       <TopBar />
       <ScrollView contentContainerStyle={styles.container}>
         {screen === "home" && <HomeScreen />}
@@ -468,7 +474,8 @@ function createStyles(theme: typeof lightTheme) {
       flexDirection: "row",
       justifyContent: "space-between",
       paddingHorizontal: 16,
-      paddingVertical: 10,
+      paddingBottom: 10,
+      paddingTop: Platform.OS === "android" ? (NativeStatusBar.currentHeight ?? 0) + 10 : 10,
     },
     topBrand: {
       color: theme.ink,
@@ -495,13 +502,19 @@ function createStyles(theme: typeof lightTheme) {
       fontWeight: "800",
     },
     container: {
+      alignItems: "center",
+      flexGrow: 1,
       gap: 16,
-      padding: 18,
+      justifyContent: "center",
+      paddingHorizontal: 18,
+      paddingVertical: 28,
     },
     hero: {
       alignItems: "center",
       gap: 12,
+      maxWidth: 560,
       paddingVertical: 28,
+      width: "100%",
     },
     logoStage: {
       alignItems: "center",
@@ -540,12 +553,15 @@ function createStyles(theme: typeof lightTheme) {
       textAlign: "center",
     },
     card: {
+      alignSelf: "center",
       backgroundColor: theme.panel,
       borderColor: theme.line,
       borderRadius: 8,
       borderWidth: 1,
       gap: 14,
+      maxWidth: 620,
       padding: 16,
+      width: "100%",
     },
     screenTitle: {
       color: theme.ink,
