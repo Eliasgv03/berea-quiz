@@ -1154,5 +1154,90 @@
     ],
     "answer": "Bilha",
     "reference": "Génesis 30:7-8"
+  },
+  {
+    "context": "Enoc aparece en la genealogía de Génesis 5 con una descripción distinta a la fórmula común de muerte.",
+    "explanation": "Enoc caminó con Dios y desapareció porque le llevó Dios. Su vida destaca comunión con Dios en medio de una genealogía marcada por muerte.",
+    "id": 328,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién caminó con Dios y desapareció porque Dios lo llevó?",
+    "options": [
+      "Matusalén",
+      "Noé",
+      "Enoc",
+      "Lamec"
+    ],
+    "answer": "Enoc",
+    "reference": "Génesis 5:24"
+  },
+  {
+    "context": "Rebeca recibe una palabra de Jehová antes del nacimiento de sus hijos gemelos.",
+    "explanation": "Esaú y Jacob luchaban en su vientre. La respuesta divina anuncia dos pueblos y una inversión: el mayor serviría al menor.",
+    "id": 329,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Quiénes luchaban en el vientre de Rebeca?",
+    "options": [
+      "Efraín y Manasés",
+      "Esaú y Jacob",
+      "Caín y Abel",
+      "Fares y Zara"
+    ],
+    "answer": "Esaú y Jacob",
+    "reference": "Génesis 25:22-26"
+  },
+  {
+    "context": "Rubén intenta librar a José de sus hermanos proponiendo que no lo maten directamente.",
+    "explanation": "Rubén quería volver para sacar a José de la cisterna. Su plan falla cuando José es vendido mientras él no está presente.",
+    "id": 330,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Quién intentó librar a José de sus hermanos para devolverlo a su padre?",
+    "options": [
+      "Simeón",
+      "Judá",
+      "Rubén",
+      "Leví"
+    ],
+    "answer": "Rubén",
+    "reference": "Génesis 37:21-22"
+  },
+  {
+    "context": "Tamar actúa después de que Judá no cumple con darle a Sela como esposo, según la obligación familiar esperada.",
+    "explanation": "Tamar queda ligada a la línea de Judá por el nacimiento de Fares y Zara. El relato expone pecado, justicia relativa y preservación de descendencia.",
+    "id": 331,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Quién fue la madre de Fares y Zara en la línea de Judá?",
+    "options": [
+      "Dina",
+      "Tamar",
+      "Bilha",
+      "Zilpa"
+    ],
+    "answer": "Tamar",
+    "reference": "Génesis 38:27-30"
+  },
+  {
+    "context": "Cuando José prueba a sus hermanos en Egipto, uno de ellos queda detenido mientras los demás vuelven a Canaán.",
+    "explanation": "Simeón queda preso ante los ojos de sus hermanos. La prueba busca traer a Benjamín y confrontar el corazón de la familia.",
+    "id": 332,
+    "category": "persona",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "A cuál de sus hermanos dejó José detenido en Egipto?",
+    "options": [
+      "Simeón",
+      "Judá",
+      "Isacar",
+      "Zabulón"
+    ],
+    "answer": "Simeón",
+    "reference": "Génesis 42:24"
   }
 ]

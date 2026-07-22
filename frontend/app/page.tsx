@@ -1,6 +1,6 @@
 "use client";
 
-import { BarChart3, BookOpen, Moon, RotateCcw, Sun } from "lucide-react";
+import { BarChart3, BookOpen, ChevronLeft, Moon, RotateCcw, Settings, Sun } from "lucide-react";
 import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
 
@@ -167,7 +167,18 @@ export default function Home() {
   }
 
   if (loading) {
-    return <main className="app-shell center">Cargando Berea...</main>;
+    return (
+      <main className={darkMode ? "app-shell dark center" : "app-shell center"}>
+        <section className="loading-card" aria-live="polite">
+          <div className="loading-logo-stage">
+            <span className="logo-halo" />
+            <Image alt="Berea" className="loading-logo" height={180} priority src="/logo.png" width={220} />
+          </div>
+          <strong>Berea</strong>
+          <p>Cargando preguntas...</p>
+        </section>
+      </main>
+    );
   }
 
   if (error) {
@@ -217,7 +228,12 @@ export default function Home() {
         {screen === "setup" && (
           <section className="card setup-card">
             <div className="section-heading">
-              <h1>Configurar ronda</h1>
+              <div>
+                <button className="back-button" onClick={() => setScreen("home")} title="Volver">
+                  <ChevronLeft size={20} />
+                </button>
+                <h1>Configurar ronda</h1>
+              </div>
               <button className="icon-button" onClick={resetFilters} title="Limpiar filtros">
                 <RotateCcw size={18} />
               </button>
@@ -225,13 +241,15 @@ export default function Home() {
 
             <label className="field">
               Libro
-              <select value={bookFilter} onChange={(event) => setBookFilter(event.target.value)}>
-                {BOOKS.map((book) => (
-                  <option key={book} value={book}>
-                    {book}
-                  </option>
-                ))}
-              </select>
+              <span className="select-wrap">
+                <select value={bookFilter} onChange={(event) => setBookFilter(event.target.value)}>
+                  {BOOKS.map((book) => (
+                    <option key={book} value={book}>
+                      {book}
+                    </option>
+                  ))}
+                </select>
+              </span>
             </label>
 
             <div className="field">
@@ -293,9 +311,15 @@ export default function Home() {
               </div>
             ) : (
               <>
-                <p className="meta">
-                  Pregunta {currentIndex + 1} de {roundQuestions.length} · {current.category} · {current.difficulty}
-                </p>
+                <div className="quiz-nav">
+                  <button className="back-button" onClick={() => setScreen("setup")} title="Volver a configuración">
+                    <ChevronLeft size={20} />
+                  </button>
+                  <p className="meta">
+                    Pregunta {currentIndex + 1} de {roundQuestions.length} · {current.category} ·{" "}
+                    {current.difficulty}
+                  </p>
+                </div>
                 <h1 className="question-title">{current.prompt}</h1>
                 <div className="options-grid">
                   {current.options.map((option) => {
@@ -362,6 +386,7 @@ export default function Home() {
             <StatGroup questions={questions} stats={stats} title="Por dificultad" values={difficulties} />
             <StatGroup questions={questions} stats={stats} title="Por categoría" values={categories} />
             <button className="primary-button" onClick={() => setScreen("setup")}>
+              <Settings size={18} />
               Configurar ronda
             </button>
           </section>

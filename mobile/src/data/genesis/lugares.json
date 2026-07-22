@@ -697,21 +697,21 @@
     "reference": "Génesis 28:10-19"
   },
   {
-    "context": "Después de recibir la bendición mediante engaño, Jacob queda en peligro ante Esaú.",
-    "explanation": "Jacob huyó a Harán, donde vivía Labán, hermano de Rebeca.",
+    "context": "Después de separarse de Lot, Abram recibe una reafirmación de la promesa y se establece junto a los encinos de Mamre.",
+    "explanation": "Abram habitó junto a Mamre, en Hebrón, y allí edificó altar a Jehová. El lugar queda asociado con adoración y promesa renovada.",
     "id": 206,
     "category": "lugar",
     "type": "opción",
-    "difficulty": "fácil",
-    "prompt": "A dónde huyó Jacob para escapar de Esaú?",
+    "difficulty": "media",
+    "prompt": "Dónde habitó Abram después de separarse de Lot y edificó altar a Jehová?",
     "options": [
-      "Harán",
-      "Egipto",
-      "Sodoma",
-      "Zoar"
+      "Hebrón",
+      "Babel",
+      "Gosén",
+      "Siquem"
     ],
-    "answer": "Harán",
-    "reference": "Génesis 27:43; 28:10"
+    "answer": "Hebrón",
+    "reference": "Génesis 13:18"
   },
   {
     "context": "Abraham compra una sepultura después de la muerte de Sara.",
@@ -748,21 +748,21 @@
     "reference": "Génesis 46:1"
   },
   {
-    "context": "José busca a sus hermanos por encargo de Jacob.",
-    "explanation": "Los encontró en Dotán, donde sus hermanos decidieron venderlo.",
+    "context": "Agar huye de Sarai y el ángel de Jehová la encuentra en el camino, junto a una fuente en el desierto.",
+    "explanation": "El pozo recibe el nombre Beer-lahai-roi. El relato muestra que Dios ve la aflicción de Agar aun fuera del campamento de Abram.",
     "id": 209,
     "category": "lugar",
     "type": "opción",
-    "difficulty": "fácil",
-    "prompt": "Dónde encontró José a sus hermanos antes de ser vendido?",
+    "difficulty": "difícil",
+    "prompt": "Qué pozo fue nombrado después del encuentro de Agar con el ángel de Jehová?",
     "options": [
-      "Dotán",
-      "Edén",
-      "Zoar",
-      "Gerar"
+      "Beerseba",
+      "Beer-lahai-roi",
+      "Siquem",
+      "Mizpa"
     ],
-    "answer": "Dotán",
-    "reference": "Génesis 37:17"
+    "answer": "Beer-lahai-roi",
+    "reference": "Génesis 16:13-14"
   },
   {
     "context": "Lot pide refugio en una ciudad pequeña al escapar del juicio.",
@@ -1018,5 +1018,90 @@
     ],
     "answer": "En Macpela",
     "reference": "Génesis 49:31"
+  },
+  {
+    "context": "Jacob unge una piedra y hace voto después de soñar con una escalera que llegaba al cielo.",
+    "explanation": "El lugar se llama Bet-el, que significa casa de Dios. Allí Jacob reconoce que Dios estaba presente en aquel sitio.",
+    "id": 318,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Cómo llamó Jacob al lugar donde soñó con la escalera al cielo?",
+    "options": [
+      "Bet-el",
+      "Hebrón",
+      "Gerar",
+      "Sinar"
+    ],
+    "answer": "Bet-el",
+    "reference": "Génesis 28:16-19"
+  },
+  {
+    "context": "Isaac reabre pozos en territorio filisteo y enfrenta disputas por el agua hasta hallar espacio para prosperar.",
+    "explanation": "El pozo se llamó Rehobot porque Isaac reconoció que Jehová les había dado lugar amplio para fructificar.",
+    "id": 319,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué pozo nombró Isaac 'Rehobot'?",
+    "options": [
+      "El pozo por el que ya no riñeron",
+      "El pozo de Agar",
+      "El pozo donde Jacob luchó",
+      "El pozo junto a Macpela"
+    ],
+    "answer": "El pozo por el que ya no riñeron",
+    "reference": "Génesis 26:22"
+  },
+  {
+    "context": "Jacob envía a José a buscar a sus hermanos, y un hombre lo guía desde Siquem hacia otro lugar.",
+    "explanation": "José encuentra a sus hermanos en Dotán. Allí se desarrolla el plan de venderlo, que luego Dios usará providencialmente.",
+    "id": 320,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde encontró José finalmente a sus hermanos antes de ser vendido?",
+    "options": [
+      "Gosén",
+      "Dotán",
+      "Harán",
+      "Beerseba"
+    ],
+    "answer": "Dotán",
+    "reference": "Génesis 37:17"
+  },
+  {
+    "context": "Jacob viaja a Egipto al saber que José vive, pero antes se detiene y ofrece sacrificios al Dios de su padre Isaac.",
+    "explanation": "Jacob se detiene en Beerseba. Allí Dios le habla en visiones y le promete acompañarlo a Egipto.",
+    "id": 321,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde ofreció Jacob sacrificios antes de descender a Egipto?",
+    "options": [
+      "Beerseba",
+      "Babel",
+      "Sodoma",
+      "Moriah"
+    ],
+    "answer": "Beerseba",
+    "reference": "Génesis 46:1-4"
+  },
+  {
+    "context": "Después de la reconciliación con Esaú, Jacob se establece temporalmente y edifica una casa para sí y cabañas para su ganado.",
+    "explanation": "El lugar fue llamado Sucot. El nombre se relaciona con las cabañas que Jacob hizo allí.",
+    "id": 322,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué lugar recibió su nombre porque Jacob hizo cabañas para su ganado?",
+    "options": [
+      "Peniel",
+      "Sucot",
+      "Luz",
+      "Mamre"
+    ],
+    "answer": "Sucot",
+    "reference": "Génesis 33:17"
   }
 ]

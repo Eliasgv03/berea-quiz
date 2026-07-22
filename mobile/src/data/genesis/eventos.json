@@ -1086,5 +1086,90 @@
     ],
     "answer": "Reconoció que ella era más justa que él",
     "reference": "Génesis 38:26"
+  },
+  {
+    "context": "Antes de la confusión de lenguas, la humanidad se concentra para construir una ciudad y una torre con pretensiones de hacerse nombre.",
+    "explanation": "Dios confunde el lenguaje y dispersa a los pueblos. El evento muestra juicio contra la autosuficiencia colectiva y preserva el mandato de llenar la tierra.",
+    "id": 313,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo Dios para detener el proyecto de Babel?",
+    "options": [
+      "Envió hambre sobre la ciudad",
+      "Confundió su lenguaje",
+      "Destruyó el arca",
+      "Cambió el curso del Nilo"
+    ],
+    "answer": "Confundió su lenguaje",
+    "reference": "Génesis 11:7-9"
+  },
+  {
+    "context": "Jacob sirve a Labán por Raquel, pero en la noche de la boda Labán le entrega a Lea.",
+    "explanation": "El engaño de Labán introduce una etapa de tensión familiar. Jacob, que antes había engañado a su padre, experimenta ahora el engaño de otro.",
+    "id": 314,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué hizo Labán la noche en que Jacob esperaba casarse con Raquel?",
+    "options": [
+      "Le entregó a Lea",
+      "Lo envió a Egipto",
+      "Le quitó los rebaños",
+      "Lo bendijo como primogénito"
+    ],
+    "answer": "Le entregó a Lea",
+    "reference": "Génesis 29:21-26"
+  },
+  {
+    "context": "Después de interpretar sueños en la cárcel, José es llamado ante Faraón para explicar dos sueños inquietantes.",
+    "explanation": "José interpreta que vendrán siete años de abundancia y siete de hambre. Ese evento abre el camino para su exaltación en Egipto.",
+    "id": 315,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué anunció José al interpretar los sueños de Faraón?",
+    "options": [
+      "Siete plagas sobre Canaán",
+      "Una guerra contra Edom",
+      "Siete años de abundancia y siete de hambre",
+      "La destrucción de Babel"
+    ],
+    "answer": "Siete años de abundancia y siete de hambre",
+    "reference": "Génesis 41:25-32"
+  },
+  {
+    "context": "Judá se ofrece ante José cuando Benjamín queda en peligro de permanecer como siervo en Egipto.",
+    "explanation": "Judá se ofrece en lugar de Benjamín. Su intervención muestra un cambio profundo frente a su conducta anterior con José.",
+    "id": 316,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué hizo Judá cuando Benjamín iba a quedar retenido en Egipto?",
+    "options": [
+      "Culpó a Rubén",
+      "Huyó hacia Canaán",
+      "Se ofreció como sustituto",
+      "Pidió vender a Simeón"
+    ],
+    "answer": "Se ofreció como sustituto",
+    "reference": "Génesis 44:18-34"
+  },
+  {
+    "context": "Tras la muerte de Sara, Abraham negocia públicamente con los hijos de Het para obtener un lugar de sepultura.",
+    "explanation": "Abraham compra la cueva de Macpela. Es una adquisición concreta en la tierra prometida antes de poseerla plenamente.",
+    "id": 317,
+    "category": "evento",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué compró Abraham para sepultar a Sara?",
+    "options": [
+      "La cueva de Macpela",
+      "El pozo de Jacob",
+      "La torre de Babel",
+      "El campo de Gosén"
+    ],
+    "answer": "La cueva de Macpela",
+    "reference": "Génesis 23:16-20"
   }
 ]

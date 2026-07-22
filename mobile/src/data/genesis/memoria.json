@@ -561,21 +561,21 @@
     "reference": "Génesis 50:20"
   },
   {
-    "context": "Dios reúne las aguas y hace aparecer lo seco.",
-    "explanation": "La palabra es Tierra; el relato muestra a Dios ordenando y nombrando.",
+    "context": "En el primer día de la creación, Dios separa la luz de las tinieblas y nombra el día y la noche.",
+    "explanation": "La frase culmina con 'el día primero'. La estructura de tarde y mañana ordena el relato de los días de creación.",
     "id": 233,
     "category": "memoria",
-    "type": "opción",
+    "type": "completar",
     "difficulty": "fácil",
-    "prompt": "Completa: 'Y llamó Dios a lo seco ____'.",
+    "prompt": "Completa: 'Y fue la tarde y la mañana un día ____'.",
     "options": [
-      "Tierra",
-      "Cielos",
-      "Edén",
-      "Babel"
+      "séptimo",
+      "tercero",
+      "primero",
+      "segundo"
     ],
-    "answer": "Tierra",
-    "reference": "Génesis 1:10"
+    "answer": "primero",
+    "reference": "Génesis 1:5"
   },
   {
     "context": "La frase forma parte de la bendición dada al ser humano.",
@@ -646,21 +646,21 @@
     "reference": "Génesis 45:3"
   },
   {
-    "context": "Dios anima a Abram después del conflicto narrado en Génesis 14.",
-    "explanation": "La palabra es escudo; Dios se presenta como protección y recompensa.",
+    "context": "Después del diluvio, Dios habla a Noé sobre la vida humana, la violencia y el valor de la imagen de Dios.",
+    "explanation": "La cita corresponde a Génesis 9:6. El texto fundamenta la dignidad de la vida humana en que el hombre fue hecho a imagen de Dios.",
     "id": 238,
     "category": "memoria",
-    "type": "opción",
-    "difficulty": "fácil",
-    "prompt": "Completa: 'No temas, Abram; yo soy tu ____'.",
+    "type": "versículo",
+    "difficulty": "difícil",
+    "prompt": "A qué referencia pertenece: 'El que derramare sangre de hombre, por el hombre su sangre será derramada'?",
     "options": [
-      "escudo",
-      "camino",
-      "siervo",
-      "pozo"
+      "Génesis 4:10",
+      "Génesis 9:6",
+      "Génesis 12:3",
+      "Génesis 22:14"
     ],
-    "answer": "escudo",
-    "reference": "Génesis 15:1"
+    "answer": "Génesis 9:6",
+    "reference": "Génesis 9:6"
   },
   {
     "context": "La promesa aparece en el llamado de Abram.",
@@ -1018,5 +1018,90 @@
     ],
     "answer": "Génesis 50:19",
     "reference": "Génesis 50:19"
+  },
+  {
+    "context": "Génesis 2 describe el reposo de Dios al concluir la obra creadora.",
+    "explanation": "La palabra correcta es séptimo. El reposo de Dios distingue ese día dentro del relato de la creación.",
+    "id": 323,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "fácil",
+    "prompt": "Completa: 'Y acabó Dios en el día ____ la obra que hizo'.",
+    "options": [
+      "primero",
+      "cuarto",
+      "séptimo",
+      "décimo"
+    ],
+    "answer": "séptimo",
+    "reference": "Génesis 2:2"
+  },
+  {
+    "context": "Antes de que Caín mate a Abel, Dios lo confronta y le advierte sobre el pecado.",
+    "explanation": "La cita pertenece a Génesis 4:7. El texto presenta el pecado como una amenaza que debe ser dominada.",
+    "id": 324,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "difícil",
+    "prompt": "A qué referencia pertenece: 'el pecado está a la puerta'?",
+    "options": [
+      "Génesis 3:15",
+      "Génesis 4:7",
+      "Génesis 6:5",
+      "Génesis 12:1"
+    ],
+    "answer": "Génesis 4:7",
+    "reference": "Génesis 4:7"
+  },
+  {
+    "context": "Cuando Dios llama a Abram, le promete hacer de él una gran nación y bendecirlo.",
+    "explanation": "La frase concluye con 'y engrandeceré tu nombre'. La promesa contrasta con Babel, donde los hombres buscaban hacerse nombre por sí mismos.",
+    "id": 325,
+    "category": "memoria",
+    "type": "completar",
+    "difficulty": "media",
+    "prompt": "Completa: 'Haré de ti una nación grande, y te bendeciré, y ____'.",
+    "options": [
+      "te esconderé en Egipto",
+      "engrandeceré tu nombre",
+      "cerraré tu descendencia",
+      "olvidaré tu pacto"
+    ],
+    "answer": "engrandeceré tu nombre",
+    "reference": "Génesis 12:2"
+  },
+  {
+    "context": "Abraham responde a Isaac cuando este pregunta por el cordero para el holocausto camino a Moriah.",
+    "explanation": "La respuesta expresa confianza: Dios se proveerá de cordero. La escena prepara la provisión del carnero en lugar de Isaac.",
+    "id": 326,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "media",
+    "prompt": "Completa: 'Dios se proveerá de ____ para el holocausto, hijo mío'.",
+    "options": [
+      "cordero",
+      "aceite",
+      "pan",
+      "incienso"
+    ],
+    "answer": "cordero",
+    "reference": "Génesis 22:8"
+  },
+  {
+    "context": "José consuela a sus hermanos después de la muerte de Jacob y les habla del propósito de Dios.",
+    "explanation": "La cita pertenece a Génesis 50:20. Resume la manera en que Dios encaminó el mal humano para preservar vida.",
+    "id": 327,
+    "category": "memoria",
+    "type": "versículo",
+    "difficulty": "difícil",
+    "prompt": "A qué referencia pertenece: 'vosotros pensasteis mal contra mí, mas Dios lo encaminó a bien'?",
+    "options": [
+      "Génesis 45:5",
+      "Génesis 50:20",
+      "Génesis 37:28",
+      "Génesis 41:40"
+    ],
+    "answer": "Génesis 50:20",
+    "reference": "Génesis 50:20"
   }
 ]

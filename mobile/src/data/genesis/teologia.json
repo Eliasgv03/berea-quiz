@@ -1018,5 +1018,90 @@
     ],
     "answer": "Une diseño creacional, vínculo público y comunión corporal",
     "reference": "Génesis 2:24"
+  },
+  {
+    "context": "Dios pregunta a Adán 'Dónde estás?' después de la desobediencia, aunque Dios no carece de información.",
+    "explanation": "La pregunta funciona como confrontación misericordiosa. Dios expone la ruptura y llama al ser humano a responder ante Él.",
+    "id": 333,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué sugiere mejor la pregunta de Dios 'Dónde estás?' en Génesis 3?",
+    "options": [
+      "Que Dios perdió conocimiento",
+      "Que Dios llama al hombre a rendir cuentas",
+      "Que el Edén era demasiado grande",
+      "Que la serpiente tenía autoridad final"
+    ],
+    "answer": "Que Dios llama al hombre a rendir cuentas",
+    "reference": "Génesis 3:9"
+  },
+  {
+    "context": "El pacto con Noé incluye una señal visible después del juicio del diluvio.",
+    "explanation": "El arco en las nubes recuerda la promesa de Dios de no destruir toda carne con otro diluvio universal. La señal apunta a fidelidad divina.",
+    "id": 334,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué comunica principalmente el arco en las nubes después del diluvio?",
+    "options": [
+      "La memoria fiel del pacto de Dios",
+      "La independencia de Noé",
+      "La divinidad de la naturaleza",
+      "La derrota final de Abraham"
+    ],
+    "answer": "La memoria fiel del pacto de Dios",
+    "reference": "Génesis 9:12-17"
+  },
+  {
+    "context": "Abraham intercede por Sodoma preguntando si el Juez de toda la tierra no ha de hacer lo que es justo.",
+    "explanation": "El pasaje muestra confianza en la justicia de Dios. Abraham no apela a capricho humano, sino al carácter justo del Señor.",
+    "id": 335,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué atributo de Dios destaca la intercesión de Abraham por Sodoma?",
+    "options": [
+      "Su necesidad de consejo",
+      "Su justicia como Juez",
+      "Su desconocimiento del pecado",
+      "Su indiferencia ante la ciudad"
+    ],
+    "answer": "Su justicia como Juez",
+    "reference": "Génesis 18:23-25"
+  },
+  {
+    "context": "Jacob bendice a los hijos de José y cruza sus manos para poner la derecha sobre Efraín, el menor.",
+    "explanation": "La escena subraya elección soberana por encima del orden natural esperado. Génesis repite este patrón con varios hermanos.",
+    "id": 336,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué tema se ve cuando Jacob bendice al menor Efraín por encima de Manasés?",
+    "options": [
+      "La elección soberana de Dios",
+      "La superioridad automática del mayor",
+      "La ausencia de bendición familiar",
+      "El rechazo total de José"
+    ],
+    "answer": "La elección soberana de Dios",
+    "reference": "Génesis 48:13-20"
+  },
+  {
+    "context": "José atribuye a Dios la interpretación de los sueños antes de hablar con Faraón.",
+    "explanation": "José reconoce que la sabiduría verdadera viene de Dios. Su respuesta evita atribuirse autonomía espiritual o mérito absoluto.",
+    "id": 337,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "fácil",
+    "prompt": "Qué muestra José al decir a Faraón que no está en él interpretar, sino en Dios?",
+    "options": [
+      "Humildad y dependencia de Dios",
+      "Miedo a hablar",
+      "Deseo de volver a la cárcel",
+      "Rechazo a ayudar a Egipto"
+    ],
+    "answer": "Humildad y dependencia de Dios",
+    "reference": "Génesis 41:16"
   }
 ]
