@@ -85,20 +85,20 @@
     "reference": "Génesis 18:14"
   },
   {
-    "context": "La bendición de Judá en Génesis 49 es una de las promesas más importantes del final del libro.",
-    "explanation": "La palabra correcta es Judá. El cetro apunta a liderazgo real dentro de la descendencia de Jacob.",
+    "context": "Jacob bendice a Judá con lenguaje de autoridad y obediencia de pueblos.",
+    "explanation": "La palabra correcta es Siloh. La frase ha sido leída tradicionalmente como una expectativa de gobierno asociado a la línea de Judá.",
     "id": 75,
     "category": "memoria",
-    "type": "versículo",
+    "type": "completar",
     "difficulty": "difícil",
-    "prompt": "Completa Génesis 49:10: 'No sera quitado el cetro de ____'.",
+    "prompt": "Completa Génesis 49:10: 'hasta que venga ____; y a él se congregarán los pueblos'.",
     "options": [
-      "Judá",
-      "José",
-      "Leví",
-      "Benjamín"
+      "Siloh",
+      "Efraín",
+      "Edom",
+      "Gosén"
     ],
-    "answer": "Judá",
+    "answer": "Siloh",
     "reference": "Génesis 49:10"
   },
   {
@@ -1037,71 +1037,71 @@
     "reference": "Génesis 2:2"
   },
   {
-    "context": "Antes de que Caín mate a Abel, Dios lo confronta y le advierte sobre el pecado.",
-    "explanation": "La cita pertenece a Génesis 4:7. El texto presenta el pecado como una amenaza que debe ser dominada.",
+    "context": "Después del diluvio, Dios declara la estabilidad de los ciclos de la creación mientras permanezca la tierra.",
+    "explanation": "La palabra correcta es sementera. La frase enumera ritmos de la vida creada que Dios preserva después del juicio.",
     "id": 324,
     "category": "memoria",
-    "type": "versículo",
+    "type": "completar",
     "difficulty": "difícil",
-    "prompt": "A qué referencia pertenece: 'el pecado está a la puerta'?",
+    "prompt": "Completa: 'Mientras la tierra permanezca, no cesarán la ____ y la siega'.",
     "options": [
-      "Génesis 3:15",
-      "Génesis 4:7",
-      "Génesis 6:5",
-      "Génesis 12:1"
+      "sementera",
+      "tormenta",
+      "guerra",
+      "sequía"
     ],
-    "answer": "Génesis 4:7",
-    "reference": "Génesis 4:7"
+    "answer": "sementera",
+    "reference": "Génesis 8:22"
   },
   {
-    "context": "Cuando Dios llama a Abram, le promete hacer de él una gran nación y bendecirlo.",
-    "explanation": "La frase concluye con 'y engrandeceré tu nombre'. La promesa contrasta con Babel, donde los hombres buscaban hacerse nombre por sí mismos.",
+    "context": "Después de la caída, Dios viste a Adán y a Eva con túnicas de pieles.",
+    "explanation": "La palabra correcta es pieles. El acto muestra cuidado de Dios aun en un contexto de juicio y expulsión.",
     "id": 325,
     "category": "memoria",
     "type": "completar",
     "difficulty": "media",
-    "prompt": "Completa: 'Haré de ti una nación grande, y te bendeciré, y ____'.",
+    "prompt": "Completa: 'Y Jehová Dios hizo al hombre y a su mujer túnicas de ____'.",
     "options": [
-      "te esconderé en Egipto",
-      "engrandeceré tu nombre",
-      "cerraré tu descendencia",
-      "olvidaré tu pacto"
+      "pieles",
+      "lino",
+      "hojas",
+      "lana"
     ],
-    "answer": "engrandeceré tu nombre",
-    "reference": "Génesis 12:2"
+    "answer": "pieles",
+    "reference": "Génesis 3:21"
   },
   {
-    "context": "Abraham responde a Isaac cuando este pregunta por el cordero para el holocausto camino a Moriah.",
-    "explanation": "La respuesta expresa confianza: Dios se proveerá de cordero. La escena prepara la provisión del carnero en lugar de Isaac.",
+    "context": "Jacob bendice proféticamente a sus hijos y habla de Judá con lenguaje de autoridad real.",
+    "explanation": "La palabra es cetro. La bendición de Judá anticipa gobierno y expectativa mesiánica dentro de la línea patriarcal.",
     "id": 326,
     "category": "memoria",
-    "type": "versículo",
+    "type": "completar",
     "difficulty": "media",
-    "prompt": "Completa: 'Dios se proveerá de ____ para el holocausto, hijo mío'.",
+    "prompt": "Completa: 'No será quitado el ____ de Judá'.",
     "options": [
-      "cordero",
-      "aceite",
-      "pan",
-      "incienso"
+      "cetro",
+      "pozo",
+      "arca",
+      "manto"
     ],
-    "answer": "cordero",
-    "reference": "Génesis 22:8"
+    "answer": "cetro",
+    "reference": "Génesis 49:10"
   },
   {
-    "context": "José consuela a sus hermanos después de la muerte de Jacob y les habla del propósito de Dios.",
-    "explanation": "La cita pertenece a Génesis 50:20. Resume la manera en que Dios encaminó el mal humano para preservar vida.",
+    "context": "Cuando Raquel finalmente concibe, reconoce que Dios quitó su afrenta y llama a su hijo José.",
+    "explanation": "La cita pertenece a Génesis 30:24. El nombre José se relaciona con la petición de que Jehová añada otro hijo.",
     "id": 327,
     "category": "memoria",
     "type": "versículo",
     "difficulty": "difícil",
-    "prompt": "A qué referencia pertenece: 'vosotros pensasteis mal contra mí, mas Dios lo encaminó a bien'?",
+    "prompt": "A qué referencia pertenece: 'Añádame Jehová otro hijo'?",
     "options": [
-      "Génesis 45:5",
-      "Génesis 50:20",
-      "Génesis 37:28",
-      "Génesis 41:40"
+      "Génesis 21:6",
+      "Génesis 30:24",
+      "Génesis 35:18",
+      "Génesis 41:52"
     ],
-    "answer": "Génesis 50:20",
-    "reference": "Génesis 50:20"
+    "answer": "Génesis 30:24",
+    "reference": "Génesis 30:24"
   }
 ]

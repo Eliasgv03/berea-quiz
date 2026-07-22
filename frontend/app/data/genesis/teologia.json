@@ -1037,21 +1037,21 @@
     "reference": "Génesis 3:9"
   },
   {
-    "context": "El pacto con Noé incluye una señal visible después del juicio del diluvio.",
-    "explanation": "El arco en las nubes recuerda la promesa de Dios de no destruir toda carne con otro diluvio universal. La señal apunta a fidelidad divina.",
+    "context": "Antes de que Isaac nazca, Dios cambia el nombre de Sarai y promete bendecirla con descendencia.",
+    "explanation": "El cambio de nombre acompaña la promesa. Sara no es un personaje secundario del pacto; Dios la nombra dentro de la promesa de descendencia.",
     "id": 334,
     "category": "teología",
     "type": "interpretación",
     "difficulty": "media",
-    "prompt": "Qué comunica principalmente el arco en las nubes después del diluvio?",
+    "prompt": "Qué muestra el cambio de nombre de Sarai a Sara dentro de la promesa?",
     "options": [
-      "La memoria fiel del pacto de Dios",
-      "La independencia de Noé",
-      "La divinidad de la naturaleza",
-      "La derrota final de Abraham"
+      "Que Dios la incluye en la promesa del pacto",
+      "Que la promesa queda cancelada",
+      "Que Abraham deja de ser responsable",
+      "Que Egipto reemplaza a Canaán"
     ],
-    "answer": "La memoria fiel del pacto de Dios",
-    "reference": "Génesis 9:12-17"
+    "answer": "Que Dios la incluye en la promesa del pacto",
+    "reference": "Génesis 17:15-16"
   },
   {
     "context": "Abraham intercede por Sodoma preguntando si el Juez de toda la tierra no ha de hacer lo que es justo.",

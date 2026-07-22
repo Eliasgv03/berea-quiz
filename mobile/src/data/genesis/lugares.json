@@ -731,21 +731,21 @@
     "reference": "Génesis 23:19"
   },
   {
-    "context": "Jacob viaja hacia Egipto al saber que José vive.",
-    "explanation": "En Beer-seba Dios confirma que irá con Jacob a Egipto.",
+    "context": "Cuando Abraham despide a Agar e Ismael, ellos vagan por el desierto y Dios oye la voz del muchacho.",
+    "explanation": "Agar vagó por el desierto de Beerseba. El relato muestra provisión de Dios para Ismael fuera de la línea principal de Isaac.",
     "id": 208,
     "category": "lugar",
     "type": "opción",
     "difficulty": "fácil",
-    "prompt": "Dónde fue Jacob antes de descender a Egipto y ofrecer sacrificios?",
+    "prompt": "En qué desierto vagó Agar con Ismael después de salir de la casa de Abraham?",
     "options": [
-      "Beer-seba",
-      "Siquem",
-      "Mahanaim",
-      "Gerar"
+      "Desierto de Beerseba",
+      "Desierto de Sinaí",
+      "Desierto de Shur",
+      "Desierto de Parán"
     ],
-    "answer": "Beer-seba",
-    "reference": "Génesis 46:1"
+    "answer": "Desierto de Beerseba",
+    "reference": "Génesis 21:14"
   },
   {
     "context": "Agar huye de Sarai y el ángel de Jehová la encuentra en el camino, junto a una fuente en el desierto.",
@@ -765,72 +765,72 @@
     "reference": "Génesis 16:13-14"
   },
   {
-    "context": "Lot pide refugio en una ciudad pequeña al escapar del juicio.",
-    "explanation": "Zoar fue el lugar concedido como refugio temporal para Lot.",
+    "context": "Agar huye de Sarai y es encontrada por el ángel de Jehová en el desierto, antes del nacimiento de Ismael.",
+    "explanation": "El ángel la encontró junto a una fuente en el camino de Shur. La escena destaca que Dios ve a una mujer afligida fuera del centro visible de la promesa.",
     "id": 210,
     "category": "lugar",
     "type": "opción",
     "difficulty": "fácil",
-    "prompt": "A qué ciudad huyó Lot después de salir de Sodoma?",
+    "prompt": "Dónde encontró el ángel de Jehová a Agar cuando huía de Sarai?",
     "options": [
-      "Zoar",
-      "Bet-el",
-      "Harán",
-      "Gosén"
+      "Junto a una fuente en el camino de Shur",
+      "En la cueva de Macpela",
+      "En el valle de Sidim",
+      "En la ciudad de Salem"
     ],
-    "answer": "Zoar",
-    "reference": "Génesis 19:20-23"
+    "answer": "Junto a una fuente en el camino de Shur",
+    "reference": "Génesis 16:7"
   },
   {
-    "context": "La prueba de Abraham se relaciona con el hijo de la promesa.",
-    "explanation": "Dios lo envió a la tierra de Moriah, donde luego proveyó el carnero.",
+    "context": "Abraham habita como forastero y entra en contacto con Abimelec, rey de Gerar.",
+    "explanation": "El episodio ocurre en Gerar. Allí Abraham presenta a Sara como su hermana, y Dios interviene para protegerla.",
     "id": 211,
     "category": "lugar",
     "type": "opción",
     "difficulty": "fácil",
-    "prompt": "Dónde estaba Abraham cuando Dios le pidió ofrecer a Isaac?",
+    "prompt": "En qué lugar Abraham dijo que Sara era su hermana delante de Abimelec?",
     "options": [
-      "Moriah",
-      "Gosén",
-      "Babel",
-      "Dotán"
+      "Gerar",
+      "Dotán",
+      "Mahanaim",
+      "Sucot"
     ],
-    "answer": "Moriah",
-    "reference": "Génesis 22:2"
+    "answer": "Gerar",
+    "reference": "Génesis 20:1-2"
   },
   {
-    "context": "Dios manda a Isaac permanecer en la tierra y le confirma la promesa.",
-    "explanation": "Isaac habitó en Gerar y allí Dios lo bendijo.",
+    "context": "Después de un conflicto por un pozo, Abraham y Abimelec hacen pacto y Abraham invoca el nombre de Jehová.",
+    "explanation": "Abraham planta un tamarisco en Beerseba. El lugar queda asociado con pacto, adoración y vida de forastero en la tierra.",
     "id": 212,
     "category": "lugar",
     "type": "opción",
     "difficulty": "fácil",
-    "prompt": "Dónde habitó Isaac durante una hambruna, sin bajar a Egipto?",
+    "prompt": "Dónde plantó Abraham un tamarisco e invocó el nombre de Jehová?",
     "options": [
-      "Gerar",
-      "Babel",
-      "Peniel",
-      "Sinar"
+      "Beerseba",
+      "Zoar",
+      "Bet-el",
+      "Siquem"
     ],
-    "answer": "Gerar",
-    "reference": "Génesis 26:1-6"
+    "answer": "Beerseba",
+    "reference": "Génesis 21:31-33"
   },
   {
-    "context": "Jacob vuelve a Canaán y se establece cerca de una ciudad.",
-    "explanation": "Compró una parte del campo en Siquem y levantó allí un altar.",
+    "context": "Jacob y Labán levantan un montón de piedras como testimonio de su pacto y límite entre ambos.",
+    "explanation": "El lugar también es llamado Mizpa, porque Labán dijo que Jehová vigilara entre ellos cuando estuvieran separados.",
     "id": 213,
     "category": "lugar",
     "type": "opción",
     "difficulty": "fácil",
-    "prompt": "Dónde compró Jacob un campo después de volver de Padan-aram?",
+    "prompt": "Qué nombre recibió el lugar donde Jacob y Labán hicieron pacto y levantaron un majano?",
     "options": [
-      "Siquem",
-      "Ur",
-      "Gosén",
-      "Moriah"
+      "Mizpa",
+      "Dotán",
+      "Moriah",
+      "Gerar"
     ],
-    "answer": "Siquem",
-    "reference": "Génesis 33:18-19"
+    "answer": "Mizpa",
+    "reference": "Génesis 31:48-49"
   },
   {
     "context": "Jacob queda solo durante la noche antes de encontrarse con Esaú.",
@@ -850,21 +850,21 @@
     "reference": "Génesis 32:30"
   },
   {
-    "context": "Jacob nombra el lugar después de su sueño de la escalera.",
-    "explanation": "Bet-el expresa la comprensión de Jacob: Dios estaba presente allí.",
+    "context": "Débora, nodriza de Rebeca, muere y es sepultada debajo de una encina, cerca de Bet-el.",
+    "explanation": "El lugar fue llamado Alón-bacut, nombre asociado con el llanto por su muerte.",
     "id": 215,
     "category": "lugar",
     "type": "opción",
     "difficulty": "media",
-    "prompt": "Qué lugar significa 'casa de Dios' en la historia de Jacob?",
+    "prompt": "Cómo se llamó el lugar donde fue sepultada Débora, nodriza de Rebeca?",
     "options": [
-      "Bet-el",
-      "Gosén",
-      "Zoar",
-      "Dotán"
+      "Alón-bacut",
+      "Beer-lahai-roi",
+      "Mahanaim",
+      "Jegar-sahaduta"
     ],
-    "answer": "Bet-el",
-    "reference": "Génesis 28:19"
+    "answer": "Alón-bacut",
+    "reference": "Génesis 35:8"
   },
   {
     "context": "Jacob y Labán levantan un majano como testigo de su acuerdo.",
@@ -884,21 +884,21 @@
     "reference": "Génesis 31:47-48"
   },
   {
-    "context": "Jacob regresa con temor y necesita recordar la protección de Dios.",
-    "explanation": "Mahanaim significa campamentos y recuerda la presencia de ángeles de Dios.",
+    "context": "Jacob y Labán usan un majano y una señal como límite para no pasar con intención de hacerse daño.",
+    "explanation": "El pacto establece un límite visible. Mizpa funciona como señal de vigilancia y separación pactada entre Jacob y Labán.",
     "id": 217,
     "category": "lugar",
     "type": "opción",
     "difficulty": "media",
-    "prompt": "Dónde vio Jacob ángeles de Dios al volver de Harán?",
+    "prompt": "Qué lugar quedó como señal de límite entre Jacob y Labán?",
     "options": [
-      "Mahanaim",
+      "Mizpa",
+      "Zoar",
       "Babel",
-      "Macpela",
-      "Dotán"
+      "Hebrón"
     ],
-    "answer": "Mahanaim",
-    "reference": "Génesis 32:1-2"
+    "answer": "Mizpa",
+    "reference": "Génesis 31:51-53"
   },
   {
     "context": "Dios manda a Jacob subir a Bet-el después de los eventos de Siquem.",
@@ -969,21 +969,21 @@
     "reference": "Génesis 19:20-22"
   },
   {
-    "context": "Jacob cambia el nombre del lugar después de reconocer la presencia de Dios.",
-    "explanation": "Luz era el nombre anterior; Bet-el expresa el significado teológico del encuentro.",
+    "context": "Raquel muere al dar a luz a Benjamín mientras la familia viaja hacia Efrata.",
+    "explanation": "El relato ubica la muerte de Raquel en el camino a Efrata, es decir, Belén. Jacob levanta una señal sobre su sepultura.",
     "id": 222,
     "category": "lugar",
     "type": "opción",
     "difficulty": "difícil",
-    "prompt": "Qué nombre anterior tenía Bet-el?",
+    "prompt": "Cerca de qué lugar murió Raquel al dar a luz a Benjamín?",
     "options": [
-      "Luz",
-      "Jegar Sahaduta",
-      "Mahanaim",
-      "Esek"
+      "Efrata, que es Belén",
+      "Salem",
+      "Harán",
+      "Ur de los caldeos"
     ],
-    "answer": "Luz",
-    "reference": "Génesis 28:19"
+    "answer": "Efrata, que es Belén",
+    "reference": "Génesis 35:16-20"
   },
   {
     "context": "La compra de la sepultura se describe con detalles legales y geográficos.",
@@ -1020,21 +1020,21 @@
     "reference": "Génesis 49:31"
   },
   {
-    "context": "Jacob unge una piedra y hace voto después de soñar con una escalera que llegaba al cielo.",
-    "explanation": "El lugar se llama Bet-el, que significa casa de Dios. Allí Jacob reconoce que Dios estaba presente en aquel sitio.",
+    "context": "Abraham vuelve de rescatar a Lot y se encuentra con Melquisedec, rey de Salem y sacerdote del Dios Altísimo.",
+    "explanation": "Salem es el lugar asociado con Melquisedec. El episodio une realeza, sacerdocio y bendición en una escena breve pero teológicamente rica.",
     "id": 318,
     "category": "lugar",
     "type": "opción",
-    "difficulty": "fácil",
-    "prompt": "Cómo llamó Jacob al lugar donde soñó con la escalera al cielo?",
+    "difficulty": "difícil",
+    "prompt": "De qué lugar era rey Melquisedec cuando bendijo a Abram?",
     "options": [
-      "Bet-el",
-      "Hebrón",
-      "Gerar",
-      "Sinar"
+      "Salem",
+      "Siquem",
+      "Zoar",
+      "Dotán"
     ],
-    "answer": "Bet-el",
-    "reference": "Génesis 28:16-19"
+    "answer": "Salem",
+    "reference": "Génesis 14:18"
   },
   {
     "context": "Isaac reabre pozos en territorio filisteo y enfrenta disputas por el agua hasta hallar espacio para prosperar.",
@@ -1054,38 +1054,38 @@
     "reference": "Génesis 26:22"
   },
   {
-    "context": "Jacob envía a José a buscar a sus hermanos, y un hombre lo guía desde Siquem hacia otro lugar.",
-    "explanation": "José encuentra a sus hermanos en Dotán. Allí se desarrolla el plan de venderlo, que luego Dios usará providencialmente.",
+    "context": "En la genealogía de Génesis 10 aparece Nimrod como poderoso en la tierra y se mencionan los comienzos de su reino.",
+    "explanation": "Babel aparece como parte del comienzo del reino de Nimrod en la tierra de Sinar. Esta pregunta no trata la torre, sino la descripción genealógica de reinos.",
     "id": 320,
     "category": "lugar",
     "type": "opción",
     "difficulty": "media",
-    "prompt": "Dónde encontró José finalmente a sus hermanos antes de ser vendido?",
+    "prompt": "Qué ciudad aparece como comienzo del reino de Nimrod?",
     "options": [
-      "Gosén",
-      "Dotán",
-      "Harán",
-      "Beerseba"
+      "Babel",
+      "Hebrón",
+      "Gerar",
+      "Moriah"
     ],
-    "answer": "Dotán",
-    "reference": "Génesis 37:17"
+    "answer": "Babel",
+    "reference": "Génesis 10:8-10"
   },
   {
-    "context": "Jacob viaja a Egipto al saber que José vive, pero antes se detiene y ofrece sacrificios al Dios de su padre Isaac.",
-    "explanation": "Jacob se detiene en Beerseba. Allí Dios le habla en visiones y le promete acompañarlo a Egipto.",
+    "context": "Después de la muerte de Sara, Isaac recibe a Rebeca como esposa y es consolado.",
+    "explanation": "La escena ocurre cuando Isaac lleva a Rebeca a la tienda de Sara. El relato marca continuidad familiar después del duelo por Sara.",
     "id": 321,
     "category": "lugar",
     "type": "opción",
     "difficulty": "media",
-    "prompt": "Dónde ofreció Jacob sacrificios antes de descender a Egipto?",
+    "prompt": "A qué lugar llevó Isaac a Rebeca cuando la tomó por esposa?",
     "options": [
-      "Beerseba",
-      "Babel",
-      "Sodoma",
-      "Moriah"
+      "A la tienda de Sara",
+      "A la torre de Babel",
+      "A la cueva de Macpela",
+      "Al palacio de Faraón"
     ],
-    "answer": "Beerseba",
-    "reference": "Génesis 46:1-4"
+    "answer": "A la tienda de Sara",
+    "reference": "Génesis 24:67"
   },
   {
     "context": "Después de la reconciliación con Esaú, Jacob se establece temporalmente y edifica una casa para sí y cabañas para su ganado.",

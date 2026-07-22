@@ -952,21 +952,21 @@
     "reference": "Génesis 32:28"
   },
   {
-    "context": "Abram vuelve de rescatar a Lot.",
-    "explanation": "Melquisedec bendice a Abram en nombre del Dios Altísimo.",
+    "context": "Faraón exalta a José y le da una nueva posición pública en Egipto, junto con una esposa egipcia.",
+    "explanation": "La esposa de José fue Asenat, hija de Potifera sacerdote de On. El detalle muestra la integración administrativa de José en Egipto.",
     "id": 262,
     "category": "persona",
     "type": "opción",
     "difficulty": "media",
-    "prompt": "Quién fue el sacerdote y rey que bendijo a Abram?",
+    "prompt": "Cómo se llamaba la esposa que Faraón dio a José en Egipto?",
     "options": [
-      "Melquisedec",
-      "Abimelec",
-      "Efrón",
-      "Labán"
+      "Asenat",
+      "Tamar",
+      "Dina",
+      "Bilha"
     ],
-    "answer": "Melquisedec",
-    "reference": "Génesis 14:18-20"
+    "answer": "Asenat",
+    "reference": "Génesis 41:45"
   },
   {
     "context": "Jacob duda en enviar a Benjamín a Egipto.",
@@ -1156,21 +1156,21 @@
     "reference": "Génesis 30:7-8"
   },
   {
-    "context": "Enoc aparece en la genealogía de Génesis 5 con una descripción distinta a la fórmula común de muerte.",
-    "explanation": "Enoc caminó con Dios y desapareció porque le llevó Dios. Su vida destaca comunión con Dios en medio de una genealogía marcada por muerte.",
+    "context": "La genealogía de Caín menciona avances culturales y oficios, junto con una línea marcada por violencia.",
+    "explanation": "Tubal-caín fue hijo de Zila. El texto lo describe como artífice de instrumentos de bronce y de hierro.",
     "id": 328,
     "category": "persona",
     "type": "opción",
     "difficulty": "media",
-    "prompt": "Quién caminó con Dios y desapareció porque Dios lo llevó?",
+    "prompt": "Quién fue la madre de Tubal-caín, artífice de bronce y hierro?",
     "options": [
-      "Matusalén",
-      "Noé",
-      "Enoc",
-      "Lamec"
+      "Zila",
+      "Ada",
+      "Naama",
+      "Dina"
     ],
-    "answer": "Enoc",
-    "reference": "Génesis 5:24"
+    "answer": "Zila",
+    "reference": "Génesis 4:22"
   },
   {
     "context": "Rebeca recibe una palabra de Jehová antes del nacimiento de sus hijos gemelos.",
@@ -1190,21 +1190,21 @@
     "reference": "Génesis 25:22-26"
   },
   {
-    "context": "Rubén intenta librar a José de sus hermanos proponiendo que no lo maten directamente.",
-    "explanation": "Rubén quería volver para sacar a José de la cisterna. Su plan falla cuando José es vendido mientras él no está presente.",
+    "context": "Raquel muere al dar a luz y nombra al niño Benoni, pero Jacob le cambia el nombre.",
+    "explanation": "Jacob lo llamó Benjamín. El cambio de nombre marca la memoria dolorosa del parto y la incorporación del hijo a la familia de Jacob.",
     "id": 330,
     "category": "persona",
     "type": "opción",
     "difficulty": "media",
-    "prompt": "Quién intentó librar a José de sus hermanos para devolverlo a su padre?",
+    "prompt": "Qué nombre puso Jacob al hijo que Raquel llamó Benoni?",
     "options": [
-      "Simeón",
-      "Judá",
-      "Rubén",
-      "Leví"
+      "Benjamín",
+      "José",
+      "Neftalí",
+      "Zabulón"
     ],
-    "answer": "Rubén",
-    "reference": "Génesis 37:21-22"
+    "answer": "Benjamín",
+    "reference": "Génesis 35:18"
   },
   {
     "context": "Tamar actúa después de que Judá no cumple con darle a Sela como esposo, según la obligación familiar esperada.",

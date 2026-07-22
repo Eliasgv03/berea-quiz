@@ -1156,20 +1156,20 @@
     "reference": "Génesis 44:18-34"
   },
   {
-    "context": "Tras la muerte de Sara, Abraham negocia públicamente con los hijos de Het para obtener un lugar de sepultura.",
-    "explanation": "Abraham compra la cueva de Macpela. Es una adquisición concreta en la tierra prometida antes de poseerla plenamente.",
+    "context": "Después del diluvio, Noé edifica un altar y ofrece holocaustos a Jehová.",
+    "explanation": "El evento principal es la adoración de Noé al salir del arca. El relato conecta juicio, preservación y respuesta agradecida ante Dios.",
     "id": 317,
     "category": "evento",
     "type": "opción",
     "difficulty": "fácil",
-    "prompt": "Qué compró Abraham para sepultar a Sara?",
+    "prompt": "Qué hizo Noé después de salir del arca?",
     "options": [
-      "La cueva de Macpela",
-      "El pozo de Jacob",
-      "La torre de Babel",
-      "El campo de Gosén"
+      "Edificó un altar a Jehová",
+      "Construyó Babel",
+      "Vendió a Cam",
+      "Descendió a Egipto"
     ],
-    "answer": "La cueva de Macpela",
-    "reference": "Génesis 23:16-20"
+    "answer": "Edificó un altar a Jehová",
+    "reference": "Génesis 8:20"
   }
 ]
