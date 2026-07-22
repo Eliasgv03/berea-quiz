@@ -166,8 +166,8 @@ button:disabled {
 .logo-stage {
   position: relative;
   display: grid;
-  width: min(100%, 420px);
-  height: clamp(250px, 34vw, 340px);
+  width: min(100%, 380px);
+  height: clamp(230px, 31vw, 310px);
   place-items: center;
 }
 
@@ -175,8 +175,8 @@ button:disabled {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: clamp(240px, 30vw, 330px);
-  height: clamp(240px, 30vw, 330px);
+  width: clamp(220px, 27vw, 300px);
+  height: clamp(220px, 27vw, 300px);
   border-radius: 999px;
   background: color-mix(in srgb, var(--accent) 10%, transparent);
   transform: translate(-50%, -50%);
@@ -184,16 +184,16 @@ button:disabled {
 
 .hero-logo {
   position: relative;
-  width: min(100%, clamp(300px, 36vw, 410px));
+  width: min(100%, clamp(260px, 31vw, 350px));
   height: auto;
   object-fit: contain;
-  transform: translateY(-3px);
+  transform: translateY(-2px);
 }
 
 .brand-kicker {
   margin: 0;
   color: var(--accent);
-  font-size: clamp(42px, 6vw, 76px);
+  font-size: clamp(48px, 6.8vw, 86px);
   font-weight: 900;
   line-height: 1;
   text-transform: uppercase;
@@ -529,11 +529,11 @@ p {
   }
 
   .logo-stage {
-    height: 230px;
+    height: 210px;
   }
 
   .brand-kicker {
-    font-size: 44px;
+    font-size: 50px;
   }
 
   .options-grid,
