@@ -1,14 +1,14 @@
 # Berea
 
-Berea is an offline-first Bible quiz application focused on careful Scripture study. The project currently includes a large Spanish question bank for Genesis, with support for filtering by difficulty and category, local progress tracking, explanations after each answer, and a mobile app experience built with Expo.
+Berea is a Bible quiz application focused on careful Scripture study. The project currently includes a large Spanish question bank for Genesis, with support for filtering by difficulty and category, local progress tracking, explanations after each answer, a deployable web version built with Next.js, and a mobile app experience built with Expo.
 
-The codebase is organized as a monorepo so the backend, mobile application, and upcoming web version can evolve together.
+The codebase is organized as a monorepo so the backend prototype, production web application, and mobile application can evolve together.
 
 ## Project Structure
 
 ```text
 backend/   Python API prototype and canonical question tooling
-frontend/  Next.js web version prototype
+frontend/  Deployable Next.js web application
 mobile/    Expo React Native mobile app
 ```
 
@@ -18,11 +18,11 @@ mobile/    Expo React Native mobile app
 - Question feedback with context, explanation, and Bible reference.
 - Randomized answer order on every round.
 - Filters for book, difficulty, and category.
-- Local statistics stored on device with AsyncStorage.
+- Local statistics stored in the browser for web and on device with AsyncStorage for mobile.
 - Light and dark themes.
+- Deployable web version with an internal Next.js API route.
 - Offline-ready mobile question data bundled inside the app.
 - EAS Build configuration for Android APK and production app bundle builds.
-- Planned web version built from the same product direction.
 
 ## Mobile App
 
@@ -84,9 +84,9 @@ eas build -p android --profile preview --clear-cache
 
 After the build finishes, open the EAS build URL and download the APK artifact.
 
-## Web Version
+## Web App
 
-The web version is built with Next.js and is ready to deploy as a standalone app. It uses an internal API route at `/api/questions`, so it does not require a separate Python backend for deployment.
+The web version is built with Next.js and is ready to deploy as a standalone app. It uses an internal API route at `/api/questions`, so it does not require the Python backend for deployment.
 
 Recommended free hosting:
 
@@ -122,9 +122,10 @@ Available endpoints:
 
 ## Question Data
 
-The canonical question set lives in the backend and is mirrored into the mobile app as bundled JSON files under:
+The canonical question set is mirrored into both the web and mobile apps as bundled JSON files:
 
 ```text
+frontend/app/data/genesis/
 mobile/src/data/genesis/
 ```
 
