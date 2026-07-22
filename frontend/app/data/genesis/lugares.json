@@ -1,0 +1,1022 @@
+[
+  {
+    "context": "Después de formar al hombre, Dios lo coloca en un jardín preparado para vida, trabajo y comunión con Él.",
+    "explanation": "El lugar es Edén. Babel, Gosén y Hebrón aparecen en otros momentos bíblicos, pero el jardín original se llama Edén.",
+    "id": 2,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Cómo se llamaba el jardín donde Dios puso al hombre?",
+    "options": [
+      "Edén",
+      "Babel",
+      "Gosén",
+      "Hebrón"
+    ],
+    "answer": "Edén",
+    "reference": "Génesis 2:8"
+  },
+  {
+    "context": "La familia de Abram sale de Ur de los caldeos hacia Harán, y luego Dios llama a Abram a dejar su tierra.",
+    "explanation": "Abram procede de Ur de los caldeos. Ese origen subraya que su historia comienza por iniciativa y llamado de Dios.",
+    "id": 7,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "De qué ciudad salió Abram cuando Dios lo llamó?",
+    "options": [
+      "Ur de los caldeos",
+      "Nínive",
+      "Sodoma",
+      "Bet-el"
+    ],
+    "answer": "Ur de los caldeos",
+    "reference": "Génesis 11:31; 12:1"
+  },
+  {
+    "context": "Jacob vuelve hacia la tierra prometida con temor por el encuentro con Esaú, y durante la noche lucha con un varón.",
+    "explanation": "El lugar fue llamado Peniel porque Jacob dijo que vio a Dios cara a cara y fue librada su vida.",
+    "id": 14,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde luchó Jacob con el varón hasta rayar el alba?",
+    "options": [
+      "Peniel",
+      "Babel",
+      "Gerar",
+      "Siquem"
+    ],
+    "answer": "Peniel",
+    "reference": "Génesis 32:24-30"
+  },
+  {
+    "context": "Durante una hambruna, Dios manda a Isaac no descender a Egipto y le confirma el pacto abrahámico.",
+    "explanation": "Isaac prosperó en Gerar. Allí Dios lo bendijo aun en medio de tensión con los filisteos.",
+    "id": 18,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "En qué tierra prosperó Isaac durante el hambre?",
+    "options": [
+      "Gerar",
+      "Egipto",
+      "Babel",
+      "Haran"
+    ],
+    "answer": "Gerar",
+    "reference": "Génesis 26:1-14"
+  },
+  {
+    "context": "Génesis 19 narra el juicio divino sobre ciudades caracterizadas por grave maldad.",
+    "explanation": "Las ciudades destruidas fueron Sodoma y Gomorra. El relato también muestra la misericordia de Dios al rescatar a Lot.",
+    "id": 28,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué ciudades fueron destruidas en Génesis 19?",
+    "options": [
+      "Sodoma y Gomorra",
+      "Babel y Nínive",
+      "Siquem y Bet-el",
+      "Haran y Ur"
+    ],
+    "answer": "Sodoma y Gomorra",
+    "reference": "Génesis 19"
+  },
+  {
+    "context": "Sara muere en Quiriat-arba, y Abraham busca una sepultura propia en la tierra prometida.",
+    "explanation": "Abraham compró la cueva de Macpela. Es una primera posesión legal de tierra dentro de Canaán.",
+    "id": 37,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Dónde compró Abraham una cueva para sepultar a Sara?",
+    "options": [
+      "Macpela",
+      "Moriah",
+      "Bet-el",
+      "Galaad"
+    ],
+    "answer": "Macpela",
+    "reference": "Génesis 23"
+  },
+  {
+    "context": "Después del engaño de la bendición, Esaú quiere matar a Jacob, y Rebeca le aconseja huir.",
+    "explanation": "Jacob huyó a Harán, a la casa de Labán, donde pasaría años formando su familia.",
+    "id": 42,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "A dónde huyó Jacob para escapar de Esaú?",
+    "options": [
+      "Haran",
+      "Egipto",
+      "Sodoma",
+      "Jericó"
+    ],
+    "answer": "Haran",
+    "reference": "Génesis 27:43; 28:10"
+  },
+  {
+    "context": "La muerte de Raquel ocurre durante el viaje de Jacob hacia la tierra de sus padres.",
+    "explanation": "Raquel fue sepultada en el camino a Efrata, que es Belén. Jacob levantó una señal sobre su sepultura.",
+    "id": 47,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde fue sepultada Raquel?",
+    "options": [
+      "En el camino a Efrata, que es Belén",
+      "En Macpela",
+      "En Ur",
+      "En Babel"
+    ],
+    "answer": "En el camino a Efrata, que es Belén",
+    "reference": "Génesis 35:19"
+  },
+  {
+    "context": "José presenta a su familia ante Faraón, y se les asigna una región adecuada para pastores.",
+    "explanation": "La familia habitó en Gosén. Allí Israel creció en Egipto antes de los eventos narrados en Éxodo.",
+    "id": 58,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "En qué región de Egipto habitó la familia de Jacob?",
+    "options": [
+      "Gosén",
+      "Moriah",
+      "Sinar",
+      "Hebrón"
+    ],
+    "answer": "Gosén",
+    "reference": "Génesis 47:1-6"
+  },
+  {
+    "context": "Lot escoge la zona fértil cerca de Sodoma antes de que la ciudad sea juzgada.",
+    "explanation": "Era el valle del Jordán. La descripción de prosperidad externa contrasta con la maldad de Sodoma.",
+    "id": 65,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cómo se llamaba el valle dónde estaban Sodoma y Gomorra antes de su destruccion?",
+    "options": [
+      "El valle del Jordán",
+      "El valle de Ela",
+      "El valle de Hebrón",
+      "El valle de Jezreel"
+    ],
+    "answer": "El valle del Jordán",
+    "reference": "Génesis 13:10"
+  },
+  {
+    "context": "El relato de Babel ocurre antes del llamado específico de Abram.",
+    "explanation": "Sinar es el lugar dónde la humanidad intenta concentrar poder y hacerse nombre.",
+    "id": 102,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "En qué llanura se asentaron los constructores de Babel?",
+    "options": [
+      "Sinar",
+      "Gosén",
+      "Mamre",
+      "Galaad"
+    ],
+    "answer": "Sinar",
+    "reference": "Génesis 11:2"
+  },
+  {
+    "context": "Después del llamado, Abram enfrenta una crisis de hambre en la tierra.",
+    "explanation": "El episodio muestra tensiones entre la promesa de Dios y las decisiones de Abram bajo presión.",
+    "id": 107,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "A dónde descendió Abram por causa del hambre?",
+    "options": [
+      "Egipto",
+      "Babel",
+      "Nínive",
+      "Moriah"
+    ],
+    "answer": "Egipto",
+    "reference": "Génesis 12:10"
+  },
+  {
+    "context": "Génesis 22 prueba la fe de Abraham respecto al hijo de la promesa.",
+    "explanation": "Moriah queda asociado con obediencia, prueba y provisión divina.",
+    "id": 115,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "A qué tierra mandó Dios a Abraham para ofrecer a Isaac?",
+    "options": [
+      "Moriah",
+      "Sinar",
+      "Gosén",
+      "Padan-aram"
+    ],
+    "answer": "Moriah",
+    "reference": "Génesis 22:2"
+  },
+  {
+    "context": "Abraham está establecido junto a Mamre cuando el Señor se le aparece y se anuncia el nacimiento de Isaac.",
+    "explanation": "La escena ocurre junto a los encinos de Mamre. Ese lugar queda asociado con hospitalidad, promesa y revelación divina.",
+    "id": 121,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde habitaba Abraham cuando recibió a los tres visitantes?",
+    "options": [
+      "Junto a los encinos de Mamre",
+      "En la llanura de Sinar",
+      "En la casa de Potifar",
+      "En la tierra de Gosén"
+    ],
+    "answer": "Junto a los encinos de Mamre",
+    "reference": "Génesis 18:1"
+  },
+  {
+    "context": "La muerte de Sara abre la narración de la compra de Macpela por Abraham.",
+    "explanation": "Sara murió en Quiriat-arba, identificada como Hebrón. El relato conecta el duelo con la primera posesión funeraria de Abraham en Canaán.",
+    "id": 122,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "En qué lugar murió Sara según Génesis 23?",
+    "options": [
+      "Quiriat-arba, que es Hebrón",
+      "Beer-seba",
+      "Bet-el",
+      "Padan-aram"
+    ],
+    "answer": "Quiriat-arba, que es Hebrón",
+    "reference": "Génesis 23:2"
+  },
+  {
+    "context": "Rebeca envía a Jacob a la casa de su hermano Labán para protegerlo de Esaú.",
+    "explanation": "Labán vivía en Harán. Allí Jacob formaría su familia y pasaría años de servicio.",
+    "id": 123,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde vivía Labán cuando Jacob huyó de Esaú?",
+    "options": [
+      "Harán",
+      "Sodoma",
+      "Gerar",
+      "Moriah"
+    ],
+    "answer": "Harán",
+    "reference": "Génesis 27:43; 29:4-5"
+  },
+  {
+    "context": "Jacob duerme en el camino hacia Harán y recibe una visión que confirma la promesa de Dios.",
+    "explanation": "Jacob llamó Bet-el a aquel lugar, que significa casa de Dios. Antes se llamaba Luz.",
+    "id": 124,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Cómo llamó Jacob al lugar donde soñó con la escalera?",
+    "options": [
+      "Bet-el",
+      "Peniel",
+      "Mahanaim",
+      "Siquem"
+    ],
+    "answer": "Bet-el",
+    "reference": "Génesis 28:19"
+  },
+  {
+    "context": "Después de su sueño, Jacob cambia el nombre del lugar para reflejar su encuentro con Dios.",
+    "explanation": "La ciudad se llamaba Luz. Jacob la llama Bet-el porque allí reconoce la presencia de Dios.",
+    "id": 125,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cómo se llamaba antes la ciudad que Jacob llamó Bet-el?",
+    "options": [
+      "Luz",
+      "Sinar",
+      "Zoar",
+      "Efrata"
+    ],
+    "answer": "Luz",
+    "reference": "Génesis 28:19"
+  },
+  {
+    "context": "Jacob vuelve de la casa de Labán y se prepara para enfrentar a su hermano Esaú.",
+    "explanation": "Jacob llamó Mahanaim a ese lugar porque dijo que era campamento de Dios al ver a los ángeles.",
+    "id": 126,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Dónde acampó Jacob antes de encontrarse con Esaú y vio ángeles de Dios?",
+    "options": [
+      "Mahanaim",
+      "Gosén",
+      "Babel",
+      "Gerar"
+    ],
+    "answer": "Mahanaim",
+    "reference": "Génesis 32:1-2"
+  },
+  {
+    "context": "Jacob envía a su familia y sus bienes al otro lado antes de quedar solo.",
+    "explanation": "El arroyo era Jaboc. Allí ocurre la lucha que termina con el cambio de nombre de Jacob a Israel.",
+    "id": 127,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué río o arroyo cruzó Jacob antes de luchar durante la noche?",
+    "options": [
+      "Jaboc",
+      "Nilo",
+      "Éufrates",
+      "Jordán"
+    ],
+    "answer": "Jaboc",
+    "reference": "Génesis 32:22"
+  },
+  {
+    "context": "Después del encuentro con Esaú, Jacob llega a Canaán y se establece cerca de una ciudad.",
+    "explanation": "Jacob compró un campo en Siquem. Allí también levantó un altar y llamó a Dios el Dios de Israel.",
+    "id": 128,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde compró Jacob una parte del campo al llegar de Padan-aram?",
+    "options": [
+      "Siquem",
+      "Babel",
+      "Gosén",
+      "Ur"
+    ],
+    "answer": "Siquem",
+    "reference": "Génesis 33:18-19"
+  },
+  {
+    "context": "Después de la violencia en Siquem, Dios llama a Jacob a renovar su devoción.",
+    "explanation": "Dios manda a Jacob subir a Bet-el y hacer allí un altar, recordando el lugar donde Dios se le apareció cuando huía de Esaú.",
+    "id": 129,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "A qué lugar mandó Dios a Jacob subir para hacer un altar después del problema en Siquem?",
+    "options": [
+      "Bet-el",
+      "Gosén",
+      "Moriah",
+      "Zoar"
+    ],
+    "answer": "Bet-el",
+    "reference": "Génesis 35:1"
+  },
+  {
+    "context": "Jacob recuerda el sepulcro familiar comprado por Abraham antes de morir.",
+    "explanation": "Isaac fue sepultado en Macpela, junto con Abraham, Sara, Rebeca y Lea. El sepulcro mantiene la esperanza familiar ligada a Canaán.",
+    "id": 130,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Dónde fue sepultado Isaac?",
+    "options": [
+      "En la cueva de Macpela",
+      "En Egipto",
+      "En Beer-seba",
+      "En el valle de Sinar"
+    ],
+    "answer": "En la cueva de Macpela",
+    "reference": "Génesis 49:29-31"
+  },
+  {
+    "context": "José busca a sus hermanos y los encuentra después de seguirlos desde Siquem hasta Dotán.",
+    "explanation": "José fue vendido cerca de Dotán. Allí sus hermanos pasan de planear su muerte a venderlo a mercaderes.",
+    "id": 131,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde fue vendido José por sus hermanos?",
+    "options": [
+      "En Dotán",
+      "En Bet-el",
+      "En Ur",
+      "En Gosén"
+    ],
+    "answer": "En Dotán",
+    "reference": "Génesis 37:17-28"
+  },
+  {
+    "context": "Jacob envía a José a buscar a sus hermanos, quienes habían salido a apacentar los rebaños.",
+    "explanation": "José los encontró en Dotán. Ese lugar se vuelve el escenario de la traición de sus hermanos.",
+    "id": 132,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Dónde encontró José a sus hermanos antes de ser vendido?",
+    "options": [
+      "Dotán",
+      "Mamre",
+      "Zoar",
+      "Peniel"
+    ],
+    "answer": "Dotán",
+    "reference": "Génesis 37:17"
+  },
+  {
+    "context": "Los mercaderes llevan a José lejos de su familia, abriendo la etapa egipcia de su historia.",
+    "explanation": "José fue llevado a Egipto. Aunque llega como esclavo, Dios usará ese camino para salvar muchas vidas.",
+    "id": 133,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde fue llevado José después de ser vendido?",
+    "options": [
+      "Egipto",
+      "Babel",
+      "Harán",
+      "Hebrón"
+    ],
+    "answer": "Egipto",
+    "reference": "Génesis 37:28; 39:1"
+  },
+  {
+    "context": "Antes de morir, Jacob da instrucciones claras a sus hijos sobre su sepultura.",
+    "explanation": "Jacob pidió ser sepultado en Macpela, el sepulcro familiar en Canaán, no en Egipto.",
+    "id": 134,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde pidió Jacob ser sepultado?",
+    "options": [
+      "En la cueva de Macpela",
+      "En el palacio de Faraón",
+      "En Dotán",
+      "En Harán"
+    ],
+    "answer": "En la cueva de Macpela",
+    "reference": "Génesis 49:29-32"
+  },
+  {
+    "context": "Jacob viaja hacia Egipto al saber que José vive, pero se detiene para ofrecer sacrificios.",
+    "explanation": "Jacob llegó a Beer-seba y allí Dios le habló, asegurándole que no temiera descender a Egipto.",
+    "id": 135,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Dónde llegaron Jacob y su familia antes de entrar plenamente en Egipto?",
+    "options": [
+      "Beer-seba",
+      "Babel",
+      "Peniel",
+      "Siquem"
+    ],
+    "answer": "Beer-seba",
+    "reference": "Génesis 46:1"
+  },
+  {
+    "context": "José sube en su carro para recibir a su padre cuando la familia llega a Egipto.",
+    "explanation": "El encuentro ocurre en Gosén. Es una escena de restauración familiar después de años de separación y dolor.",
+    "id": 139,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde se encontró José con Jacob después de muchos años?",
+    "options": [
+      "Gosén",
+      "Macpela",
+      "Moriah",
+      "Bet-el"
+    ],
+    "answer": "Gosén",
+    "reference": "Génesis 46:28-30"
+  },
+  {
+    "context": "El nombre del lugar se relaciona con la confusión de las lenguas.",
+    "explanation": "La ciudad fue llamada Babel porque allí Jehová confundió el lenguaje de toda la tierra.",
+    "id": 141,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cómo se llamaba la ciudad donde estaban los hombres construyendo la torre?",
+    "options": [
+      "Babel",
+      "Siquem",
+      "Zoar",
+      "Dotán"
+    ],
+    "answer": "Babel",
+    "reference": "Génesis 11:9"
+  },
+  {
+    "context": "Lot pide permiso para huir a una ciudad pequeña en vez de escapar directamente al monte.",
+    "explanation": "Lot huyó a Zoar. El nombre queda ligado a la misericordia de Dios al concederle ese refugio.",
+    "id": 142,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "A qué ciudad huyó Lot cuando salió de Sodoma?",
+    "options": [
+      "Zoar",
+      "Hebrón",
+      "Harán",
+      "Bet-el"
+    ],
+    "answer": "Zoar",
+    "reference": "Génesis 19:20-23"
+  },
+  {
+    "context": "Después del juicio sobre Sodoma, Abraham sigue viviendo como extranjero en distintas regiones.",
+    "explanation": "Abraham habitó entre Cades y Shur, y luego moró en Gerar. El relato introduce su encuentro con Abimelec.",
+    "id": 144,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde habitó Abraham después de partir hacia la tierra del Neguev?",
+    "options": [
+      "Entre Cades y Shur",
+      "En Dotán",
+      "En Babel",
+      "En Gosén"
+    ],
+    "answer": "Entre Cades y Shur",
+    "reference": "Génesis 20:1"
+  },
+  {
+    "context": "Abraham reclama por un pozo que los siervos de Abimelec habían tomado.",
+    "explanation": "El pacto se hizo en Beer-seba. El lugar queda asociado con juramento, agua y convivencia en la tierra.",
+    "id": 147,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Dónde hizo Abraham un pacto con Abimelec por causa de un pozo?",
+    "options": [
+      "Beer-seba",
+      "Bet-el",
+      "Siquem",
+      "Mahanaim"
+    ],
+    "answer": "Beer-seba",
+    "reference": "Génesis 21:25-32"
+  },
+  {
+    "context": "Dios le dice a Isaac que no descienda a Egipto durante el hambre.",
+    "explanation": "Isaac habitó en Gerar, bajo la mirada de Abimelec rey de los filisteos.",
+    "id": 149,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde habitó Isaac cuando hubo hambre en la tierra?",
+    "options": [
+      "Gerar",
+      "Gosén",
+      "Dotán",
+      "Sinar"
+    ],
+    "answer": "Gerar",
+    "reference": "Génesis 26:1-6"
+  },
+  {
+    "context": "Después de conflictos en Gerar, Isaac se mueve y recibe una nueva confirmación de la promesa.",
+    "explanation": "Isaac subió a Beer-seba. Allí Dios se le apareció y le reafirmó la bendición dada a Abraham.",
+    "id": 151,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "A qué lugar subió Isaac después de las disputas por los pozos?",
+    "options": [
+      "Beer-seba",
+      "Babel",
+      "Zoar",
+      "Dotán"
+    ],
+    "answer": "Beer-seba",
+    "reference": "Génesis 26:23"
+  },
+  {
+    "context": "Jacob y Labán levantan un majano como testimonio de su pacto de no agresión.",
+    "explanation": "Labán lo llamó Jegar Sahaduta, mientras Jacob lo llamó Galaad. Ambos nombres apuntan al majano como testigo.",
+    "id": 159,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cómo llamó Labán al majano del pacto con Jacob en arameo?",
+    "options": [
+      "Jegar Sahaduta",
+      "Galaad",
+      "Bet-el",
+      "Rehobot"
+    ],
+    "answer": "Jegar Sahaduta",
+    "reference": "Génesis 31:47"
+  },
+  {
+    "context": "Génesis presenta el huerto como el lugar preparado por Dios para el hombre.",
+    "explanation": "Edén es el escenario inicial de vida, trabajo, comunión y también de la desobediencia.",
+    "id": 201,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde estaba el huerto donde Dios puso al hombre?",
+    "options": [
+      "Edén",
+      "Sinar",
+      "Dotán",
+      "Gosén"
+    ],
+    "answer": "Edén",
+    "reference": "Génesis 2:8"
+  },
+  {
+    "context": "El relato de Babel muestra a la humanidad intentando concentrarse y evitar ser esparcida.",
+    "explanation": "Babel es el lugar donde Dios confundió las lenguas y dispersó a los hombres.",
+    "id": 202,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde construyeron los hombres la torre para hacerse un nombre?",
+    "options": [
+      "Babel",
+      "Hebrón",
+      "Gerar",
+      "Moriah"
+    ],
+    "answer": "Babel",
+    "reference": "Génesis 11:1-9"
+  },
+  {
+    "context": "La venta de José marca el traslado de la historia familiar hacia Egipto.",
+    "explanation": "José fue llevado a Egipto, donde Dios lo levantaría para preservar vida durante el hambre.",
+    "id": 203,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "A qué tierra fue llevado José cuando sus hermanos lo vendieron?",
+    "options": [
+      "Egipto",
+      "Harán",
+      "Sinar",
+      "Edom"
+    ],
+    "answer": "Egipto",
+    "reference": "Génesis 37:28"
+  },
+  {
+    "context": "José prepara un lugar para su familia cuando llegan a Egipto.",
+    "explanation": "Gosén fue la región asignada a la familia de Jacob, adecuada para sus rebaños.",
+    "id": 204,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde vivió la familia de Jacob dentro de Egipto?",
+    "options": [
+      "Gosén",
+      "Babel",
+      "Bet-el",
+      "Zoar"
+    ],
+    "answer": "Gosén",
+    "reference": "Génesis 47:1-6"
+  },
+  {
+    "context": "Jacob huía hacia Harán cuando Dios se le apareció en sueños.",
+    "explanation": "El lugar fue llamado Bet-el porque Jacob reconoció allí la presencia de Dios.",
+    "id": 205,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde soñó Jacob con una escalera que llegaba al cielo?",
+    "options": [
+      "Bet-el",
+      "Beer-seba",
+      "Gosén",
+      "Macpela"
+    ],
+    "answer": "Bet-el",
+    "reference": "Génesis 28:10-19"
+  },
+  {
+    "context": "Después de recibir la bendición mediante engaño, Jacob queda en peligro ante Esaú.",
+    "explanation": "Jacob huyó a Harán, donde vivía Labán, hermano de Rebeca.",
+    "id": 206,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "A dónde huyó Jacob para escapar de Esaú?",
+    "options": [
+      "Harán",
+      "Egipto",
+      "Sodoma",
+      "Zoar"
+    ],
+    "answer": "Harán",
+    "reference": "Génesis 27:43; 28:10"
+  },
+  {
+    "context": "Abraham compra una sepultura después de la muerte de Sara.",
+    "explanation": "Sara fue sepultada en la cueva de Macpela, primera posesión familiar en Canaán.",
+    "id": 207,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde fue sepultada Sara?",
+    "options": [
+      "Macpela",
+      "Babel",
+      "Gosén",
+      "Dotán"
+    ],
+    "answer": "Macpela",
+    "reference": "Génesis 23:19"
+  },
+  {
+    "context": "Jacob viaja hacia Egipto al saber que José vive.",
+    "explanation": "En Beer-seba Dios confirma que irá con Jacob a Egipto.",
+    "id": 208,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde fue Jacob antes de descender a Egipto y ofrecer sacrificios?",
+    "options": [
+      "Beer-seba",
+      "Siquem",
+      "Mahanaim",
+      "Gerar"
+    ],
+    "answer": "Beer-seba",
+    "reference": "Génesis 46:1"
+  },
+  {
+    "context": "José busca a sus hermanos por encargo de Jacob.",
+    "explanation": "Los encontró en Dotán, donde sus hermanos decidieron venderlo.",
+    "id": 209,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde encontró José a sus hermanos antes de ser vendido?",
+    "options": [
+      "Dotán",
+      "Edén",
+      "Zoar",
+      "Gerar"
+    ],
+    "answer": "Dotán",
+    "reference": "Génesis 37:17"
+  },
+  {
+    "context": "Lot pide refugio en una ciudad pequeña al escapar del juicio.",
+    "explanation": "Zoar fue el lugar concedido como refugio temporal para Lot.",
+    "id": 210,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "A qué ciudad huyó Lot después de salir de Sodoma?",
+    "options": [
+      "Zoar",
+      "Bet-el",
+      "Harán",
+      "Gosén"
+    ],
+    "answer": "Zoar",
+    "reference": "Génesis 19:20-23"
+  },
+  {
+    "context": "La prueba de Abraham se relaciona con el hijo de la promesa.",
+    "explanation": "Dios lo envió a la tierra de Moriah, donde luego proveyó el carnero.",
+    "id": 211,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde estaba Abraham cuando Dios le pidió ofrecer a Isaac?",
+    "options": [
+      "Moriah",
+      "Gosén",
+      "Babel",
+      "Dotán"
+    ],
+    "answer": "Moriah",
+    "reference": "Génesis 22:2"
+  },
+  {
+    "context": "Dios manda a Isaac permanecer en la tierra y le confirma la promesa.",
+    "explanation": "Isaac habitó en Gerar y allí Dios lo bendijo.",
+    "id": 212,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde habitó Isaac durante una hambruna, sin bajar a Egipto?",
+    "options": [
+      "Gerar",
+      "Babel",
+      "Peniel",
+      "Sinar"
+    ],
+    "answer": "Gerar",
+    "reference": "Génesis 26:1-6"
+  },
+  {
+    "context": "Jacob vuelve a Canaán y se establece cerca de una ciudad.",
+    "explanation": "Compró una parte del campo en Siquem y levantó allí un altar.",
+    "id": 213,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Dónde compró Jacob un campo después de volver de Padan-aram?",
+    "options": [
+      "Siquem",
+      "Ur",
+      "Gosén",
+      "Moriah"
+    ],
+    "answer": "Siquem",
+    "reference": "Génesis 33:18-19"
+  },
+  {
+    "context": "Jacob queda solo durante la noche antes de encontrarse con Esaú.",
+    "explanation": "Peniel recuerda el encuentro en que Jacob dijo haber visto a Dios cara a cara.",
+    "id": 214,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué lugar llamó Jacob Peniel?",
+    "options": [
+      "Donde luchó con Dios",
+      "Donde Noé salió del arca",
+      "Donde nació Isaac",
+      "Donde José interpretó sueños"
+    ],
+    "answer": "Donde luchó con Dios",
+    "reference": "Génesis 32:30"
+  },
+  {
+    "context": "Jacob nombra el lugar después de su sueño de la escalera.",
+    "explanation": "Bet-el expresa la comprensión de Jacob: Dios estaba presente allí.",
+    "id": 215,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué lugar significa 'casa de Dios' en la historia de Jacob?",
+    "options": [
+      "Bet-el",
+      "Gosén",
+      "Zoar",
+      "Dotán"
+    ],
+    "answer": "Bet-el",
+    "reference": "Génesis 28:19"
+  },
+  {
+    "context": "Jacob y Labán levantan un majano como testigo de su acuerdo.",
+    "explanation": "Galaad queda asociado al pacto que puso límite al conflicto familiar.",
+    "id": 216,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde se produjo el pacto entre Jacob y Labán?",
+    "options": [
+      "Galaad",
+      "Edén",
+      "Zoar",
+      "Gerar"
+    ],
+    "answer": "Galaad",
+    "reference": "Génesis 31:47-48"
+  },
+  {
+    "context": "Jacob regresa con temor y necesita recordar la protección de Dios.",
+    "explanation": "Mahanaim significa campamentos y recuerda la presencia de ángeles de Dios.",
+    "id": 217,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Dónde vio Jacob ángeles de Dios al volver de Harán?",
+    "options": [
+      "Mahanaim",
+      "Babel",
+      "Macpela",
+      "Dotán"
+    ],
+    "answer": "Mahanaim",
+    "reference": "Génesis 32:1-2"
+  },
+  {
+    "context": "Dios manda a Jacob subir a Bet-el después de los eventos de Siquem.",
+    "explanation": "Antes de subir a Bet-el, Jacob llama a su casa a purificarse y dejar ídolos.",
+    "id": 218,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué lugar pidió Jacob a sus hijos que abandonaran espiritualmente quitando dioses ajenos antes de subir?",
+    "options": [
+      "Bet-el",
+      "Egipto",
+      "Ur",
+      "Sodoma"
+    ],
+    "answer": "Bet-el",
+    "reference": "Génesis 35:1-4"
+  },
+  {
+    "context": "Isaac tuvo disputas por pozos hasta hallar un lugar sin contienda.",
+    "explanation": "Rehobot recuerda que Dios abrió espacio para Isaac después del conflicto.",
+    "id": 219,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cómo llamó Isaac al pozo que significaba amplitud o espacios abiertos?",
+    "options": [
+      "Rehobot",
+      "Esek",
+      "Sitna",
+      "Jaboc"
+    ],
+    "answer": "Rehobot",
+    "reference": "Génesis 26:22"
+  },
+  {
+    "context": "Jacob envía a su familia y queda solo antes del encuentro decisivo.",
+    "explanation": "El Jaboc es el escenario inmediato de la lucha y del cambio de nombre a Israel.",
+    "id": 220,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué arroyo cruzó Jacob antes de luchar durante la noche?",
+    "options": [
+      "Jaboc",
+      "Nilo",
+      "Tigris",
+      "Pisón"
+    ],
+    "answer": "Jaboc",
+    "reference": "Génesis 32:22"
+  },
+  {
+    "context": "Lot no quiere huir al monte y pide una ciudad pequeña.",
+    "explanation": "Zoar se menciona como refugio concedido por misericordia en medio del juicio.",
+    "id": 221,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué ciudad pequeña pidió Lot como refugio al escapar?",
+    "options": [
+      "Zoar",
+      "Luz",
+      "Dotán",
+      "Rehobot"
+    ],
+    "answer": "Zoar",
+    "reference": "Génesis 19:20-22"
+  },
+  {
+    "context": "Jacob cambia el nombre del lugar después de reconocer la presencia de Dios.",
+    "explanation": "Luz era el nombre anterior; Bet-el expresa el significado teológico del encuentro.",
+    "id": 222,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué nombre anterior tenía Bet-el?",
+    "options": [
+      "Luz",
+      "Jegar Sahaduta",
+      "Mahanaim",
+      "Esek"
+    ],
+    "answer": "Luz",
+    "reference": "Génesis 28:19"
+  },
+  {
+    "context": "La compra de la sepultura se describe con detalles legales y geográficos.",
+    "explanation": "Macpela, frente a Mamre, fue la posesión funeraria de Abraham en Canaán.",
+    "id": 223,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Dónde estaba la cueva comprada por Abraham a Efrón?",
+    "options": [
+      "En Macpela, frente a Mamre",
+      "En Sinar, junto a Babel",
+      "En Gosén, junto al Nilo",
+      "En Dotán, junto al pozo"
+    ],
+    "answer": "En Macpela, frente a Mamre",
+    "reference": "Génesis 23:17-19"
+  },
+  {
+    "context": "Jacob recuerda el sepulcro familiar antes de morir.",
+    "explanation": "Rebeca fue sepultada en Macpela, junto con Isaac, Abraham, Sara y Lea.",
+    "id": 224,
+    "category": "lugar",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Dónde fue sepultada Rebeca según las palabras finales de Jacob?",
+    "options": [
+      "En Macpela",
+      "En Egipto",
+      "En Zoar",
+      "En Dotán"
+    ],
+    "answer": "En Macpela",
+    "reference": "Génesis 49:31"
+  }
+]

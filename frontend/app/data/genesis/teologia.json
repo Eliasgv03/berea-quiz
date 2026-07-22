@@ -1,0 +1,1022 @@
+[
+  {
+    "context": "Génesis 1 repite varias veces que lo creado por Dios era bueno, antes de la entrada del pecado en Génesis 3.",
+    "explanation": "La idea principal es que la creación es buena porque procede de Dios. El texto no presenta la materia como mala.",
+    "id": 11,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué enseña principalmente Génesis 1 al repetir que Dios vio que era bueno?",
+    "options": [
+      "Qué la creación es buena porque procede de Dios",
+      "Qué la materia es mala",
+      "Qué Dios creo por accidente",
+      "Qué el mundo no tiene orden"
+    ],
+    "answer": "Qué la creación es buena porque procede de Dios",
+    "reference": "Génesis 1"
+  },
+  {
+    "context": "Al final de Génesis, José mira hacia atrás y reinterpreta el mal de sus hermanos a la luz del propósito de Dios.",
+    "explanation": "Génesis 50:20 enseña providencia: los hermanos actuaron mal, pero Dios encaminó esos hechos para preservar vida.",
+    "id": 24,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué tema teológico se ve cuando José dice: 'Dios lo encaminó a bien'?",
+    "options": [
+      "La providencia de Dios aun sobre acciónes humanas malas",
+      "La ausencia de responsabilidad humana",
+      "La negación del perdón",
+      "La superioridad política de Egipto"
+    ],
+    "answer": "La providencia de Dios aun sobre acciónes humanas malas",
+    "reference": "Génesis 50:20"
+  },
+  {
+    "context": "Después de la caída, Dios pronuncia juicio sobre la serpiente, la mujer y el hombre.",
+    "explanation": "Génesis 3:15 anuncia esperanza: la descendencia de la mujer vencerá a la serpiente, aunque habrá conflicto y herida.",
+    "id": 30,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "En Génesis 3:15, qué gran esperanza se anuncia después de la caída?",
+    "options": [
+      "La victoria final de la descendencia sobre la serpiente",
+      "La destruccion inmediata de Adán",
+      "La construccion del templo",
+      "La salida de Israel de Egipto"
+    ],
+    "answer": "La victoria final de la descendencia sobre la serpiente",
+    "reference": "Génesis 3:15"
+  },
+  {
+    "context": "Génesis 39 repite una frase que interpreta teológicamente la vida de José en casa de Potifar y en la cárcel.",
+    "explanation": "La frase es Jehová estaba con José. Su éxito no se explica solo por habilidad, sino por la presencia fiel de Dios.",
+    "id": 52,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué frase repetida en Génesis 39 explica el exito de José?",
+    "options": [
+      "Jehová estaba con José",
+      "José era el mayor de sus hermanos",
+      "Egipto no tenía leyes",
+      "Potifar no tenía autoridad"
+    ],
+    "answer": "Jehová estaba con José",
+    "reference": "Génesis 39:2, 21"
+  },
+  {
+    "context": "Judá habla ante José cuando Benjamín parece condenado a quedar como siervo.",
+    "explanation": "Judá muestra cambio de carácter al ofrecerse en lugar de Benjamín, contrastando con la venta de José años antes.",
+    "id": 57,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué muestra Judá al ofrecerse como siervo en lugar de Benjamín?",
+    "options": [
+      "Un cambio de carácter y amor sacrificial por su padre y hermano",
+      "Deseo de quedarse con la herencia",
+      "Rechazo del perdón",
+      "Miedo a trabajar en Canaan"
+    ],
+    "answer": "Un cambio de carácter y amor sacrificial por su padre y hermano",
+    "reference": "Génesis 44:18-34"
+  },
+  {
+    "context": "El pacto con Abraham se desarrolla en varias escenas donde Dios reafirma promesas a pesar de la espera.",
+    "explanation": "El pacto destaca descendencia, tierra y bendición. Es una columna central de la historia bíblica.",
+    "id": 62,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "fácil",
+    "prompt": "Qué destaca el pacto con Abraham en Génesis 12, 15 y 17?",
+    "options": [
+      "Promesa divina de descendencia, tierra y bendición",
+      "Un contrato comercial con Egipto",
+      "La construccion inmediata de un templo",
+      "La anulacion de toda responsabilidad humana"
+    ],
+    "answer": "Promesa divina de descendencia, tierra y bendición",
+    "reference": "Génesis 12; 15; 17"
+  },
+  {
+    "context": "Dios revela a Abraham el juicio sobre Sodoma, y Abraham dialoga con Dios sobre la justicia del juicio.",
+    "explanation": "La intercesión revela confianza en la justicia de Dios y preocupación por los justos dentro de la ciudad.",
+    "id": 67,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué revela la intercesion de Abraham por Sodoma?",
+    "options": [
+      "Confianza en la justicia de Dios y preocupación por los justos",
+      "Indiferencia hacia los pecadores",
+      "Desconocimiento total de Dios",
+      "Deseo de gobernar Sodoma"
+    ],
+    "answer": "Confianza en la justicia de Dios y preocupación por los justos",
+    "reference": "Génesis 18:22-33"
+  },
+  {
+    "context": "El carnero aparece cuando Abraham ya ha mostrado obediencia y Dios detiene el sacrificio de Isaac.",
+    "explanation": "El pasaje muestra provisión sustituta y fidelidad de Dios. Isaac vive porque Dios provee otro sacrificio.",
+    "id": 71,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué verdad se ve cuando Dios provee un carnero en lugar de Isaac?",
+    "options": [
+      "Dios provee sustituto y confirma su fidelidad",
+      "Abraham no necesitaba obedecer",
+      "Isaac quedo fuera del pacto",
+      "Moriah dejo de ser importante"
+    ],
+    "answer": "Dios provee sustituto y confirma su fidelidad",
+    "reference": "Génesis 22:13-18"
+  },
+  {
+    "context": "La petición de José sobre sus huesos aparece justo al cierre de Génesis.",
+    "explanation": "Expresa fe en que Dios cumplirá su promesa de llevar a Israel a la tierra prometida.",
+    "id": 77,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué expresa la peticion de José sobre sus huesos?",
+    "options": [
+      "Fe en que Dios cumplira su promesa de sacar a Israel de Egipto",
+      "Temor a sus hermanos",
+      "Rechazo de la tierra prometida",
+      "Deseo de olvidar a su familia"
+    ],
+    "answer": "Fe en que Dios cumplira su promesa de sacar a Israel de Egipto",
+    "reference": "Génesis 50:24-26"
+  },
+  {
+    "context": "La imagen de Dios aparece junto con la bendición y el mandato de gobernar la tierra.",
+    "explanation": "La idea apunta a dignidad, vocacion y responsabilidad ante Dios, no a igualdad con Dios.",
+    "id": 83,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué significa que el ser humano fue creado a imagen de Dios?",
+    "options": [
+      "Qué es llamado a representar a Dios en la creación",
+      "Qué es identico a Dios",
+      "Qué no tiene responsabilidad moral",
+      "Qué fue creado antes de la luz"
+    ],
+    "answer": "Qué es llamado a representar a Dios en la creación",
+    "reference": "Génesis 1:26-28"
+  },
+  {
+    "context": "Dios expulsa al ser humano de Edén, pero antes cubre su desnudez.",
+    "explanation": "El acto no elimina las consecuencias, pero muestra provisión divina para los culpables.",
+    "id": 88,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué muestra Dios al hacer túnicas de pieles para Adán y Eva?",
+    "options": [
+      "Qué ignoro el pecado",
+      "Qué ya no habria consecuencias",
+      "Juicio y misericordía en medio de la caída",
+      "Qué Edén sería destruido"
+    ],
+    "answer": "Juicio y misericordía en medio de la caída",
+    "reference": "Génesis 3:21"
+  },
+  {
+    "context": "Dios confronta a Caín por su enojo antes de que actúe violentamente.",
+    "explanation": "La advertencia muestra responsabilidad moral y la necesidad de resistir el pecado.",
+    "id": 90,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "fácil",
+    "prompt": "Qué advertencia recibe Caín antes de matar a Abel?",
+    "options": [
+      "Qué debe huir a Egipto",
+      "Qué el pecado esta a la puerta y debe dominarlo",
+      "Qué construya un arca",
+      "Qué cambie su nombre"
+    ],
+    "answer": "Qué el pecado esta a la puerta y debe dominarlo",
+    "reference": "Génesis 4:6-7"
+  },
+  {
+    "context": "La promesa sigue al altar que Noé construyó al salir del arca.",
+    "explanation": "Dios sostiene el orden de la creación aun reconociendo la inclinación pecaminósa humana.",
+    "id": 100,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué promete Dios después del sacrificio de Noé?",
+    "options": [
+      "No volver a maldecir la tierra por causa del hombre de esa manera",
+      "No volver a hablar a nadie",
+      "Quitar todas las estaciones",
+      "Destruir inmediatamente a Canaan"
+    ],
+    "answer": "No volver a maldecir la tierra por causa del hombre de esa manera",
+    "reference": "Génesis 8:21-22"
+  },
+  {
+    "context": "Los hombres querían evitar ser esparcidos sobre la tierra.",
+    "explanation": "Babel representa una humanidad unida por ambición y seguridad propia en vez de obediencia.",
+    "id": 103,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué problema principal expresa la frase 'hagámonos un nombre' en Babel?",
+    "options": [
+      "Orgullo humano y autonomía contra el mandato de Dios",
+      "Deseo humilde de obedecer",
+      "Necesidad de construir casas",
+      "Falta de materiales"
+    ],
+    "answer": "Orgullo humano y autonomía contra el mandato de Dios",
+    "reference": "Génesis 11:4"
+  },
+  {
+    "context": "Melquisedec aparece después de la victoria de Abram.",
+    "explanation": "La bendición atribuye la victoria a Dios Altísimo, no a la fuerza de Abram.",
+    "id": 110,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué confiesa Melquisedec sobre Dios al bendecir a Abram?",
+    "options": [
+      "Que Dios es creador de cielos y tierra y entregó los enemigos",
+      "Que Dios abandonó a Abram",
+      "Que Egipto salvó a Abram",
+      "Que Babel sería eterna"
+    ],
+    "answer": "Que Dios es creador de cielos y tierra y entregó los enemigos",
+    "reference": "Génesis 14:19-20"
+  },
+  {
+    "context": "Dios habla a Jacob cuando este teme descender a Egipto con toda su familia.",
+    "explanation": "Dios promete ir con Jacob y volver a traer a su descendencia. La presencia divina sostiene la promesa incluso en Egipto.",
+    "id": 137,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué enseña la promesa de Dios a Jacob en Génesis 46 antes de bajar a Egipto?",
+    "options": [
+      "Que Dios acompaña a su pueblo aun fuera de la tierra prometida",
+      "Que Egipto reemplaza definitivamente a Canaán",
+      "Que Jacob debía olvidar a José",
+      "Que el pacto con Abraham había terminado"
+    ],
+    "answer": "Que Dios acompaña a su pueblo aun fuera de la tierra prometida",
+    "reference": "Génesis 46:2-4"
+  },
+  {
+    "context": "Dios habla a Isaac en medio de hambre, conflictos y peregrinaje.",
+    "explanation": "La promesa a Isaac confirma que el pacto hecho con Abraham continúa por fidelidad de Dios.",
+    "id": 152,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué enseña la repetición de la promesa a Isaac en Génesis 26?",
+    "options": [
+      "Que Dios mantiene su pacto de generación en generación",
+      "Que Isaac debía abandonar la promesa",
+      "Que Gerar reemplazó a Canaán",
+      "Que Esaú sería el mediador del pacto"
+    ],
+    "answer": "Que Dios mantiene su pacto de generación en generación",
+    "reference": "Génesis 26:2-5, 24"
+  },
+  {
+    "context": "Después de años de tensión, Jacob y Labán hacen un pacto y levantan un testimonio visible.",
+    "explanation": "El pacto marca un límite al conflicto familiar. Dios protege a Jacob y conduce su regreso a la tierra prometida.",
+    "id": 160,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué muestra el pacto entre Jacob y Labán en Génesis 31?",
+    "options": [
+      "Que Dios puede poner límite al conflicto humano",
+      "Que Jacob nunca debía volver a Canaán",
+      "Que Labán recibió la primogenitura",
+      "Que Bet-el dejó de ser importante"
+    ],
+    "answer": "Que Dios puede poner límite al conflicto humano",
+    "reference": "Génesis 31:43-55"
+  },
+  {
+    "context": "José no se revela de inmediato, sino que crea situaciones que exponen el corazón de sus hermanos.",
+    "explanation": "Las pruebas muestran si los hermanos siguen dispuestos a sacrificar al menor o si han cambiado.",
+    "id": 163,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué tema se ve en la forma en que José prueba a sus hermanos?",
+    "options": [
+      "Arrepentimiento y transformación del carácter",
+      "Rechazo total de la familia",
+      "Negación de la providencia",
+      "Superioridad moral de Egipto"
+    ],
+    "answer": "Arrepentimiento y transformación del carácter",
+    "reference": "Génesis 42-44"
+  },
+  {
+    "context": "El capítulo muestra un agravio real contra Dina y una respuesta extrema de Simeón y Leví.",
+    "explanation": "El texto obliga a distinguir entre la gravedad del pecado cometido contra Dina y la violencia engañosa de sus hermanos.",
+    "id": 168,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué tensión moral aparece en Génesis 34?",
+    "options": [
+      "La búsqueda de justicia mezclada con violencia desmedida",
+      "La obediencia perfecta de todos los personajes",
+      "La ausencia total de pecado",
+      "La aprobación divina de la venganza sin límites"
+    ],
+    "answer": "La búsqueda de justicia mezclada con violencia desmedida",
+    "reference": "Génesis 34"
+  },
+  {
+    "context": "José no dice que sus hermanos actuaron bien, pero ve la mano de Dios preservando vida.",
+    "explanation": "La reconciliación incluye verdad, dolor, perdón y confianza en que Dios obró por encima del mal humano.",
+    "id": 172,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué enseña la reconciliación de José con sus hermanos?",
+    "options": [
+      "Que el perdón puede reconocer el mal sin negar la providencia de Dios",
+      "Que el pecado nunca debe nombrarse",
+      "Que José olvidó la promesa",
+      "Que la familia de Jacob quedó fuera del pacto"
+    ],
+    "answer": "Que el perdón puede reconocer el mal sin negar la providencia de Dios",
+    "reference": "Génesis 45:4-8; 50:20"
+  },
+  {
+    "context": "El libro termina con José muerto en Egipto, pero con una promesa pendiente hacia la tierra.",
+    "explanation": "El final mira hacia adelante. Dios visitaría a su pueblo y lo llevaría a la tierra prometida.",
+    "id": 178,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué muestra Génesis al terminar con José en un ataúd en Egipto?",
+    "options": [
+      "Que la promesa sigue esperando cumplimiento más allá de Génesis",
+      "Que Egipto anuló el pacto",
+      "Que José dejó de creer",
+      "Que Canaán ya no importaba"
+    ],
+    "answer": "Que la promesa sigue esperando cumplimiento más allá de Génesis",
+    "reference": "Génesis 50:24-26"
+  },
+  {
+    "context": "Dios forma al hombre del polvo y sopla en su nariz aliento de vida.",
+    "explanation": "El ser humano es criatura formada por Dios y vivificada por Dios. La vida no aparece como posesión autónoma.",
+    "id": 185,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña Génesis 2:7 sobre la vida humana?",
+    "options": [
+      "Que la vida viene de Dios",
+      "Que el hombre se creó a sí mismo",
+      "Que la tierra es mala",
+      "Que Adán no era criatura"
+    ],
+    "answer": "Que la vida viene de Dios",
+    "reference": "Génesis 2:7"
+  },
+  {
+    "context": "Después de los seis días de creación, Dios bendice y santifica el séptimo día.",
+    "explanation": "El descanso señala culminación, no debilidad. Dios concluye su obra y establece un patrón de orden y bendición.",
+    "id": 186,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "fácil",
+    "prompt": "Qué muestra el descanso de Dios en el séptimo día?",
+    "options": [
+      "Que la creación fue completada y ordenada",
+      "Que Dios se cansó como una criatura",
+      "Que faltaba crear la luz",
+      "Que el pecado ya había vencido"
+    ],
+    "answer": "Que la creación fue completada y ordenada",
+    "reference": "Génesis 2:1-3"
+  },
+  {
+    "context": "El texto comenta la unión del hombre y la mujer después de la creación de Eva.",
+    "explanation": "Génesis presenta el matrimonio como una unión profunda y pública: dejar, unirse y ser una sola carne.",
+    "id": 190,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué enseña Génesis 2:24 sobre el matrimonio?",
+    "options": [
+      "Que implica dejar, unirse y formar una sola carne",
+      "Que no tiene pacto ni compromiso",
+      "Que depende de Babel",
+      "Que fue inventado por Labán"
+    ],
+    "answer": "Que implica dejar, unirse y formar una sola carne",
+    "reference": "Génesis 2:24"
+  },
+  {
+    "context": "La tentación empieza con una pregunta que exagera y altera lo que Dios había mandado.",
+    "explanation": "La serpiente siembra desconfianza, niega la consecuencia del pecado y presenta la desobediencia como ganancia.",
+    "id": 192,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué estrategia usa la serpiente en Génesis 3?",
+    "options": [
+      "Cuestionar y distorsionar la palabra de Dios",
+      "Confirmar fielmente el mandato",
+      "Llamar a Adán al arrepentimiento",
+      "Construir una ciudad"
+    ],
+    "answer": "Cuestionar y distorsionar la palabra de Dios",
+    "reference": "Génesis 3:1-5"
+  },
+  {
+    "context": "Dios busca al hombre escondido, no porque carezca de información, sino para confrontarlo.",
+    "explanation": "La pregunta llama al ser humano a dar cuenta de su estado ante Dios.",
+    "id": 195,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "media",
+    "prompt": "Qué muestra la pregunta de Dios '¿Dónde estás tú?'",
+    "options": [
+      "Que Dios confronta al pecador y lo llama a responder",
+      "Que Dios ignoraba todo lo ocurrido",
+      "Que la serpiente tenía razón",
+      "Que no habría consecuencias"
+    ],
+    "answer": "Que Dios confronta al pecador y lo llama a responder",
+    "reference": "Génesis 3:9-13"
+  },
+  {
+    "context": "Dios expulsa al hombre y guarda el camino al árbol de la vida.",
+    "explanation": "La expulsión muestra que el pecado afecta la relación con Dios, con la creación y con la vida misma.",
+    "id": 200,
+    "category": "teología",
+    "type": "interpretación",
+    "difficulty": "difícil",
+    "prompt": "Qué enseña la expulsión de Edén sobre el pecado?",
+    "options": [
+      "Que el pecado rompe la comunión y trae exilio de la presencia del huerto",
+      "Que desobedecer no tiene consecuencias",
+      "Que Adán ganó autonomía plena",
+      "Que la serpiente fue bendecida"
+    ],
+    "answer": "Que el pecado rompe la comunión y trae exilio de la presencia del huerto",
+    "reference": "Génesis 3:22-24"
+  },
+  {
+    "context": "Dios establece una señal visible después del juicio por agua.",
+    "explanation": "El arco iris apunta a la fidelidad de Dios a su promesa, no a mérito humano.",
+    "id": 281,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña el arco iris después del diluvio?",
+    "options": [
+      "Que Dios recuerda su pacto",
+      "Que Noé inventó la adoración",
+      "Que el pecado desapareció",
+      "Que Babel fue perdonada"
+    ],
+    "answer": "Que Dios recuerda su pacto",
+    "reference": "Génesis 9:12-17"
+  },
+  {
+    "context": "Abram sale obedeciendo una palabra de Dios antes de ver el cumplimiento.",
+    "explanation": "La historia comienza con llamado y promesa, no con posesión inmediata.",
+    "id": 282,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña que Dios llamara a Abram sin que este poseyera la tierra?",
+    "options": [
+      "Que la promesa se recibe por fe",
+      "Que la tierra no importaba",
+      "Que Abram ya era rey",
+      "Que Babel cumplió el pacto"
+    ],
+    "answer": "Que la promesa se recibe por fe",
+    "reference": "Génesis 12:1-7"
+  },
+  {
+    "context": "José está preso por una acusación falsa.",
+    "explanation": "Dios está con José aun en descenso e injusticia.",
+    "id": 283,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué muestra que Dios estuviera con José en la cárcel?",
+    "options": [
+      "Que la presencia de Dios no depende de circunstancias favorables",
+      "Que José no sufrió injusticia",
+      "Que Egipto era santo",
+      "Que sus hermanos no pecaron"
+    ],
+    "answer": "Que la presencia de Dios no depende de circunstancias favorables",
+    "reference": "Génesis 39:21-23"
+  },
+  {
+    "context": "Dios detiene a Abraham y provee un sacrificio.",
+    "explanation": "El carnero muestra provisión y fidelidad de Dios en la prueba.",
+    "id": 284,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña la provisión del carnero en lugar de Isaac?",
+    "options": [
+      "Que Dios provee lo necesario para preservar su promesa",
+      "Que Isaac dejó de ser hijo de Abraham",
+      "Que Moriah fue abandonado",
+      "Que Abraham no obedeció"
+    ],
+    "answer": "Que Dios provee lo necesario para preservar su promesa",
+    "reference": "Génesis 22:13-14"
+  },
+  {
+    "context": "Jacob prepara a su casa para volver al lugar donde Dios se le apareció.",
+    "explanation": "La purificación familiar muestra que la adoración no es solo ubicación, sino fidelidad.",
+    "id": 285,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué muestra el llamado de Jacob a quitar dioses ajenos antes de subir a Bet-el?",
+    "options": [
+      "Que la adoración exige fidelidad a Dios",
+      "Que los ídolos fortalecían el pacto",
+      "Que Bet-el era irrelevante",
+      "Que Labán debía gobernar Canaán"
+    ],
+    "answer": "Que la adoración exige fidelidad a Dios",
+    "reference": "Génesis 35:2-3"
+  },
+  {
+    "context": "José reconoce tanto el mal de sus hermanos como la intención salvadora de Dios.",
+    "explanation": "El texto mantiene juntas responsabilidad humana y providencia divina.",
+    "id": 286,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña el perdón de José a sus hermanos?",
+    "options": [
+      "Que Dios puede obrar bien sin llamar bueno al pecado",
+      "Que vender a José fue justo",
+      "Que Jacob no sufrió",
+      "Que Egipto reemplazó a Dios"
+    ],
+    "answer": "Que Dios puede obrar bien sin llamar bueno al pecado",
+    "reference": "Génesis 50:20"
+  },
+  {
+    "context": "Sara es llevada a casa de Abimelec antes del nacimiento de Isaac.",
+    "explanation": "Dios interviene para proteger a Sara y la promesa.",
+    "id": 287,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué muestra el hecho de que Dios protegiera a Sara en Gerar?",
+    "options": [
+      "Que Dios preserva la línea de la promesa",
+      "Que Abraham nunca tuvo miedo",
+      "Que Abimelec conocía todo",
+      "Que Isaac ya no nacería"
+    ],
+    "answer": "Que Dios preserva la línea de la promesa",
+    "reference": "Génesis 20:3-7"
+  },
+  {
+    "context": "José muere en Egipto esperando una visita futura de Dios.",
+    "explanation": "El final mira hacia el cumplimiento posterior de la promesa a los patriarcas.",
+    "id": 288,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña el final de Génesis sobre las promesas de Dios?",
+    "options": [
+      "Que siguen avanzando aunque aún no estén completas",
+      "Que terminaron en Egipto",
+      "Que José dejó de creer",
+      "Que Canaán fue olvidada"
+    ],
+    "answer": "Que siguen avanzando aunque aún no estén completas",
+    "reference": "Génesis 50:24-26"
+  },
+  {
+    "context": "La frase aparece en casa de Potifar y en la cárcel.",
+    "explanation": "La presencia de Dios explica la fidelidad y avance de José aun bajo injusticia.",
+    "id": 289,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué revela la frase 'Jehová estaba con José'?",
+    "options": [
+      "Que Dios sostiene a José en prosperidad y sufrimiento",
+      "Que José no necesitaba obedecer",
+      "Que Potifar era profeta",
+      "Que Egipto no tenía pecado"
+    ],
+    "answer": "Que Dios sostiene a José en prosperidad y sufrimiento",
+    "reference": "Génesis 39:2, 21"
+  },
+  {
+    "context": "Dios reafirma a Isaac promesas dadas a Abraham.",
+    "explanation": "La bendición muestra continuidad generacional del pacto.",
+    "id": 290,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña que Dios bendijera a Isaac por amor a Abraham?",
+    "options": [
+      "Que el pacto continúa por fidelidad divina",
+      "Que Isaac era independiente del pacto",
+      "Que Esaú debía venderlo todo",
+      "Que Gerar anuló la promesa"
+    ],
+    "answer": "Que el pacto continúa por fidelidad divina",
+    "reference": "Génesis 26:3-5"
+  },
+  {
+    "context": "Abraham compra una sepultura en Canaán para Sara.",
+    "explanation": "La compra expresa fe en la promesa de tierra, aunque Abraham viva como extranjero.",
+    "id": 291,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué muestra la compra de Macpela?",
+    "options": [
+      "Esperanza concreta en la tierra prometida",
+      "Renuncia de Abraham a Canaán",
+      "Victoria de Babel",
+      "Desinterés por Sara"
+    ],
+    "answer": "Esperanza concreta en la tierra prometida",
+    "reference": "Génesis 23"
+  },
+  {
+    "context": "Isaac nace después de años de espera.",
+    "explanation": "El nacimiento muestra poder y fidelidad de Dios por encima de la imposibilidad humana.",
+    "id": 292,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña el nacimiento de Isaac en la vejez de Abraham y Sara?",
+    "options": [
+      "Que Dios cumple lo que promete",
+      "Que Sara era joven",
+      "Que Abraham controlaba el tiempo",
+      "Que Ismael no existió"
+    ],
+    "answer": "Que Dios cumple lo que promete",
+    "reference": "Génesis 21:1-7"
+  },
+  {
+    "context": "Jacob huye, pero Dios se le aparece y reafirma el pacto.",
+    "explanation": "El sueño muestra que Dios acompaña y promete guardar a Jacob.",
+    "id": 293,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué muestra la escalera del sueño de Jacob?",
+    "options": [
+      "La presencia y promesa de Dios en el camino de Jacob",
+      "La independencia de Jacob respecto a Dios",
+      "La caída de José",
+      "La destrucción de Egipto"
+    ],
+    "answer": "La presencia y promesa de Dios en el camino de Jacob",
+    "reference": "Génesis 28:10-17"
+  },
+  {
+    "context": "La administración de José sostiene a Egipto y a la familia de Jacob.",
+    "explanation": "Dios usa circunstancias políticas y económicas para preservar la línea de la promesa.",
+    "id": 294,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña que Dios diera alimento por medio de José?",
+    "options": [
+      "Que Dios preserva vida mediante medios históricos",
+      "Que el hambre fue imaginaria",
+      "Que Faraón hizo el pacto",
+      "Que Jacob dejó de ser Israel"
+    ],
+    "answer": "Que Dios preserva vida mediante medios históricos",
+    "reference": "Génesis 41-47"
+  },
+  {
+    "context": "Abraham conversa con Dios antes del juicio.",
+    "explanation": "La intercesión nace de confianza en la justicia de Dios.",
+    "id": 295,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué muestra la intercesión de Abraham por Sodoma?",
+    "options": [
+      "Que el justo puede apelar al carácter de Dios",
+      "Que Abraham aprobaba la maldad",
+      "Que Lot gobernaba Sodoma",
+      "Que Dios no juzga"
+    ],
+    "answer": "Que el justo puede apelar al carácter de Dios",
+    "reference": "Génesis 18:22-33"
+  },
+  {
+    "context": "Dios confronta a Caín antes de que peque contra Abel.",
+    "explanation": "La advertencia muestra responsabilidad moral frente al deseo pecaminoso.",
+    "id": 296,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "fácil",
+    "prompt": "Qué enseña la advertencia a Caín antes de matar a Abel?",
+    "options": [
+      "Que el pecado debe ser resistido",
+      "Que Caín no era responsable",
+      "Que Abel provocó el juicio",
+      "Que Dios no habló"
+    ],
+    "answer": "Que el pecado debe ser resistido",
+    "reference": "Génesis 4:6-7"
+  },
+  {
+    "context": "Jacob recibe la bendición en un contexto familiar marcado por favoritismo y engaño.",
+    "explanation": "La narración muestra providencia sin justificar moralmente los medios usados.",
+    "id": 297,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Cuál lectura describe mejor la tensión entre promesa y engaño en Jacob?",
+    "options": [
+      "Dios cumple su propósito sin aprobar el engaño humano",
+      "El engaño se vuelve virtud porque logra la bendición",
+      "La promesa fracasa por completo",
+      "Isaac pierde todo lugar en la historia"
+    ],
+    "answer": "Dios cumple su propósito sin aprobar el engaño humano",
+    "reference": "Génesis 27-28"
+  },
+  {
+    "context": "Abram pregunta por descendencia y herencia.",
+    "explanation": "El pacto responde a la espera con una garantía solemne de Dios.",
+    "id": 298,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué interpretación es más fiel al pacto de Génesis 15?",
+    "options": [
+      "Dios se compromete con su promesa aun cuando Abram espera sin ver todo cumplido",
+      "Abram compra la promesa con animales",
+      "El pacto elimina toda espera",
+      "La tierra deja de ser parte de la promesa"
+    ],
+    "answer": "Dios se compromete con su promesa aun cuando Abram espera sin ver todo cumplido",
+    "reference": "Génesis 15"
+  },
+  {
+    "context": "José recrea una situación de pérdida alrededor del hermano menor.",
+    "explanation": "La prueba revela el cambio de Judá y sus hermanos.",
+    "id": 299,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué muestra la prueba de José con la copa en el saco de Benjamín?",
+    "options": [
+      "Si los hermanos sacrificarán otra vez al hijo amado o lo protegerán",
+      "Que José busca robar a su familia",
+      "Que Benjamín era culpable",
+      "Que Jacob debía quedarse sin hijos"
+    ],
+    "answer": "Si los hermanos sacrificarán otra vez al hijo amado o lo protegerán",
+    "reference": "Génesis 44"
+  },
+  {
+    "context": "Jacob sobre Esaú y Efraín sobre Manasés muestran un patrón repetido.",
+    "explanation": "La elección divina no se reduce a costumbre social ni orden de nacimiento.",
+    "id": 300,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué enseña Génesis sobre la bendición que no sigue siempre al primogénito?",
+    "options": [
+      "Que Dios actúa libremente según su propósito",
+      "Que el primogénito siempre queda maldito",
+      "Que la familia no importa",
+      "Que la bendición depende del azar"
+    ],
+    "answer": "Que Dios actúa libremente según su propósito",
+    "reference": "Génesis 25; 48"
+  },
+  {
+    "context": "José habla después de una historia de traición, esclavitud y preservación.",
+    "explanation": "El texto sostiene simultáneamente mal humano y propósito divino.",
+    "id": 301,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué interpretación evita simplificar Génesis 50:20?",
+    "options": [
+      "Dios encaminó a bien sin borrar la culpa de los hermanos",
+      "Los hermanos no pecaron realmente",
+      "José negó su sufrimiento",
+      "El bien hace innecesario el perdón"
+    ],
+    "answer": "Dios encaminó a bien sin borrar la culpa de los hermanos",
+    "reference": "Génesis 50:20"
+  },
+  {
+    "context": "Después de la caída hay sentencia, expulsión y una promesa de victoria futura.",
+    "explanation": "Génesis combina gravedad del pecado con esperanza iniciada por Dios.",
+    "id": 302,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "media",
+    "prompt": "Qué enseña la expulsión del Edén junto con la promesa de Génesis 3:15?",
+    "options": [
+      "Juicio real y esperanza futura aparecen juntos",
+      "El pecado no tuvo consecuencias",
+      "La serpiente recibió la promesa",
+      "Adán volvió inmediatamente al árbol de la vida"
+    ],
+    "answer": "Juicio real y esperanza futura aparecen juntos",
+    "reference": "Génesis 3:15, 22-24"
+  },
+  {
+    "context": "Abraham sube con Isaac sin tener el sacrificio visible.",
+    "explanation": "La frase expresa fe en Dios, no conocimiento detallado de cómo se resolvería la prueba.",
+    "id": 303,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cuál opción interpreta mejor la respuesta de Abraham 'Dios se proveerá'?",
+    "options": [
+      "Confianza obediente sin conocer aún el modo concreto de la provisión",
+      "Cálculo de que Isaac no importaba",
+      "Negación de la prueba",
+      "Seguridad de que Abraham controlaba el resultado"
+    ],
+    "answer": "Confianza obediente sin conocer aún el modo concreto de la provisión",
+    "reference": "Génesis 22:7-14"
+  },
+  {
+    "context": "Babel precede inmediatamente al llamado de Abram.",
+    "explanation": "El contraste muestra que el nombre verdadero viene como don de Dios, no como autoexaltación.",
+    "id": 304,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué lectura de Babel se ajusta mejor al contraste con el llamado de Abram?",
+    "options": [
+      "La humanidad busca hacerse nombre; Dios promete engrandecer el nombre de Abram",
+      "Babel y Abram siguen exactamente el mismo proyecto",
+      "Abram construye una torre más alta",
+      "Dios rechaza toda ciudad por definición"
+    ],
+    "answer": "La humanidad busca hacerse nombre; Dios promete engrandecer el nombre de Abram",
+    "reference": "Génesis 11:4; 12:2"
+  },
+  {
+    "context": "José interpreta su sufrimiento desde la preservación de vida.",
+    "explanation": "La providencia bíblica no borra responsabilidad; la incorpora bajo el propósito de Dios.",
+    "id": 305,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Cuál respuesta distingue mejor providencia y fatalismo en la historia de José?",
+    "options": [
+      "Dios gobierna la historia sin convertir a los hermanos en inocentes",
+      "Todo acto malo deja de ser malo si produce buen resultado",
+      "José niega la libertad humana",
+      "La historia depende solo de Faraón"
+    ],
+    "answer": "Dios gobierna la historia sin convertir a los hermanos en inocentes",
+    "reference": "Génesis 45:5-8; 50:20"
+  },
+  {
+    "context": "Judá aparece en episodios de culpa, reconocimiento y sustitución por Benjamín.",
+    "explanation": "La narrativa permite ver cambio moral a lo largo de la historia.",
+    "id": 306,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué lectura es más cuidadosa sobre Judá en Génesis 38 y 44?",
+    "options": [
+      "Génesis muestra una transformación progresiva, no un carácter plano",
+      "Judá siempre actúa igual",
+      "Judá nunca falla",
+      "Judá queda fuera de la familia"
+    ],
+    "answer": "Génesis muestra una transformación progresiva, no un carácter plano",
+    "reference": "Génesis 38; 44"
+  },
+  {
+    "context": "Jacob baja a Egipto con promesa de Dios, y José muere esperando el regreso futuro.",
+    "explanation": "Génesis termina con promesa pendiente, preparando la continuidad bíblica.",
+    "id": 307,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué tensión teológica aparece en la permanencia de Israel en Egipto al final de Génesis?",
+    "options": [
+      "La promesa de tierra sigue vigente aunque la familia esté fuera de Canaán",
+      "Egipto reemplaza la tierra prometida",
+      "José cancela el pacto",
+      "Jacob renuncia a Macpela"
+    ],
+    "answer": "La promesa de tierra sigue vigente aunque la familia esté fuera de Canaán",
+    "reference": "Génesis 46:3-4; 50:24-25"
+  },
+  {
+    "context": "Dios da la circuncisión después de prometer descendencia y cambiar nombres.",
+    "explanation": "La señal identifica pertenencia al pacto y demanda respuesta dentro de la promesa divina.",
+    "id": 308,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué interpretación de la circuncisión en Génesis 17 es más precisa?",
+    "options": [
+      "Es señal del pacto, no sustituto de la promesa ni simple marca étnica aislada",
+      "Compra la promesa por mérito humano",
+      "Reemplaza toda fe",
+      "Solo funciona como costumbre médica"
+    ],
+    "answer": "Es señal del pacto, no sustituto de la promesa ni simple marca étnica aislada",
+    "reference": "Génesis 17:9-14"
+  },
+  {
+    "context": "La historia incluye pecado contra Dina y respuesta violenta de sus hermanos.",
+    "explanation": "Una lectura cuidadosa no minimiza el agravio ni justifica la masacre.",
+    "id": 309,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué lectura de Génesis 34 evita extremos?",
+    "options": [
+      "Reconoce el agravio contra Dina y también critica la violencia engañosa de Simeón y Leví",
+      "Aprueba toda venganza si hay daño real",
+      "Niega la gravedad contra Dina",
+      "Presenta a Jacob como indiferente sin tensión"
+    ],
+    "answer": "Reconoce el agravio contra Dina y también critica la violencia engañosa de Simeón y Leví",
+    "reference": "Génesis 34; 49:5-7"
+  },
+  {
+    "context": "Los patriarcas levantan altares en momentos clave.",
+    "explanation": "Los altares marcan memoria y adoración, no manipulación de Dios.",
+    "id": 310,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué muestra el motivo de altar repetido en Abraham, Isaac y Jacob?",
+    "options": [
+      "Respuesta de adoración ante promesa, presencia y preservación de Dios",
+      "Intento de controlar a Dios mediante ritual",
+      "Rechazo de la tierra prometida",
+      "Adoración idéntica a Babel"
+    ],
+    "answer": "Respuesta de adoración ante promesa, presencia y preservación de Dios",
+    "reference": "Génesis 12:7-8; 26:25; 35:7"
+  },
+  {
+    "context": "Jacob bendice a los hijos de José como parte de su propia casa.",
+    "explanation": "La escena explica la herencia tribal y repite el patrón de preferencia del menor.",
+    "id": 311,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué opción interpreta mejor la adopción de Efraín y Manasés por Jacob?",
+    "options": [
+      "Integra a los hijos de José en la herencia de Israel con prioridad teológica inesperada",
+      "Excluye a José de la familia",
+      "Cancela la bendición de Judá",
+      "Convierte a Egipto en tierra prometida"
+    ],
+    "answer": "Integra a los hijos de José en la herencia de Israel con prioridad teológica inesperada",
+    "reference": "Génesis 48"
+  },
+  {
+    "context": "El texto comenta la unión del hombre y la mujer en el marco de la creación.",
+    "explanation": "Dejar, unirse y ser una sola carne expresan un pacto relacional profundo.",
+    "id": 312,
+    "category": "teología",
+    "type": "opción",
+    "difficulty": "difícil",
+    "prompt": "Qué lectura de Génesis 2:24 es más completa?",
+    "options": [
+      "Une diseño creacional, vínculo público y comunión corporal",
+      "Reduce el matrimonio a emoción privada",
+      "Lo presenta como invento de Jacob",
+      "Lo limita al conflicto de Labán"
+    ],
+    "answer": "Une diseño creacional, vínculo público y comunión corporal",
+    "reference": "Génesis 2:24"
+  }
+]

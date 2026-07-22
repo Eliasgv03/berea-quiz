@@ -86,7 +86,17 @@ After the build finishes, open the EAS build URL and download the APK artifact.
 
 ## Web Version
 
-A full web version is planned. The current Next.js app is a prototype that will continue evolving alongside the mobile experience.
+The web version is built with Next.js and is ready to deploy as a standalone app. It uses an internal API route at `/api/questions`, so it does not require a separate Python backend for deployment.
+
+Recommended free hosting:
+
+- Vercel Hobby plan
+- GitHub repository import
+- Root directory: `frontend`
+- Build command: `npm run build`
+- Install command: `npm install`
+
+Run locally:
 
 ```powershell
 cd frontend
@@ -94,7 +104,7 @@ npm install
 npm run dev
 ```
 
-The web prototype runs at `http://localhost:3000`.
+The web app runs at `http://localhost:3000`.
 
 ## Backend Prototype
 
